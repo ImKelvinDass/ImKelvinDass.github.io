@@ -9,6 +9,6 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Description: Jailbreak Detection Bypass
 Installed-Size: 72
 Filename: debs/MaeBypass.deb
-Size: 2464
-MD5sum: 713629feb0487f5592a01d6fbe78e229
-SHA256: 9dbf6039d22beed536ed2fd324e67740d7a82eddd5b6c591a1ae6ccbd508066f
+Size: 2376
+MD5sum: 1e69e75c8c23180e9bbec1296cd85919
+SHA256: d03be7600d502740d9753e1fa2545c26020967fa7fc83c9780125173faf10a51

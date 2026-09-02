@@ -9,6 +9,6 @@
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/MaeBypass.deb",
-    "size": 2464
+    "size": 2376
   }
 ]
