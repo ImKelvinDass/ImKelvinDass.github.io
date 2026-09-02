@@ -5,6 +5,15 @@
     "zebra" : true
   },
   "packageDetails" : {
+    "com.atria.ios17" : {
+      "changelog" : "Tested and working",
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "iconColor" : "#ff6b2d",
+      "iconText" : "ATRIA",
+      "longDescription" : "",
+      "tagline" : "Working home Screen layout customization for iOS 17."
+    },
     "com.kelvin.maejbbypass" : {
       "changelog" : "Removed logs",
       "compatibility" : "IOS 17-26",
@@ -77,9 +86,9 @@
     "eyebrow" : "The home of Kelvin's tweaks",
     "flag" : "🇲🇾",
     "footer" : "Tweaks unleashed. Made in Malaysia by Kelvin.",
-    "headlineAccent" : "yours again.",
+    "headlineAccent" : "Yours",
     "headlineTop" : "Make your iPhone",
-    "intro" : "Original tweaks, thoughtful upgrades, and useful fixes—built with care and delivered straight to your package manager.",
+    "intro" : "JB Bypass detection, Modified tweaks and useful fixes",
     "packagesSubtitle" : "Everything available from Kelvin's repo.",
     "packagesTitle" : "All tweaks",
     "sectionOrder" : [
@@ -91,7 +100,7 @@
     "showFlag" : true,
     "trustBadges" : [
       "✓ Rootless ready",
-      "⬡ Direct downloads"
+      "⬡ IOS 17-26"
     ]
   }
 }

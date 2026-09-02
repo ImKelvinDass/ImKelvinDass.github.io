@@ -1,3 +1,142 @@
+Package: com.atria.ios17
+Name: ATRIA IOS 17
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Home Screen layout customization for iOS 17.
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Tweaks
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro, acreson.rootless.cj.atria, byg.iosios.net.atria.rootless, local.atria22.english
+Replaces: acreson.rootless.cj.atria, byg.iosios.net.atria.rootless
+SileoDepiction: https://imkelvindass.github.io/package.html?id=com.atria.ios17
+Depiction: https://imkelvindass.github.io/package.html?id=com.atria.ios17
+Filename: debs/AtriaIOS17_1.0_iphoneos-arm64.deb
+Size: 378094
+MD5sum: 31c49bb83fe9e3102de48aa75c6e15a5
+SHA256: 55f01a4394d50edb65783ef01338bfffdcf3c92e8a3af5a3c9838ba208b3293f
+
+Package: com.briorhr.jbbypass
+Name: BriorHR JB BYPASS
+Description: Jailbreak Detection Bypass
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+SileoDepiction: https://imkelvindass.github.io/package.html?id=com.briorhr.jbbypass
+Depiction: https://imkelvindass.github.io/package.html?id=com.briorhr.jbbypass
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 72
+Filename: debs/BriorHR_1.0_iphoneos-arm64.deb
+Size: 2488
+MD5sum: ededf62a1947ff59a32f0ba7516874ea
+SHA256: 524c133c19da5f98bd86ecc96b1b7edb7266bd11a69fb76801388e4284013ba7
+
+Package: com.cimb.jbbypass
+Name: CIMB JB BYPASS
+Description: Jailbreak Detection Bypass
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+SileoDepiction: https://imkelvindass.github.io/package.html?id=com.cimb.jbbypass
+Depiction: https://imkelvindass.github.io/package.html?id=com.cimb.jbbypass
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 72
+Filename: debs/CIMB_1.0_iphoneos-arm64.deb
+Size: 3968
+MD5sum: 730494b81945a8978e09fbf2867ee174
+SHA256: 83dacdd2c052e9c534b452f3cc099e488d968db6dae692ca3ac5c38f984241eb
+
+Package: com.celcomdigi.jbbypass
+Name: CelcomDigi JB BYPASS
+Description: Jailbreak Detection Bypass
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+SileoDepiction: https://imkelvindass.github.io/package.html?id=com.celcomdigi.jbbypass
+Depiction: https://imkelvindass.github.io/package.html?id=com.celcomdigi.jbbypass
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 168
+Filename: debs/CelcomDigi_1.0_iphoneos-arm64.deb
+Size: 3196
+MD5sum: a097af707981ff20a6d208d4d1eccc50
+SHA256: db2d89715443cae5541dd7d0344ed783fed5593fa81184fe39fa024d5ebd4129
+
+Package: com.complications.ios17
+Name: Complications IOS 17
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: watchOS-style complications for the iOS 17 Lock Screen.
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: byg.iosios.net.complications, com.icraze.complicationsfix
+Replaces: byg.iosios.net.complications, com.icraze.complicationsfix
+Provides: com.icraze.complicationsfix
+SileoDepiction: https://imkelvindass.github.io/package.html?id=com.complications.ios17
+Depiction: https://imkelvindass.github.io/package.html?id=com.complications.ios17
+Filename: debs/ComplicationsIOS17_1.0_iphoneos-arm64.deb
+Size: 644676
+MD5sum: 4754ddb2034757bb89ae2c67b3937b04
+SHA256: fa5263e5f4988d9d494f8cc3fb08f828b4aea5c07c8f421d922f7968e7be451a
+
+Package: com.mae.ccjbbypass
+Name: MAE CC + JB BYPASS
+Description: Jailbreak Detection Bypass
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate, com.opa334.ccsupport
+SileoDepiction: https://imkelvindass.github.io/package.html?id=com.mae.ccjbbypass
+Depiction: https://imkelvindass.github.io/package.html?id=com.mae.ccjbbypass
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 344
+Filename: debs/MAECCJB_1.0_iphoneos-arm64.deb
+Size: 16352
+MD5sum: af88166c6db1567825c33a8715b87201
+SHA256: 115174ff2bfa9a43bc29dc284e44339983e4d74f553c316cc88199e94e2e54dc
+
+Package: com.mae.jbbypass
+Name: MAE JB BYPASS
+Description: Jailbreak Detection Bypass
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+SileoDepiction: https://imkelvindass.github.io/package.html?id=com.mae.jbbypass
+Depiction: https://imkelvindass.github.io/package.html?id=com.mae.jbbypass
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 72
+Filename: debs/MAE_1.0_iphoneos-arm64.deb
+Size: 2338
+MD5sum: 51b718e49e626a64616943cfab2b96ee
+SHA256: 37b33c0d5be0b171eb4170aa84eeb5ffaaa33c9b60bc63883bc1a62457c83c00
+
+Package: com.mywe.jbbypass
+Name: MYWE JB BYPASS
+Description: Jailbreak Detection Bypass
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+SileoDepiction: https://imkelvindass.github.io/package.html?id=com.mywe.jbbypass
+Depiction: https://imkelvindass.github.io/package.html?id=com.mywe.jbbypass
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 72
+Filename: debs/MYWE_1.0_iphoneos-arm64.deb
+Size: 2822
+MD5sum: 635ec7776e249d5c34300b8971192831
+SHA256: ce13f60d9e11293dc7c9e60d9eab1ed8cfa4226a510a5b2509be1e938d8f4a26
+
 Package: com.kelvin.maejbbypass
 Name: MAEJB BYPASS
 Version: 1.0
@@ -12,3 +151,54 @@ Filename: debs/MaeBypass.deb
 Size: 2376
 MD5sum: 1e69e75c8c23180e9bbec1296cd85919
 SHA256: d03be7600d502740d9753e1fa2545c26020967fa7fc83c9780125173faf10a51
+
+Package: com.ptv.jbbypass
+Name: PTV JB BYPASS
+Description: Jailbreak Detection Bypass
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+SileoDepiction: https://imkelvindass.github.io/package.html?id=com.ptv.jbbypass
+Depiction: https://imkelvindass.github.io/package.html?id=com.ptv.jbbypass
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 168
+Filename: debs/PTV_1.0_iphoneos-arm64.deb
+Size: 5540
+MD5sum: 11027b73ccc1d916416b03ab3fff3bf0
+SHA256: 43a37f8fe3c4e1d868c3dfad371540621c872910fe4b8e30b89ca053eda4199d
+
+Package: com.tng.jbbypass
+Name: TNG JB BYPASS
+Description: Jailbreak Detection Bypass
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+SileoDepiction: https://imkelvindass.github.io/package.html?id=com.tng.jbbypass
+Depiction: https://imkelvindass.github.io/package.html?id=com.tng.jbbypass
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 72
+Filename: debs/TNG_1.0_iphoneos-arm64.deb
+Size: 3114
+MD5sum: d719bce48ce017b8ea158f55421a7f67
+SHA256: aef82d072412dbb3b0c5f9af52de1a283a58ab7d0ce7b3a024e81703934da016
+
+Package: com.whatsup.jbbypass
+Name: What's up JB BYPASS
+Description: Jailbreak Detection Bypass
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+SileoDepiction: https://imkelvindass.github.io/package.html?id=com.whatsup.jbbypass
+Depiction: https://imkelvindass.github.io/package.html?id=com.whatsup.jbbypass
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 56
+Filename: debs/WhatsUp_1.0_iphoneos-arm64.deb
+Size: 2396
+MD5sum: e33975467eb1a7ea7e2a9782735f3121
+SHA256: fb3588ab25cdafa418e7ca6c8b2b2df2dc78a8394d056888f37ee2d68f569ad0
