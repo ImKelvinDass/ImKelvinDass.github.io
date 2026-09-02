@@ -1,0 +1,201 @@
+Package: local.atria.english
+Version: 1.4.1-8+english6
+Section: Tweaks
+Maintainer: Local English rebuild
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro, acreson.rootless.cj.atria, byg.iosios.net.atria.rootless, local.atria22.english
+Replaces: acreson.rootless.cj.atria, byg.iosios.net.atria.rootless
+Architecture: iphoneos-arm64
+Installed-Size: 1008
+Name: Atria 1.4.1 English
+Author: ren7995
+Description: English-only rebuild of the Dopamine-compatible Atria 1.4.1-8 package. Fixes floating-dock compatibility while preserving independent preference control for all dock settings.
+Filename: debs/Atria.1.4.1-8.deb
+Size: 379534
+MD5sum: 66cce2118c8129d5c19d5b85b9aa7981
+SHA256: 8fd53fafbbcbc29d6b6ede16bca88eff126226a8dc39027618a52a3f3001df8a
+
+Package: com.kelvin.celcomdigiinspect
+Name: CelcomDigi Compatibility
+Description: Compatibility support for CelcomDigi on the configured device.
+Maintainer: kelvin
+Author: kelvin
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 168
+Filename: debs/com.kelvin.celcomdigiinspect_1.0.0_iphoneos-arm64.deb
+Size: 3162
+MD5sum: cea239fda5109ce377bd3cdd403d6f88
+SHA256: 1c75d72187ca70de24845f83314c5f4be3f3888decba97c0b7f5deb308f3792c
+
+Package: com.kelvin.maejbtest
+Name: MAEJBTest
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Kelvin
+Author: Kelvin
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Installed-Size: 72
+Filename: debs/com.kelvin.maejbtest_0.0.1_iphoneos-arm64.deb
+Size: 2296
+MD5sum: b1fc4850c69c48583dd9c1d6fc357a0a
+SHA256: 6d157954b96e7281568b9ca71a07822eee7557a26551895d73f74c768fb5f4ec
+
+Package: com.kelvin.maequickqr
+Name: MAE Quick QR
+Description: One expandable MAE Control Center module for Scan, Receive QR, and Pay QR.
+Maintainer: Kelvin
+Author: Kelvin
+Section: Tweaks
+Depends: mobilesubstrate, com.opa334.ccsupport
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 344
+Filename: debs/com.kelvin.maequickqr_1.0.0_iphoneos-arm64.deb
+Size: 16336
+MD5sum: 2ee3e7de8cc1a59aa08be2a46deb32be
+SHA256: 95c70c0ac5e728c82fab0621ce482a88eda2ed12e93c4f768f8f2e18b94a1f20
+
+Package: com.kelvin.ptvcompatibility
+Name: PTVCompatibility
+Description: Compatibility support for PTV on the configured device.
+Maintainer: kelvin
+Author: kelvin
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Installed-Size: 168
+Filename: debs/com.kelvin.ptvcompatibility_1.1.0_iphoneos-arm64.deb
+Size: 5504
+MD5sum: 21f0d0657dd8ae5aea2a5b84d32bd7b2
+SHA256: 85a9aeb9c65778517132c0c6c25c397905bf437c03f5eecc748e4a5766091e93
+
+Package: com.kelvin.tomanbypass
+Name: TOManBypass
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Kelvin
+Author: Kelvin
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Installed-Size: 72
+Filename: debs/com.kelvin.tomanbypass_0.0.3_iphoneos-arm64.deb
+Size: 2982
+MD5sum: b5fb466d9e6a927832df31bfc57e417b
+SHA256: 155020ad738552a71642eb30deddfb804b00405b6c601c83578a7c5efd20a1fd
+
+Package: com.kelvin.tryyourbestbypass
+Name: TryYourBestBypass
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Kelvin
+Author: Kelvin
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 72
+Filename: debs/com.kelvin.tryyourbestbypass_1.0_iphoneos-arm64.deb
+Size: 3082
+MD5sum: cb01d4a07acf400f839380e68891ecb1
+SHA256: a3a9a3f531eb0a33427b054c1e30662d3827221c44091c5670f2ad852ebbeadd
+
+Package: com.kelvin.whatsuphidejb
+Name: WHATSUPHIDEJB
+Description: Authorized jailbreak-detection test tweak for WhatsUp.
+Maintainer: Kelvin
+Author: Kelvin
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Installed-Size: 56
+Filename: debs/com.kelvin.whatsuphidejb_0.0.3_iphoneos-arm64.deb
+Size: 2354
+MD5sum: 2bd10e13bb455fce3db03ac8324426ef
+SHA256: 8a865ce9ec2db5ea04e5ef67171e3f14a4781e1fbaed59827fc75db21ffe7db2
+
+Package: com.kelvindass.cleanpicture
+Name: CleanPicture
+Description: Privacy camera replacement with single/multiple images, per-app scope, rotation, mirroring and enhanced camera-frame replacement.
+Maintainer: Kelvin Dass
+Author: Kelvin Dass
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Installed-Size: 1844
+Filename: debs/com.kelvindass.cleanpicture_1.1.0_iphoneos-arm64.deb
+Size: 1511428
+MD5sum: 9a02c0ef1009ef9ac482fcd890a323e5
+SHA256: 016d84187c2205e04f55784cec504d7f8a266947e2d626e5c3334219a62b0f5d
+
+Package: com.kelvindass.cleanpicture
+Name: CleanPicture
+Description: Camera picture replacement for iOS 17-18.5 with an injected floating selector, multiple images, app scope, editing and enhanced frame replacement.
+Maintainer: Kelvin Dass
+Author: Kelvin Dass
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 1.2.2
+Installed-Size: 1876
+Filename: debs/com.kelvindass.cleanpicture_1.2.2_iphoneos-arm64.deb
+Size: 1513250
+MD5sum: 14c801d020211a42ab739311c9dc7963
+SHA256: 3b586e652c3a4af255c93c48fb759707871a0454cafe51364e9c995669af31ac
+
+Package: com.kelvindass.complicationsenglish
+Version: 4.1.5
+Section: Tweaks
+Maintainer: Kelvin Dass
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Installed-Size: 3116
+Name: Complications English for iOS 17
+Author: Ben Giannis
+Description: watchOS-style widgets on the Lock Screen. Includes the ComplicationsFix compatibility hook, English preferences, rootless paths, a rootless respring fix, and arm64/arm64e binaries for modern jailbreaks including iOS 17.
+Conflicts: byg.iosios.net.complications, com.icraze.complicationsfix
+Replaces: byg.iosios.net.complications, com.icraze.complicationsfix
+Provides: com.icraze.complicationsfix
+Filename: debs/com.kelvindass.complicationsenglish_4.1.5_iphoneos-arm64.deb
+Size: 669520
+MD5sum: c3be684bce794419d34210bcaf2b4386
+SHA256: a917023ba5e9ab40bbc746fe35014917df343163965021b1c5b51f3a597635f7
+
+Package: com.kelvindass.dassbypass
+Name: DassBypass
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Kelvin
+Author: Kelvin
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Installed-Size: 72
+Filename: debs/com.kelvindass.dassbypass_0.0.1_iphoneos-arm64.deb
+Size: 3928
+MD5sum: 1458779e3e8246d7abc34f97827b6df7
+SHA256: cc092cdd3f04c928e0b3436f5544ebec2334957a3ff26a1065d1238224686a62
+
+Package: local.atria.english
+Version: 1.4.1-8+english6
+Section: Tweaks
+Maintainer: Local English rebuild
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: com.irepo.boxy4, me.kritanta.homepluspro, acreson.rootless.cj.atria, byg.iosios.net.atria.rootless, local.atria22.english
+Replaces: acreson.rootless.cj.atria, byg.iosios.net.atria.rootless
+Architecture: iphoneos-arm64
+Installed-Size: 1008
+Name: Atria 1.4.1 English
+Author: ren7995
+Description: English-only rebuild of the Dopamine-compatible Atria 1.4.1-8 package. Fixes floating-dock compatibility while preserving independent preference control for all dock settings.
+Filename: debs/local.atria.english_1.4.1-8+english6_iphoneos-arm64.deb
+Size: 379534
+MD5sum: 66cce2118c8129d5c19d5b85b9aa7981
+SHA256: 8fd53fafbbcbc29d6b6ede16bca88eff126226a8dc39027618a52a3f3001df8a

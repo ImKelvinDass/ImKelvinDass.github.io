@@ -1,0 +1,13 @@
+Origin: Kelvin
+Label: Kelvin
+Suite: stable
+Version: 1.0
+Codename: kelvin
+Architectures: iphoneos-arm64 arm64
+Components: main
+Description: Original iOS tweaks by Kelvin Dass.
+Date: Wed, 02 Sep 2026 18:41:02 UTC
+MD5Sum:
+ 07f049c075fecb1054c73b70790a60bf 7333 Packages
+SHA256:
+ 9bee2e22a1985508a1f9dcda4dd4d5bcbd00c6a8f08924a9321eca548139a648 7333 Packages
