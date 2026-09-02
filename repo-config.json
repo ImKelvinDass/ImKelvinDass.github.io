@@ -1,80 +1,97 @@
 {
-  "site": {
-    "brand": "KiLlErZoN3",
-    "country": "Malaysia",
-    "flag": "🇲🇾",
-    "showFlag": true,
-    "eyebrow": "The home of Kelvin's tweaks",
-    "headlineTop": "Make your iPhone",
-    "headlineAccent": "yours again.",
-    "intro": "Original tweaks, thoughtful upgrades, and useful fixes—built with care and delivered straight to your package manager.",
-    "trustBadges": ["✓ Rootless ready", "⬡ Direct downloads"],
-    "addTitle": "Add the repo",
-    "addSubtitle": "Choose your package manager to get started.",
-    "packagesTitle": "All tweaks",
-    "packagesSubtitle": "Everything available from Kelvin's repo.",
-    "footer": "Tweaks unleashed. Made in Malaysia by Kelvin.",
-    "accent": "#9cff00",
-    "accentSecondary": "#9b4dff",
-    "sectionOrder": ["hero", "add", "tweaks", "footer"]
+  "managers" : {
+    "cydia" : true,
+    "sileo" : true,
+    "zebra" : true
   },
-  "repository": {
-    "origin": "Kelvin",
-    "label": "Kelvin",
-    "suite": "stable",
-    "codename": "kelvin",
-    "architectures": "iphoneos-arm64 arm64",
-    "description": "Original iOS tweaks by Kelvin Dass.",
-    "publicURL": "https://imkelvindass.github.io/",
-    "githubOwner": "ImKelvinDass",
-    "githubRepo": "kelvin-repo",
-    "branch": "main",
-    "generateGzip": true,
-    "generateBzip2": true,
-    "generateXZ": true,
-    "keepOlderVersions": true
-  },
-  "managers": {
-    "sileo": true,
-    "zebra": true,
-    "cydia": true
-  },
-  "packageDetails": {
-    "com.kelvindass.cleanpicture": {
-      "tagline": "A smarter camera replacement workflow.",
-      "compatibility": "iOS 17–18.5 • Rootless",
-      "longDescription": "CleanPicture adds a floating camera selector with multiple images, per-app scope, editing tools, and enhanced frame replacement. Choose exactly what appears, where it appears, and change it without leaving your workflow.",
-      "iconText": "CP",
-      "iconColor": "#8fe600",
-      "featured": true,
-      "changelog": "Improved frame replacement and expanded iOS 18.5 support."
+  "packageDetails" : {
+    "com.kelvin.maejbbypass" : {
+      "changelog" : "Removed logs",
+      "compatibility" : "IOS 17-26",
+      "featured" : true,
+      "iconColor" : "#ffb3f8",
+      "iconText" : "MAE",
+      "longDescription" : "Version 0.9.48",
+      "tagline" : "Jailbreak Detection Bypass"
     },
-    "com.kelvin.maequickqr": {
-      "tagline": "Your essential MAE QR actions in Control Center.",
-      "compatibility": "Rootless • CCSupport",
-      "longDescription": "MAE Quick QR combines Scan, Receive QR, and Pay QR inside one expandable Control Center module, giving you instant access to the MAE actions you use most.",
-      "iconText": "MQ",
-      "iconColor": "#9747ff",
-      "featured": true,
-      "changelog": "Initial public release."
+    "com.kelvin.maequickqr" : {
+      "changelog" : "Initial public release.",
+      "compatibility" : "Rootless • CCSupport",
+      "featured" : true,
+      "iconColor" : "#9747ff",
+      "iconText" : "MQ",
+      "longDescription" : "MAE Quick QR combines Scan, Receive QR, and Pay QR inside one expandable Control Center module, giving you instant access to the MAE actions you use most.",
+      "tagline" : "Your essential MAE QR actions in Control Center."
     },
-    "com.kelvindass.complicationsenglish": {
-      "tagline": "watchOS-style Lock Screen widgets in English.",
-      "compatibility": "iOS 15+ • Rootless • arm64/arm64e",
-      "longDescription": "An English, rootless-compatible build of Complications with modern compatibility hooks, corrected preference paths, and respring support for newer jailbreaks including iOS 17.",
-      "iconText": "CE",
-      "iconColor": "#28b8ff",
-      "featured": true,
-      "changelog": "Added modern rootless paths and iOS 17 compatibility fixes."
+    "com.kelvindass.cleanpicture" : {
+      "changelog" : "Improved frame replacement and expanded iOS 18.5 support.",
+      "compatibility" : "iOS 17–18.5 • Rootless",
+      "featured" : true,
+      "iconColor" : "#8fe600",
+      "iconText" : "CP",
+      "longDescription" : "CleanPicture adds a floating camera selector with multiple images, per-app scope, editing tools, and enhanced frame replacement. Choose exactly what appears, where it appears, and change it without leaving your workflow.",
+      "tagline" : "A smarter camera replacement workflow."
     },
-    "local.atria.english": {
-      "tagline": "A clean English Home Screen layout editor.",
-      "compatibility": "iOS 13+ • Rootless",
-      "longDescription": "English-only Atria rebuild for modern rootless jailbreaks. Customize icon layout, spacing, dock behavior, and Home Screen presentation with independent controls.",
-      "iconText": "AT",
-      "iconColor": "#ff4f91",
-      "featured": true,
-      "changelog": "Improved floating-dock compatibility and English preferences."
+    "com.kelvindass.complicationsenglish" : {
+      "changelog" : "Added modern rootless paths and iOS 17 compatibility fixes.",
+      "compatibility" : "iOS 15+ • Rootless • arm64/arm64e",
+      "featured" : true,
+      "iconColor" : "#28b8ff",
+      "iconText" : "CE",
+      "longDescription" : "An English, rootless-compatible build of Complications with modern compatibility hooks, corrected preference paths, and respring support for newer jailbreaks including iOS 17.",
+      "tagline" : "watchOS-style Lock Screen widgets in English."
+    },
+    "local.atria.english" : {
+      "changelog" : "Improved floating-dock compatibility and English preferences.",
+      "compatibility" : "iOS 13+ • Rootless",
+      "featured" : true,
+      "iconColor" : "#ff4f91",
+      "iconText" : "AT",
+      "longDescription" : "English-only Atria rebuild for modern rootless jailbreaks. Customize icon layout, spacing, dock behavior, and Home Screen presentation with independent controls.",
+      "tagline" : "A clean English Home Screen layout editor."
     }
+  },
+  "repository" : {
+    "architectures" : "iphoneos-arm64 arm64",
+    "branch" : "main",
+    "codename" : "kelvin",
+    "description" : "Original iOS tweaks by Kelvin Dass.",
+    "generateBzip2" : true,
+    "generateGzip" : true,
+    "generateXZ" : true,
+    "githubOwner" : "ImKelvinDass",
+    "githubRepo" : "kelvin-repo",
+    "keepOlderVersions" : true,
+    "label" : "Kelvin",
+    "origin" : "Kelvin",
+    "publicURL" : "https://imkelvindass.github.io/",
+    "suite" : "stable"
+  },
+  "site" : {
+    "accent" : "#9cff00",
+    "accentSecondary" : "#9b4dff",
+    "addSubtitle" : "Choose your package manager to get started.",
+    "addTitle" : "Add the repo",
+    "brand" : "KiLlErZoN3",
+    "country" : "Malaysia",
+    "eyebrow" : "The home of Kelvin's tweaks",
+    "flag" : "🇲🇾",
+    "footer" : "Tweaks unleashed. Made in Malaysia by Kelvin.",
+    "headlineAccent" : "yours again.",
+    "headlineTop" : "Make your iPhone",
+    "intro" : "Original tweaks, thoughtful upgrades, and useful fixes—built with care and delivered straight to your package manager.",
+    "packagesSubtitle" : "Everything available from Kelvin's repo.",
+    "packagesTitle" : "All tweaks",
+    "sectionOrder" : [
+      "hero",
+      "add",
+      "tweaks",
+      "footer"
+    ],
+    "showFlag" : true,
+    "trustBadges" : [
+      "✓ Rootless ready",
+      "⬡ Direct downloads"
+    ]
   }
 }

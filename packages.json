@@ -9,6 +9,13 @@
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/MaeBypass.deb",
-    "size": 2376
+    "size": 2376,
+    "changelog": "Removed logs",
+    "compatibility": "IOS 17-26",
+    "featured": true,
+    "iconColor": "#ffb3f8",
+    "iconText": "MAE",
+    "longDescription": "Version 0.9.48",
+    "tagline": "Jailbreak Detection Bypass"
   }
 ]
