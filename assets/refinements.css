@@ -5,3 +5,9 @@
 @media(max-width:760px){.brand em{display:inline-flex;font-size:17px;padding-left:10px}.hero .eyebrow{margin-bottom:32px}}
 .tweak-icon { width:58px; height:58px; border-radius:17px; object-fit:cover; }
 .detail-icon { width:92px; height:92px; border-radius:25px; object-fit:cover; }
+.section.tweaks { width:min(1600px,calc(100% - 40px)); }
+.package-grid { grid-template-columns:repeat(4,minmax(0,1fr)); }
+.package-card { padding:20px; }
+.package-card h3 { font-size:20px; overflow-wrap:anywhere; }
+@media(max-width:1200px){.package-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:760px){.package-grid{grid-template-columns:1fr}.package-card{padding:20px}}
