@@ -19,6 +19,18 @@
     "tagline": "Working home Screen layout customization for iOS 17."
   },
   {
+    "id": "com.autolock30seconds.ios17",
+    "name": "AUTOLOCK30SECONDS IOS 17",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "Tweaks",
+    "depends": "firmware (>= 15.0), mobilesubstrate",
+    "summary": "Lock Screen timeout customization for iOS 17. Turns off the locked screen after 30 seconds while keeping unlocked Auto-Lock at 5 minutes.",
+    "filename": "debs/com.autolock30seconds.ios17_1.0_iphoneos-arm64.deb",
+    "size": 3982
+  },
+  {
     "id": "com.briorhr.jbbypass",
     "name": "BriorHR JB BYPASS",
     "version": "1.0",

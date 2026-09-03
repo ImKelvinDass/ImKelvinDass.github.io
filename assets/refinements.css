@@ -2,3 +2,5 @@
 .hero .eyebrow { display:block; margin-bottom:38px; position:relative; z-index:2; }
 .hero-logo { margin-top:4px; }
 @media(max-width:760px){.brand em{display:inline-flex;font-size:17px;padding-left:10px}.hero .eyebrow{margin-bottom:32px}}
+.tweak-icon { width:58px; height:58px; border-radius:17px; object-fit:cover; }
+.detail-icon { width:92px; height:92px; border-radius:25px; object-fit:cover; }

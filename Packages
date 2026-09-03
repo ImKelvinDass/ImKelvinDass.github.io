@@ -187,3 +187,20 @@ Filename: debs/WhatsUp_1.0_iphoneos-arm64.deb
 Size: 2396
 MD5sum: e33975467eb1a7ea7e2a9782735f3121
 SHA256: fb3588ab25cdafa418e7ca6c8b2b2df2dc78a8394d056888f37ee2d68f569ad0
+
+Package: com.autolock30seconds.ios17
+Name: AUTOLOCK30SECONDS IOS 17
+Description: Lock Screen timeout customization for iOS 17. Turns off the locked screen after 30 seconds while keeping unlocked Auto-Lock at 5 minutes.
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate
+SileoDepiction: https://imkelvindass.github.io/package.html?id=com.autolock30seconds.ios17
+Depiction: https://imkelvindass.github.io/package.html?id=com.autolock30seconds.ios17
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 168
+Filename: debs/com.autolock30seconds.ios17_1.0_iphoneos-arm64.deb
+Size: 3982
+MD5sum: 551be5e0da5b89f6d2a45203fbdbc752
+SHA256: a729549b74863568830ab5c413272a708221b3dd4563d3d21cf8bcb964c0e87c
