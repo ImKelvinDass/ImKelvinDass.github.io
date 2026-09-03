@@ -127,7 +127,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/MAECCJB_1.0_iphoneos-arm64.deb",
     "size": 16352,
-    "changelog": "Tested and working",
+    "changelog": "Control center module",
     "compatibility": "IOS 17",
     "featured": true,
     "iconColor": "#9cff00",

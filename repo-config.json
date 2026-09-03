@@ -99,7 +99,7 @@
       "tagline" : "watchOS-style Lock Screen widgets in English."
     },
     "com.mae.ccjbbypass" : {
-      "changelog" : "Tested and working",
+      "changelog" : "Control center module",
       "compatibility" : "IOS 17",
       "featured" : true,
       "iconColor" : "#9cff00",
