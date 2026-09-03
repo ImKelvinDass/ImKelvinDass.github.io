@@ -52,6 +52,7 @@
     "compatibility": "IOS 17",
     "featured": true,
     "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-briorhr-jbbypass-icon-1788437867.png",
     "iconText": "BriorHr",
     "longDescription": "Version 2.10.0 ",
     "tagline": "Jailbreak Detection Bypass"
@@ -71,6 +72,7 @@
     "compatibility": "IOS 17",
     "featured": true,
     "iconColor": "#789616",
+    "iconImage": "assets/package-icons/com-celcomdigi-jbbypass-icon-1788437844.png",
     "iconText": "Digi",
     "longDescription": "Version 1.1.5",
     "tagline": "Jailbreak Detection Bypass"
@@ -90,6 +92,7 @@
     "compatibility": "IOS 17",
     "featured": true,
     "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-cimb-jbbypass-icon-1788437818.png",
     "iconText": "CIMB",
     "longDescription": "Version 1.10.2",
     "tagline": "Jailbreak Detection Bypass"
@@ -128,6 +131,7 @@
     "compatibility": "IOS 17",
     "featured": true,
     "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-mae-ccjbbypass-icon-1788437787.png",
     "iconText": "MAE",
     "longDescription": "Version 0.9.48",
     "tagline": "CCmodule + JB BYPASS"
@@ -147,6 +151,7 @@
     "compatibility": "IOS 17",
     "featured": true,
     "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-mae-jbbypass-icon-1788437779.png",
     "iconText": "MAE",
     "longDescription": "Version 0.9.48",
     "tagline": "Jailbreak Detection Bypass"
@@ -166,6 +171,7 @@
     "compatibility": "IOS 17",
     "featured": true,
     "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-mywe-jbbypass-icon-1788437713.png",
     "iconText": "MYWE",
     "longDescription": "Version 8.7",
     "tagline": "Jailbreak Detection Bypass"
@@ -185,6 +191,7 @@
     "compatibility": "IOS 17",
     "featured": true,
     "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-ptv-jbbypass-icon-1788437632.png",
     "iconText": "PTV",
     "longDescription": "Version 5.6.0",
     "tagline": "Jailbreak Detection Bypass"
@@ -204,6 +211,7 @@
     "compatibility": "IOS 17",
     "featured": true,
     "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-tng-jbbypass-icon-1788437593.png",
     "iconText": "TNG",
     "longDescription": "Version 1.9.12",
     "tagline": "Jailbreak Detection Bypass"

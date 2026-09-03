@@ -28,6 +28,7 @@ Depiction: https://imkelvindass.github.io/package.html?id=com.briorhr.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-briorhr-jbbypass-icon-1788437867.png
 Filename: debs/BriorHR_1.0_iphoneos-arm64.deb
 Size: 2488
 MD5sum: ededf62a1947ff59a32f0ba7516874ea
@@ -45,6 +46,7 @@ Depiction: https://imkelvindass.github.io/package.html?id=com.cimb.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-cimb-jbbypass-icon-1788437818.png
 Filename: debs/CIMB_1.0_iphoneos-arm64.deb
 Size: 3968
 MD5sum: 730494b81945a8978e09fbf2867ee174
@@ -62,6 +64,7 @@ Depiction: https://imkelvindass.github.io/package.html?id=com.celcomdigi.jbbypas
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 168
+Icon: https://imkelvindass.github.io/assets/package-icons/com-celcomdigi-jbbypass-icon-1788437844.png
 Filename: debs/CelcomDigi_1.0_iphoneos-arm64.deb
 Size: 3196
 MD5sum: a097af707981ff20a6d208d4d1eccc50
@@ -98,6 +101,7 @@ Depiction: https://imkelvindass.github.io/package.html?id=com.mae.ccjbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 344
+Icon: https://imkelvindass.github.io/assets/package-icons/com-mae-ccjbbypass-icon-1788437787.png
 Filename: debs/MAECCJB_1.0_iphoneos-arm64.deb
 Size: 16352
 MD5sum: af88166c6db1567825c33a8715b87201
@@ -115,6 +119,7 @@ Depiction: https://imkelvindass.github.io/package.html?id=com.mae.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-mae-jbbypass-icon-1788437779.png
 Filename: debs/MAE_1.0_iphoneos-arm64.deb
 Size: 2338
 MD5sum: 51b718e49e626a64616943cfab2b96ee
@@ -132,6 +137,7 @@ Depiction: https://imkelvindass.github.io/package.html?id=com.mywe.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-mywe-jbbypass-icon-1788437713.png
 Filename: debs/MYWE_1.0_iphoneos-arm64.deb
 Size: 2822
 MD5sum: 635ec7776e249d5c34300b8971192831
@@ -149,6 +155,7 @@ Depiction: https://imkelvindass.github.io/package.html?id=com.ptv.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 168
+Icon: https://imkelvindass.github.io/assets/package-icons/com-ptv-jbbypass-icon-1788437632.png
 Filename: debs/PTV_1.0_iphoneos-arm64.deb
 Size: 5540
 MD5sum: 11027b73ccc1d916416b03ab3fff3bf0
@@ -166,6 +173,7 @@ Depiction: https://imkelvindass.github.io/package.html?id=com.tng.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-tng-jbbypass-icon-1788437593.png
 Filename: debs/TNG_1.0_iphoneos-arm64.deb
 Size: 3114
 MD5sum: d719bce48ce017b8ea158f55421a7f67
