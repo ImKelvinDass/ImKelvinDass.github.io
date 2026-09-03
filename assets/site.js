@@ -4,7 +4,8 @@ const managerInfo = {
   zebra: { name:'Zebra', icon:'assets/zebra.png', protocol:url=>`zbra://sources/add/${url}` },
   cydia: { name:'Cydia', icon:'assets/cydia.png', protocol:url=>`cydia://url/https://cydia.saurik.com/api/share#?source=${url}` }
 };
-Promise.all([fetch('repo-config.json').then(r=>r.json()), fetch('packages.json').then(r=>r.json())]).then(([config, packages])=>{
+const fresh = path => fetch(`${path}?v=${Date.now()}`, {cache:'no-store'}).then(r=>r.json());
+Promise.all([fresh('repo-config.json'), fresh('packages.json')]).then(([config, packages])=>{
   const s=config.site,r=config.repository; document.documentElement.style.setProperty('--lime',s.accent);document.documentElement.style.setProperty('--violet',s.accentSecondary);
   document.querySelector('.github').href='https://github.com/ImKelvinDass/ImKelvinDass.github.io';
   $('country').textContent=s.showFlag?`${s.flag} ${s.country}`:'';$('eyebrow').textContent=`✦ ${s.eyebrow}`;$('headline-top').textContent=s.headlineTop;$('headline-accent').textContent=s.headlineAccent;$('intro').textContent=s.intro;
