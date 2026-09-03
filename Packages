@@ -137,21 +137,6 @@ Size: 2822
 MD5sum: 635ec7776e249d5c34300b8971192831
 SHA256: ce13f60d9e11293dc7c9e60d9eab1ed8cfa4226a510a5b2509be1e938d8f4a26
 
-Package: com.kelvin.maejbbypass
-Name: MAEJB BYPASS
-Version: 1.0
-Architecture: iphoneos-arm64
-Section: Bypass
-Author: Kelvin
-Maintainer: Kelvin
-Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass
-Installed-Size: 72
-Filename: debs/MaeBypass.deb
-Size: 2376
-MD5sum: 1e69e75c8c23180e9bbec1296cd85919
-SHA256: d03be7600d502740d9753e1fa2545c26020967fa7fc83c9780125173faf10a51
-
 Package: com.ptv.jbbypass
 Name: PTV JB BYPASS
 Description: Jailbreak Detection Bypass

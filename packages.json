@@ -91,25 +91,6 @@
     "size": 2338
   },
   {
-    "id": "com.kelvin.maejbbypass",
-    "name": "MAEJB BYPASS",
-    "version": "1.0",
-    "architecture": "iphoneos-arm64",
-    "author": "Kelvin",
-    "section": "Bypass",
-    "depends": "mobilesubstrate (>= 0.9.5000)",
-    "summary": "Jailbreak Detection Bypass",
-    "filename": "debs/MaeBypass.deb",
-    "size": 2376,
-    "changelog": "Removed logs",
-    "compatibility": "IOS 17-26",
-    "featured": true,
-    "iconColor": "#ffb3f8",
-    "iconText": "MAE",
-    "longDescription": "Version 0.9.48",
-    "tagline": "Jailbreak Detection Bypass"
-  },
-  {
     "id": "com.mywe.jbbypass",
     "name": "MYWE JB BYPASS",
     "version": "1.0",
