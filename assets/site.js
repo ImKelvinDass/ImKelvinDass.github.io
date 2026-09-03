@@ -7,7 +7,6 @@ const managerInfo = {
 const fresh = path => fetch(`${path}?v=${Date.now()}`, {cache:'no-store'}).then(r=>r.json());
 Promise.all([fresh('repo-config.json'), fresh('packages.json')]).then(([config, packages])=>{
   const s=config.site,r=config.repository; document.documentElement.style.setProperty('--lime',s.accent);document.documentElement.style.setProperty('--violet',s.accentSecondary);
-  document.querySelector('.github').href='https://github.com/ImKelvinDass/ImKelvinDass.github.io';
   $('country').textContent=s.showFlag?`${s.flag} ${s.country}`:'';$('eyebrow').textContent=`✦ ${s.eyebrow}`;$('headline-top').textContent=s.headlineTop;$('headline-accent').textContent=s.headlineAccent;$('intro').textContent=s.intro;
   $('trust').innerHTML=s.trustBadges.map(x=>`<span>${x}</span>`).join('');$('add-title').textContent=s.addTitle;$('add-subtitle').textContent=s.addSubtitle;$('packages-title').textContent=s.packagesTitle;$('packages-subtitle').textContent=s.packagesSubtitle;$('footer-copy').textContent=s.footer;$('repo-url').textContent=r.publicURL;
   $('managers').innerHTML=Object.entries(config.managers).filter(([,enabled])=>enabled).map(([key])=>{const m=managerInfo[key];return `<article><img src="${m.icon}" alt="${m.name} icon"><div><h3>${m.name}</h3><p>Add KiLlErZoN3 to ${m.name}</p></div><a href="${m.protocol(r.publicURL)}">Add</a></article>`}).join('');

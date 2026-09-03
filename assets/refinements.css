@@ -11,3 +11,10 @@
 .package-card h3 { font-size:20px; overflow-wrap:anywhere; }
 @media(max-width:1200px){.package-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:760px){.package-grid{grid-template-columns:1fr}.package-card{padding:20px}}
+.package-actions { display:grid; gap:9px; margin-top:22px; }
+.package-actions .download { margin-top:0; }
+.manager-action { display:block; text-align:center; padding:11px 12px; border:1px solid var(--line); border-radius:12px; background:#ffffff0b; font-weight:800; transition:.18s; }
+.manager-action:hover { transform:translateY(-2px); border-color:#ffffff48; background:#ffffff14; }
+.sileo-action { color:#62e1d6; }
+.cydia-action { color:#d69a68; }
+.zebra-action { color:#f3f3f5; }
