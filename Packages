@@ -11,6 +11,7 @@ Conflicts: com.irepo.boxy4, me.kritanta.homepluspro, acreson.rootless.cj.atria, 
 Replaces: acreson.rootless.cj.atria, byg.iosios.net.atria.rootless
 SileoDepiction: https://imkelvindass.github.io/package.html?id=com.atria.ios17
 Depiction: https://imkelvindass.github.io/package.html?id=com.atria.ios17
+Icon: https://imkelvindass.github.io/assets/kz3-mark.png
 Filename: debs/AtriaIOS17_1.0_iphoneos-arm64.deb
 Size: 378094
 MD5sum: 31c49bb83fe9e3102de48aa75c6e15a5
@@ -84,6 +85,7 @@ Replaces: byg.iosios.net.complications, com.icraze.complicationsfix
 Provides: com.icraze.complicationsfix
 SileoDepiction: https://imkelvindass.github.io/package.html?id=com.complications.ios17
 Depiction: https://imkelvindass.github.io/package.html?id=com.complications.ios17
+Icon: https://imkelvindass.github.io/assets/kz3-mark.png
 Filename: debs/ComplicationsIOS17_1.0_iphoneos-arm64.deb
 Size: 644676
 MD5sum: 4754ddb2034757bb89ae2c67b3937b04
@@ -209,6 +211,7 @@ Depiction: https://imkelvindass.github.io/package.html?id=com.autolock30seconds.
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 168
+Icon: https://imkelvindass.github.io/assets/kz3-mark.png
 Filename: debs/com.autolock30seconds.ios17_1.0_iphoneos-arm64.deb
 Size: 3982
 MD5sum: 551be5e0da5b89f6d2a45203fbdbc752
