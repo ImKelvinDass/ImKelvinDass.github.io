@@ -13,10 +13,10 @@
     "changelog": "Tested and working",
     "compatibility": "IOS 17",
     "featured": true,
-    "iconColor": "#ff6b2d",
+    "iconColor": "#4b1679",
     "iconText": "ATRIA",
-    "longDescription": "",
-    "tagline": "Working home Screen layout customization for iOS 17."
+    "longDescription": "Modified https://github.com/ren7995/Atria",
+    "tagline": "Working home Screen layout customization for iOS 17"
   },
   {
     "id": "com.autolock30seconds.ios17",
@@ -28,7 +28,14 @@
     "depends": "firmware (>= 15.0), mobilesubstrate",
     "summary": "Lock Screen timeout customization for iOS 17. Turns off the locked screen after 30 seconds while keeping unlocked Auto-Lock at 5 minutes.",
     "filename": "debs/com.autolock30seconds.ios17_1.0_iphoneos-arm64.deb",
-    "size": 3982
+    "size": 3982,
+    "changelog": "Tested and working",
+    "compatibility": "IOS 17",
+    "featured": true,
+    "iconColor": "#9cff00",
+    "iconText": "AUTO-LOCK",
+    "longDescription": "Turns off the locked screen after 30 seconds while keeping unlocked Auto-Lock at 5 minutes.",
+    "tagline": "Lock Screen timeout customization for iOS 17"
   },
   {
     "id": "com.briorhr.jbbypass",
@@ -40,7 +47,14 @@
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/BriorHR_1.0_iphoneos-arm64.deb",
-    "size": 2488
+    "size": 2488,
+    "changelog": "Tested and working",
+    "compatibility": "IOS 17",
+    "featured": true,
+    "iconColor": "#9cff00",
+    "iconText": "BriorHr",
+    "longDescription": "Version 2.10.0 ",
+    "tagline": "Jailbreak Detection Bypass"
   },
   {
     "id": "com.celcomdigi.jbbypass",
@@ -52,7 +66,14 @@
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/CelcomDigi_1.0_iphoneos-arm64.deb",
-    "size": 3196
+    "size": 3196,
+    "changelog": "Tested and working",
+    "compatibility": "IOS 17",
+    "featured": true,
+    "iconColor": "#789616",
+    "iconText": "Digi",
+    "longDescription": "Version 1.1.5",
+    "tagline": "Jailbreak Detection Bypass"
   },
   {
     "id": "com.cimb.jbbypass",
@@ -64,7 +85,14 @@
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/CIMB_1.0_iphoneos-arm64.deb",
-    "size": 3968
+    "size": 3968,
+    "changelog": "Tested and working",
+    "compatibility": "IOS 17",
+    "featured": true,
+    "iconColor": "#9cff00",
+    "iconText": "CIMB",
+    "longDescription": "Version 1.10.2",
+    "tagline": "Jailbreak Detection Bypass"
   },
   {
     "id": "com.complications.ios17",
@@ -76,7 +104,14 @@
     "depends": "firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)",
     "summary": "watchOS-style complications for the iOS 17 Lock Screen.",
     "filename": "debs/ComplicationsIOS17_1.0_iphoneos-arm64.deb",
-    "size": 644676
+    "size": 644676,
+    "changelog": "Tested and working",
+    "compatibility": "IOS 17",
+    "featured": true,
+    "iconColor": "#9cff00",
+    "iconText": "WatchOS",
+    "longDescription": "Modified",
+    "tagline": "watchOS-style complications for the iOS 17 Lock Screen"
   },
   {
     "id": "com.mae.ccjbbypass",
@@ -88,7 +123,14 @@
     "depends": "mobilesubstrate, com.opa334.ccsupport",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/MAECCJB_1.0_iphoneos-arm64.deb",
-    "size": 16352
+    "size": 16352,
+    "changelog": "Tested and working",
+    "compatibility": "IOS 17",
+    "featured": true,
+    "iconColor": "#9cff00",
+    "iconText": "MAE",
+    "longDescription": "Version 0.9.48",
+    "tagline": "CCmodule + JB BYPASS"
   },
   {
     "id": "com.mae.jbbypass",
@@ -100,7 +142,14 @@
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/MAE_1.0_iphoneos-arm64.deb",
-    "size": 2338
+    "size": 2338,
+    "changelog": "Tested and working",
+    "compatibility": "IOS 17",
+    "featured": true,
+    "iconColor": "#9cff00",
+    "iconText": "MAE",
+    "longDescription": "Version 0.9.48",
+    "tagline": "Jailbreak Detection Bypass"
   },
   {
     "id": "com.mywe.jbbypass",
@@ -112,7 +161,14 @@
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/MYWE_1.0_iphoneos-arm64.deb",
-    "size": 2822
+    "size": 2822,
+    "changelog": "Tested and working",
+    "compatibility": "IOS 17",
+    "featured": true,
+    "iconColor": "#9cff00",
+    "iconText": "MYWE",
+    "longDescription": "Version 8.7",
+    "tagline": "Jailbreak Detection Bypass"
   },
   {
     "id": "com.ptv.jbbypass",
@@ -124,7 +180,14 @@
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/PTV_1.0_iphoneos-arm64.deb",
-    "size": 5540
+    "size": 5540,
+    "changelog": "Tested and working",
+    "compatibility": "IOS 17",
+    "featured": true,
+    "iconColor": "#9cff00",
+    "iconText": "PTV",
+    "longDescription": "Version 5.6.0",
+    "tagline": "Jailbreak Detection Bypass"
   },
   {
     "id": "com.tng.jbbypass",
@@ -136,7 +199,14 @@
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/TNG_1.0_iphoneos-arm64.deb",
-    "size": 3114
+    "size": 3114,
+    "changelog": "Tested and working",
+    "compatibility": "IOS 17",
+    "featured": true,
+    "iconColor": "#9cff00",
+    "iconText": "TNG",
+    "longDescription": "Version 1.9.12",
+    "tagline": "Jailbreak Detection Bypass"
   },
   {
     "id": "com.whatsup.jbbypass",
@@ -148,6 +218,13 @@
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/WhatsUp_1.0_iphoneos-arm64.deb",
-    "size": 2396
+    "size": 2396,
+    "changelog": "Tested and working",
+    "compatibility": "IOS 17",
+    "featured": true,
+    "iconColor": "#9cff00",
+    "iconText": "whatsup",
+    "longDescription": "Version 4.66.2",
+    "tagline": "Jailbreak Detection Bypass"
   }
 ]

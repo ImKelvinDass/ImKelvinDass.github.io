@@ -9,10 +9,55 @@
       "changelog" : "Tested and working",
       "compatibility" : "IOS 17",
       "featured" : true,
-      "iconColor" : "#ff6b2d",
+      "iconColor" : "#4b1679",
       "iconText" : "ATRIA",
-      "longDescription" : "",
-      "tagline" : "Working home Screen layout customization for iOS 17."
+      "longDescription" : "Modified https://github.com/ren7995/Atria",
+      "tagline" : "Working home Screen layout customization for iOS 17"
+    },
+    "com.autolock30seconds.ios17" : {
+      "changelog" : "Tested and working",
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "iconColor" : "#9cff00",
+      "iconText" : "AUTO-LOCK",
+      "longDescription" : "Turns off the locked screen after 30 seconds while keeping unlocked Auto-Lock at 5 minutes.",
+      "tagline" : "Lock Screen timeout customization for iOS 17"
+    },
+    "com.briorhr.jbbypass" : {
+      "changelog" : "Tested and working",
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "iconColor" : "#9cff00",
+      "iconText" : "BriorHr",
+      "longDescription" : "Version 2.10.0 ",
+      "tagline" : "Jailbreak Detection Bypass"
+    },
+    "com.celcomdigi.jbbypass" : {
+      "changelog" : "Tested and working",
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "iconColor" : "#789616",
+      "iconText" : "Digi",
+      "longDescription" : "Version 1.1.5",
+      "tagline" : "Jailbreak Detection Bypass"
+    },
+    "com.cimb.jbbypass" : {
+      "changelog" : "Tested and working",
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "iconColor" : "#9cff00",
+      "iconText" : "CIMB",
+      "longDescription" : "Version 1.10.2",
+      "tagline" : "Jailbreak Detection Bypass"
+    },
+    "com.complications.ios17" : {
+      "changelog" : "Tested and working",
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "iconColor" : "#9cff00",
+      "iconText" : "WatchOS",
+      "longDescription" : "Modified",
+      "tagline" : "watchOS-style complications for the iOS 17 Lock Screen"
     },
     "com.kelvin.maejbbypass" : {
       "changelog" : "Removed logs",
@@ -49,6 +94,60 @@
       "iconText" : "CE",
       "longDescription" : "An English, rootless-compatible build of Complications with modern compatibility hooks, corrected preference paths, and respring support for newer jailbreaks including iOS 17.",
       "tagline" : "watchOS-style Lock Screen widgets in English."
+    },
+    "com.mae.ccjbbypass" : {
+      "changelog" : "Tested and working",
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "iconColor" : "#9cff00",
+      "iconText" : "MAE",
+      "longDescription" : "Version 0.9.48",
+      "tagline" : "CCmodule + JB BYPASS"
+    },
+    "com.mae.jbbypass" : {
+      "changelog" : "Tested and working",
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "iconColor" : "#9cff00",
+      "iconText" : "MAE",
+      "longDescription" : "Version 0.9.48",
+      "tagline" : "Jailbreak Detection Bypass"
+    },
+    "com.mywe.jbbypass" : {
+      "changelog" : "Tested and working",
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "iconColor" : "#9cff00",
+      "iconText" : "MYWE",
+      "longDescription" : "Version 8.7",
+      "tagline" : "Jailbreak Detection Bypass"
+    },
+    "com.ptv.jbbypass" : {
+      "changelog" : "Tested and working",
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "iconColor" : "#9cff00",
+      "iconText" : "PTV",
+      "longDescription" : "Version 5.6.0",
+      "tagline" : "Jailbreak Detection Bypass"
+    },
+    "com.tng.jbbypass" : {
+      "changelog" : "Tested and working",
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "iconColor" : "#9cff00",
+      "iconText" : "TNG",
+      "longDescription" : "Version 1.9.12",
+      "tagline" : "Jailbreak Detection Bypass"
+    },
+    "com.whatsup.jbbypass" : {
+      "changelog" : "Tested and working",
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "iconColor" : "#9cff00",
+      "iconText" : "whatsup",
+      "longDescription" : "Version 4.66.2",
+      "tagline" : "Jailbreak Detection Bypass"
     },
     "local.atria.english" : {
       "changelog" : "Improved floating-dock compatibility and English preferences.",
@@ -99,8 +198,8 @@
     ],
     "showFlag" : true,
     "trustBadges" : [
-      "✓ Rootless ready",
-      "⬡ IOS 17-26"
+      "✓ IOS 17-26",
+      "✓ Rootless ready"
     ]
   }
 }
