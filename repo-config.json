@@ -18,7 +18,7 @@
       "changelog" : "Tested and working",
       "compatibility" : "IOS 17",
       "featured" : true,
-      "iconColor" : "#9cff00",
+      "iconColor" : "#fed100",
       "iconText" : "AUTO-LOCK",
       "longDescription" : "Turns off the locked screen after 30 seconds while keeping unlocked Auto-Lock at 5 minutes.",
       "tagline" : "Lock Screen timeout customization for iOS 17"
@@ -176,7 +176,7 @@
     "suite" : "stable"
   },
   "site" : {
-    "accent" : "#9cff00",
+    "accent" : "#55e6ff",
     "accentSecondary" : "#9b4dff",
     "addSubtitle" : "Choose your package manager to get started.",
     "addTitle" : "Add the repo",
