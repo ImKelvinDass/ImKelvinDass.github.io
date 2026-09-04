@@ -105,9 +105,9 @@ Version: 1.0
 Installed-Size: 344
 Icon: https://imkelvindass.github.io/assets/package-icons/com-mae-ccjbbypass-icon-1788437787.png
 Filename: debs/MAECCJB_1.0_iphoneos-arm64.deb
-Size: 16352
-MD5sum: af88166c6db1567825c33a8715b87201
-SHA256: 115174ff2bfa9a43bc29dc284e44339983e4d74f553c316cc88199e94e2e54dc
+Size: 17006
+MD5sum: 4a18325f64f2ddbcf9ae4f114637a5ab
+SHA256: ad0d7974630f1e9c38c1d3dc4b896d034017981fca3cea3ad3c488f1171edfc1
 
 Package: com.mae.jbbypass
 Name: MAE JB BYPASS
@@ -169,17 +169,17 @@ Description: Jailbreak Detection Bypass
 Maintainer: Kelvin
 Author: KiLlErZoN3
 Section: Bypass
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
 SileoDepiction: https://imkelvindass.github.io/package.html?id=com.tng.jbbypass
 Depiction: https://imkelvindass.github.io/package.html?id=com.tng.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
-Installed-Size: 72
+Installed-Size: 340
 Icon: https://imkelvindass.github.io/assets/package-icons/com-tng-jbbypass-icon-1788437593.png
 Filename: debs/TNG_1.0_iphoneos-arm64.deb
-Size: 3114
-MD5sum: d719bce48ce017b8ea158f55421a7f67
-SHA256: aef82d072412dbb3b0c5f9af52de1a283a58ab7d0ce7b3a024e81703934da016
+Size: 12230
+MD5sum: 6043a31ad74c7328c9b9fba6c7139e5d
+SHA256: a68828ab234e3fcbd999ef1fbdca1784d65ff2211cac89e392e9274668016b61
 
 Package: com.whatsup.jbbypass
 Name: What's up JB BYPASS

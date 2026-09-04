@@ -146,7 +146,7 @@
       "iconImage" : "assets/package-icons/com-tng-jbbypass-icon-1788437593.png",
       "iconText" : "TNG",
       "longDescription" : "Version 1.9.12",
-      "tagline" : "Jailbreak Detection Bypass"
+      "tagline" : "CCmodule + JB BYPASS"
     },
     "com.whatsup.jbbypass" : {
       "changelog" : "Tested and working",
@@ -190,25 +190,23 @@
     "addSubtitle" : "Choose your package manager to get started.",
     "addTitle" : "Add the repo",
     "brand" : "KiLlErZoN3",
+    "buyMeCoffeeURL" : "",
     "country" : "Malaysia",
     "developerBio" : "Independent iOS tweak developer from Malaysia.",
     "developerName" : "KiLlErZoN3",
     "discordURL" : "",
-    "telegramURL" : "",
     "email" : "",
-    "githubURL" : "https://github.com/ImKelvinDass",
-    "supportURL" : "",
-    "paypalURL" : "",
-    "kofiURL" : "",
-    "buyMeCoffeeURL" : "",
     "eyebrow" : "The home of Kelvin's tweaks",
     "flag" : "🇲🇾",
     "footer" : "Tweaks unleashed. Made by Kelvin",
+    "githubURL" : "https://github.com/ImKelvinDass",
     "headlineAccent" : "Yours",
     "headlineTop" : "Make your iPhone",
     "intro" : "JB Bypass detection, Modified tweaks and useful fixes",
+    "kofiURL" : "",
     "packagesSubtitle" : "Everything available from Kelvin's repo",
     "packagesTitle" : "All tweaks",
+    "paypalURL" : "",
     "sectionOrder" : [
       "hero",
       "add",
@@ -216,6 +214,8 @@
       "footer"
     ],
     "showFlag" : true,
+    "supportURL" : "",
+    "telegramURL" : "",
     "trustBadges" : [
       "✓ IOS 17-26",
       "✓ Rootless ready"

@@ -126,7 +126,7 @@
     "depends": "mobilesubstrate, com.opa334.ccsupport",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/MAECCJB_1.0_iphoneos-arm64.deb",
-    "size": 16352,
+    "size": 17006,
     "changelog": "Control center module",
     "compatibility": "IOS 17",
     "featured": true,
@@ -203,10 +203,10 @@
     "architecture": "iphoneos-arm64",
     "author": "KiLlErZoN3",
     "section": "Bypass",
-    "depends": "mobilesubstrate (>= 0.9.5000)",
+    "depends": "mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/TNG_1.0_iphoneos-arm64.deb",
-    "size": 3114,
+    "size": 12230,
     "changelog": "Tested and working",
     "compatibility": "IOS 17",
     "featured": true,
@@ -214,7 +214,7 @@
     "iconImage": "assets/package-icons/com-tng-jbbypass-icon-1788437593.png",
     "iconText": "TNG",
     "longDescription": "Version 1.9.12",
-    "tagline": "Jailbreak Detection Bypass"
+    "tagline": "CCmodule + JB BYPASS"
   },
   {
     "id": "com.whatsup.jbbypass",
