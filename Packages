@@ -181,6 +181,22 @@ Size: 12230
 MD5sum: 6043a31ad74c7328c9b9fba6c7139e5d
 SHA256: a68828ab234e3fcbd999ef1fbdca1784d65ff2211cac89e392e9274668016b61
 
+Package: com.kelvindass.ukgprobypass
+Name: UKG JB BYPASS
+Description: Jailbreak Detection Bypass for UKG Pro
+Maintainer: Kelvin
+Author: Kelvin
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 168
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-ukgprobypass-icon-1788621121.png
+Filename: debs/UKG_1.0_iphoneos-arm64.deb
+Size: 6394
+MD5sum: d1056e617e7f56f180963d5888c67ab2
+SHA256: 091172ff6e650252fe0147acedf51a17e09edcbe7eeb1ab5bf29d53255c9a554
+
 Package: com.whatsup.jbbypass
 Name: What's up JB BYPASS
 Description: Jailbreak Detection Bypass

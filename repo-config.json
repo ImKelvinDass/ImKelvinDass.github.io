@@ -98,6 +98,16 @@
       "longDescription" : "An English, rootless-compatible build of Complications with modern compatibility hooks, corrected preference paths, and respring support for newer jailbreaks including iOS 17.",
       "tagline" : "watchOS-style Lock Screen widgets in English."
     },
+    "com.kelvindass.ukgprobypass" : {
+      "changelog" : "Tested and working",
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-kelvindass-ukgprobypass-icon-1788621121.png",
+      "iconText" : "UK",
+      "longDescription" : "Version 5.7.4",
+      "tagline" : "Jailbreak Detection Bypass"
+    },
     "com.mae.ccjbbypass" : {
       "changelog" : "Control center module",
       "compatibility" : "IOS 17",

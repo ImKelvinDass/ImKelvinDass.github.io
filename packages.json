@@ -217,6 +217,26 @@
     "tagline": "CCmodule + JB BYPASS"
   },
   {
+    "id": "com.kelvindass.ukgprobypass",
+    "name": "UKG JB BYPASS",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "Kelvin",
+    "section": "Bypass",
+    "depends": "mobilesubstrate (>= 0.9.5000)",
+    "summary": "Jailbreak Detection Bypass for UKG Pro",
+    "filename": "debs/UKG_1.0_iphoneos-arm64.deb",
+    "size": 6394,
+    "changelog": "Tested and working",
+    "compatibility": "IOS 17",
+    "featured": true,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-kelvindass-ukgprobypass-icon-1788621121.png",
+    "iconText": "UK",
+    "longDescription": "Version 5.7.4",
+    "tagline": "Jailbreak Detection Bypass"
+  },
+  {
     "id": "com.whatsup.jbbypass",
     "name": "What's up JB BYPASS",
     "version": "1.0",
