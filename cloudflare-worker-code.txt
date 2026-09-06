@@ -1,0 +1,45 @@
+const json=(data,status=200,origin='https://imkelvindass.github.io')=>new Response(JSON.stringify(data),{status,headers:{'content-type':'application/json; charset=utf-8','access-control-allow-origin':origin,'access-control-allow-methods':'GET, POST, OPTIONS','access-control-allow-headers':'content-type','cache-control':'no-store'}});
+const validPackage=value=>typeof value==='string'&&/^[a-z0-9][a-z0-9.+-]{1,119}$/i.test(value);
+async function packageStats(db,packageId){
+ const [view,rating]=await db.batch([
+  db.prepare("SELECT total FROM views WHERE scope = 'package' AND item_id = ?").bind(packageId),
+  db.prepare('SELECT COUNT(*) AS count, COALESCE(AVG(rating), 0) AS average FROM ratings WHERE package_id = ?').bind(packageId)
+ ]);
+ return {views:Number(view.results[0]?.total||0),ratingCount:Number(rating.results[0]?.count||0),ratingAverage:Number(rating.results[0]?.average||0)};
+}
+async function voterHash(request,env){
+ const ip=request.headers.get('cf-connecting-ip')||'unknown',agent=request.headers.get('user-agent')||'unknown';
+ const bytes=new TextEncoder().encode(`${env.RATE_SALT||'change-me'}|${ip}|${agent}`);
+ return [...new Uint8Array(await crypto.subtle.digest('SHA-256',bytes))].map(x=>x.toString(16).padStart(2,'0')).join('');
+}
+export default {async fetch(request,env){
+ const origin=env.ALLOWED_ORIGIN||'https://imkelvindass.github.io',requestOrigin=request.headers.get('origin');
+ if(request.method==='OPTIONS')return json({},204,origin);
+ if(requestOrigin&&requestOrigin!==origin)return json({error:'Origin not allowed'},403,origin);
+ const url=new URL(request.url);
+ try{
+  if(request.method==='GET'&&url.pathname==='/stats'){
+   const [site,packages]=await env.DB.batch([env.DB.prepare("SELECT total FROM views WHERE scope = 'site' AND item_id = 'home'"),env.DB.prepare("SELECT item_id, total FROM views WHERE scope = 'package'")]);
+   return json({siteViews:Number(site.results[0]?.total||0),packages:Object.fromEntries(packages.results.map(x=>[x.item_id,Number(x.total)]))},200,origin);
+  }
+  if(request.method==='POST'&&url.pathname==='/view'){
+   const body=await request.json(),scope=body.scope;
+   if(scope==='site'){
+    await env.DB.prepare("INSERT INTO views(scope,item_id,total) VALUES('site','home',1) ON CONFLICT(scope,item_id) DO UPDATE SET total=total+1").run();
+    const row=await env.DB.prepare("SELECT total FROM views WHERE scope='site' AND item_id='home'").first();return json({views:Number(row.total)},200,origin);
+   }
+   if(scope==='package'&&validPackage(body.packageId)){
+    await env.DB.prepare("INSERT INTO views(scope,item_id,total) VALUES('package',?,1) ON CONFLICT(scope,item_id) DO UPDATE SET total=total+1").bind(body.packageId).run();
+    return json(await packageStats(env.DB,body.packageId),200,origin);
+   }
+   return json({error:'Invalid view'},400,origin);
+  }
+  if(request.method==='POST'&&url.pathname==='/rate'){
+   const body=await request.json(),rating=Number(body.rating);if(!validPackage(body.packageId)||!Number.isInteger(rating)||rating<1||rating>5)return json({error:'Invalid rating'},400,origin);
+   const hash=await voterHash(request,env),existing=await env.DB.prepare('SELECT 1 FROM ratings WHERE package_id=? AND voter_hash=?').bind(body.packageId,hash).first();
+   await env.DB.prepare('INSERT INTO ratings(package_id,voter_hash,rating) VALUES(?,?,?) ON CONFLICT(package_id,voter_hash) DO UPDATE SET rating=excluded.rating, updated_at=CURRENT_TIMESTAMP').bind(body.packageId,hash,rating).run();
+   return json({...await packageStats(env.DB,body.packageId),updated:Boolean(existing)},200,origin);
+  }
+  return json({error:'Not found'},404,origin);
+ }catch{return json({error:'Service unavailable'},500,origin)}
+}};
