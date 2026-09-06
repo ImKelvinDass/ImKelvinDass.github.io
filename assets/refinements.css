@@ -2,7 +2,8 @@
 .hero .eyebrow { display:block; margin-bottom:38px; position:relative; z-index:2; }
 .hero-logo { margin-top:4px; }
 .hero h1 > span { color:transparent; background:linear-gradient(100deg,var(--lime),#eaffc8,var(--violet)); background-clip:text; -webkit-background-clip:text; }
-.hero h1{padding:0 .12em .09em;overflow:visible;letter-spacing:-.065em}
+.hero h1{padding:0 .12em .12em;overflow:visible;letter-spacing:-.052em}
+.hero h1>span,.hero h1>strong{display:inline-block;padding:0 .09em .08em;margin:0 -.09em}
 @media(max-width:760px){.brand em{display:inline-flex;font-size:17px;padding-left:10px}.hero .eyebrow{margin-bottom:32px}}
 .tweak-icon { width:58px; height:58px; border-radius:17px; object-fit:cover; }
 .detail-icon { width:92px; height:92px; border-radius:25px; object-fit:cover; }
