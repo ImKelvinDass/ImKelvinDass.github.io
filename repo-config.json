@@ -182,7 +182,7 @@
     "architectures" : "iphoneos-arm64 arm64",
     "branch" : "main",
     "codename" : "kelvin",
-    "description" : "Original iOS tweaks by Kelvin Dass.",
+    "description" : "IOS tweaks by Kelvin Dass.",
     "generateBzip2" : true,
     "generateGzip" : true,
     "generateXZ" : true,
@@ -219,6 +219,7 @@
     "paypalURL" : "",
     "requestFormURL" : "https://formspree.io/f/xnpqbpwb",
     "requestInboxEmail" : "",
+    "analyticsAPIURL" : "",
     "requestIntro" : "Send the app and device details so I can review your request properly.",
     "requestTitle" : "Request a bypass or tweak",
     "sectionOrder" : [
