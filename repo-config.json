@@ -219,7 +219,7 @@
     "paypalURL" : "",
     "requestFormURL" : "https://formspree.io/f/xnpqbpwb",
     "requestInboxEmail" : "",
-    "analyticsAPIURL" : "",
+    "analyticsAPIURL" : "https://killerzon3-stats.kelvind409.workers.dev",
     "requestIntro" : "Send the app and device details so I can review your request properly.",
     "requestTitle" : "Request a bypass or tweak",
     "sectionOrder" : [
