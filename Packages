@@ -71,6 +71,26 @@ Size: 3196
 MD5sum: a097af707981ff20a6d208d4d1eccc50
 SHA256: db2d89715443cae5541dd7d0344ed783fed5593fa81184fe39fa024d5ebd4129
 
+Package: com.cleanpicture.tweak
+Name: Clean Pictures
+Description: Select clean pictures and use them as camera captures in supported apps.
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Tweaks
+Depends: mobilesubstrate
+Conflicts: com.kelvindass.cleanpicture
+Replaces: com.kelvindass.cleanpicture
+SileoDepiction: https://imkelvindass.github.io/package.html?id=com.cleanpicture.tweak
+Depiction: https://imkelvindass.github.io/package.html?id=com.cleanpicture.tweak
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 2680
+Icon: https://imkelvindass.github.io/assets/package-icons/com-cleanpicture-tweak-icon-1788732037.png
+Filename: debs/CleanPicture_1.0_iphoneos-arm64.deb
+Size: 2163450
+MD5sum: d9526e570299f9212d6829464e3b51fc
+SHA256: 861c54764e7b86cc3d1027204d93dacd43c6e4af13a1df0daad9bfef8a2d510e
+
 Package: com.complications.ios17
 Name: Complications IOS 17
 Version: 1.0
@@ -90,6 +110,44 @@ Filename: debs/ComplicationsIOS17_1.0_iphoneos-arm64.deb
 Size: 644676
 MD5sum: 4754ddb2034757bb89ae2c67b3937b04
 SHA256: fa5263e5f4988d9d494f8cc3fb08f828b4aea5c07c8f421d922f7968e7be451a
+
+Package: com.coopsanjose.jbbypass
+Name: CoopSanJose JB BYPASS
+Description: Jailbreak Detection Bypass
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.kelvindass.coopsanjosebypass
+Replaces: com.kelvindass.coopsanjosebypass
+SileoDepiction: https://imkelvindass.github.io/package.html?id=com.coopsanjose.jbbypass
+Depiction: https://imkelvindass.github.io/package.html?id=com.coopsanjose.jbbypass
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-coopsanjose-jbbypass-icon-1788731499.png
+Filename: debs/CoopSanJose_1.0_iphoneos-arm64.deb
+Size: 2924
+MD5sum: a08f05584599f8d6a14e8a5e7d64d148
+SHA256: 0ad01f9783ef266cf1e0a983d4d36602c4ba73e8a69d213b9c31a3f7bb9801f6
+
+Package: com.kwsp.jbbypass
+Name: KWSP JB BYPASS
+Description: Jailbreak Detection Bypass
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+SileoDepiction: https://imkelvindass.github.io/package.html?id=com.kwsp.jbbypass
+Depiction: https://imkelvindass.github.io/package.html?id=com.kwsp.jbbypass
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kwsp-jbbypass-icon-1788731742.png
+Filename: debs/KWSP_1.0_iphoneos-arm64.deb
+Size: 2804
+MD5sum: fdda67bc8c8899c9cd5826998af94998
+SHA256: 7382cda7e73f797713abf8ce648c3234a925673abf192a6141b31a71a53c1c1c
 
 Package: com.mae.ccjbbypass
 Name: MAE CC + JB BYPASS
@@ -145,6 +203,26 @@ Size: 2822
 MD5sum: 635ec7776e249d5c34300b8971192831
 SHA256: ce13f60d9e11293dc7c9e60d9eab1ed8cfa4226a510a5b2509be1e938d8f4a26
 
+Package: com.mobills.jbbypass
+Name: Mobills JB BYPASS
+Description: Jailbreak Detection Bypass
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.kelvindass.mobillscompatibility
+Replaces: com.kelvindass.mobillscompatibility
+SileoDepiction: https://imkelvindass.github.io/package.html?id=com.mobills.jbbypass
+Depiction: https://imkelvindass.github.io/package.html?id=com.mobills.jbbypass
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-mobills-jbbypass-icon-1788731625.png
+Filename: debs/Mobills_1.0_iphoneos-arm64.deb
+Size: 3972
+MD5sum: a73816b6a1ca1967ef45cc4196289ef3
+SHA256: 12eab3d5ab610c1c545e7ef2c3f48bd4844151e07a45bd07afb69e99e61bce37
+
 Package: com.ptv.jbbypass
 Name: PTV JB BYPASS
 Description: Jailbreak Detection Bypass
@@ -162,6 +240,24 @@ Filename: debs/PTV_1.0_iphoneos-arm64.deb
 Size: 5540
 MD5sum: 11027b73ccc1d916416b03ab3fff3bf0
 SHA256: 43a37f8fe3c4e1d868c3dfad371540621c872910fe4b8e30b89ca053eda4199d
+
+Package: com.ring.jbbypass
+Name: Ring JB BYPASS
+Description: Jailbreak Detection Bypass
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+SileoDepiction: https://imkelvindass.github.io/package.html?id=com.ring.jbbypass
+Depiction: https://imkelvindass.github.io/package.html?id=com.ring.jbbypass
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-ring-jbbypass-icon-1788731835.png
+Filename: debs/Ring_1.0_iphoneos-arm64.deb
+Size: 3528
+MD5sum: 8ced1f0b739db49f77897e5d586dc39e
+SHA256: dc97e28c99e34cc498fc2a90f13594b0b0337eefb475d43cc42fac5a26ab2c24
 
 Package: com.tng.jbbypass
 Name: TNG JB BYPASS
@@ -196,6 +292,26 @@ Filename: debs/UKG_1.0_iphoneos-arm64.deb
 Size: 6394
 MD5sum: d1056e617e7f56f180963d5888c67ab2
 SHA256: 091172ff6e650252fe0147acedf51a17e09edcbe7eeb1ab5bf29d53255c9a554
+
+Package: com.venngo.jbbypass
+Name: Venngo JB BYPASS
+Description: Jailbreak Detection Bypass
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.kelvindass.venngobypass
+Replaces: com.kelvindass.venngobypass
+SileoDepiction: https://imkelvindass.github.io/package.html?id=com.venngo.jbbypass
+Depiction: https://imkelvindass.github.io/package.html?id=com.venngo.jbbypass
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-venngo-jbbypass-icon-1788731286.png
+Filename: debs/Venngo_1.0_iphoneos-arm64.deb
+Size: 3268
+MD5sum: d47a6f489a7d6a9e3c979a0d2b1816b0
+SHA256: f8b15109401e8ce6fa096eee3fdf5a791cbfce211b7c1baddc5dc1dcf1ffcd34
 
 Package: com.whatsup.jbbypass
 Name: What's up JB BYPASS

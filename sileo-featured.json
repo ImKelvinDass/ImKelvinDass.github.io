@@ -40,8 +40,29 @@
     },
     {
       "url": "https://imkelvindass.github.io/assets/sileo-featured-banner.png",
+      "title": "Clean Pictures",
+      "package": "com.cleanpicture.tweak",
+      "repoName": "Kelvin",
+      "hideShadow": false
+    },
+    {
+      "url": "https://imkelvindass.github.io/assets/sileo-featured-banner.png",
       "title": "Complications IOS 17",
       "package": "com.complications.ios17",
+      "repoName": "Kelvin",
+      "hideShadow": false
+    },
+    {
+      "url": "https://imkelvindass.github.io/assets/sileo-featured-banner.png",
+      "title": "CoopSanJose JB BYPASS",
+      "package": "com.coopsanjose.jbbypass",
+      "repoName": "Kelvin",
+      "hideShadow": false
+    },
+    {
+      "url": "https://imkelvindass.github.io/assets/package-banners/com-kwsp-jbbypass-banner-1788732350.png",
+      "title": "KWSP JB BYPASS",
+      "package": "com.kwsp.jbbypass",
       "repoName": "Kelvin",
       "hideShadow": false
     },
@@ -61,6 +82,13 @@
     },
     {
       "url": "https://imkelvindass.github.io/assets/sileo-featured-banner.png",
+      "title": "Mobills JB BYPASS",
+      "package": "com.mobills.jbbypass",
+      "repoName": "Kelvin",
+      "hideShadow": false
+    },
+    {
+      "url": "https://imkelvindass.github.io/assets/sileo-featured-banner.png",
       "title": "MYWE JB BYPASS",
       "package": "com.mywe.jbbypass",
       "repoName": "Kelvin",
@@ -75,6 +103,13 @@
     },
     {
       "url": "https://imkelvindass.github.io/assets/sileo-featured-banner.png",
+      "title": "Ring JB BYPASS",
+      "package": "com.ring.jbbypass",
+      "repoName": "Kelvin",
+      "hideShadow": false
+    },
+    {
+      "url": "https://imkelvindass.github.io/assets/sileo-featured-banner.png",
       "title": "TNG JB BYPASS",
       "package": "com.tng.jbbypass",
       "repoName": "Kelvin",
@@ -84,6 +119,13 @@
       "url": "https://imkelvindass.github.io/assets/sileo-featured-banner.png",
       "title": "UKG JB BYPASS",
       "package": "com.kelvindass.ukgprobypass",
+      "repoName": "Kelvin",
+      "hideShadow": false
+    },
+    {
+      "url": "https://imkelvindass.github.io/assets/sileo-featured-banner.png",
+      "title": "Venngo JB BYPASS",
+      "package": "com.venngo.jbbypass",
       "repoName": "Kelvin",
       "hideShadow": false
     },
