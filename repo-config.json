@@ -283,7 +283,7 @@
     "accentSecondary" : "#9b4dff",
     "addSubtitle" : "Choose your package manager to get started.",
     "addTitle" : "Add the repo",
-    "analyticsAPIURL" : "",
+    "analyticsAPIURL" : "https://killerzon3-stats.kelvind409.workers.dev",
     "brand" : "KiLlErZoN3",
     "buyMeCoffeeURL" : "",
     "country" : "Malaysia",
