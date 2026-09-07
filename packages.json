@@ -95,6 +95,8 @@
     "iconImage": "assets/package-icons/com-cimb-jbbypass-icon-1788437818.png",
     "iconText": "CIMB",
     "longDescription": "Version 1.10.2",
+    "showBannerSileo": true,
+    "showBannerWebsite": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {
@@ -154,6 +156,8 @@
     "iconImage": "assets/package-icons/com-coopsanjose-jbbypass-icon-1788731499.png",
     "iconText": "CO",
     "longDescription": "Version 4.7.1",
+    "showBannerSileo": true,
+    "showBannerWebsite": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {
@@ -167,7 +171,6 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/KWSP_1.0_iphoneos-arm64.deb",
     "size": 2804,
-    "bannerImage": "assets/package-banners/com-kwsp-jbbypass-banner-1788732350.png",
     "changelog": "Tested and working",
     "compatibility": "IOS 17",
     "featured": true,
@@ -175,6 +178,8 @@
     "iconImage": "assets/package-icons/com-kwsp-jbbypass-icon-1788731742.png",
     "iconText": "KW",
     "longDescription": "Version 4.9.3",
+    "showBannerSileo": true,
+    "showBannerWebsite": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {
@@ -195,6 +200,8 @@
     "iconImage": "assets/package-icons/com-mae-ccjbbypass-icon-1788437787.png",
     "iconText": "MAE",
     "longDescription": "Version 0.9.48",
+    "showBannerSileo": true,
+    "showBannerWebsite": false,
     "tagline": "CCmodule + JB BYPASS"
   },
   {
@@ -215,6 +222,8 @@
     "iconImage": "assets/package-icons/com-mae-jbbypass-icon-1788437779.png",
     "iconText": "MAE",
     "longDescription": "Version 0.9.48",
+    "showBannerSileo": true,
+    "showBannerWebsite": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {
@@ -255,6 +264,8 @@
     "iconImage": "assets/package-icons/com-mywe-jbbypass-icon-1788437713.png",
     "iconText": "MYWE",
     "longDescription": "Version 8.7",
+    "showBannerSileo": true,
+    "showBannerWebsite": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {
@@ -315,6 +326,8 @@
     "iconImage": "assets/package-icons/com-tng-jbbypass-icon-1788437593.png",
     "iconText": "TNG",
     "longDescription": "Version 1.9.12",
+    "showBannerSileo": true,
+    "showBannerWebsite": false,
     "tagline": "CCmodule + JB BYPASS"
   },
   {
@@ -335,6 +348,8 @@
     "iconImage": "assets/package-icons/com-kelvindass-ukgprobypass-icon-1788621121.png",
     "iconText": "UK",
     "longDescription": "Version 5.7.4",
+    "showBannerSileo": true,
+    "showBannerWebsite": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {

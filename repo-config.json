@@ -44,6 +44,7 @@
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.cimb.jbbypass" : {
+      "bannerImage" : "assets/package-banners/com-cimb-jbbypass-banner-1788768892.png",
       "changelog" : "Tested and working",
       "compatibility" : "IOS 17",
       "featured" : true,
@@ -51,6 +52,8 @@
       "iconImage" : "assets/package-icons/com-cimb-jbbypass-icon-1788437818.png",
       "iconText" : "CIMB",
       "longDescription" : "Version 1.10.2",
+      "showBannerSileo" : true,
+      "showBannerWebsite" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.cleanpicture.tweak" : {
@@ -73,6 +76,7 @@
       "tagline" : "watchOS-style complications for the iOS 17 Lock Screen"
     },
     "com.coopsanjose.jbbypass" : {
+      "bannerImage" : "assets/package-banners/com-coopsanjose-jbbypass-banner-1788768962.png",
       "changelog" : "Tested and working",
       "compatibility" : "IOS 17",
       "featured" : true,
@@ -80,6 +84,8 @@
       "iconImage" : "assets/package-icons/com-coopsanjose-jbbypass-icon-1788731499.png",
       "iconText" : "CO",
       "longDescription" : "Version 4.7.1",
+      "showBannerSileo" : true,
+      "showBannerWebsite" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.kelvin.maejbbypass" : {
@@ -119,6 +125,7 @@
       "tagline" : "watchOS-style Lock Screen widgets in English."
     },
     "com.kelvindass.ukgprobypass" : {
+      "bannerImage" : "assets/package-banners/com-kelvindass-ukgprobypass-banner-1788768864.png",
       "changelog" : "Tested and working",
       "compatibility" : "IOS 17",
       "featured" : true,
@@ -126,10 +133,12 @@
       "iconImage" : "assets/package-icons/com-kelvindass-ukgprobypass-icon-1788621121.png",
       "iconText" : "UK",
       "longDescription" : "Version 5.7.4",
+      "showBannerSileo" : true,
+      "showBannerWebsite" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.kwsp.jbbypass" : {
-      "bannerImage" : "assets/package-banners/com-kwsp-jbbypass-banner-1788732350.png",
+      "bannerImage" : "assets/package-banners/com-kwsp-jbbypass-banner-1788768489.png",
       "changelog" : "Tested and working",
       "compatibility" : "IOS 17",
       "featured" : true,
@@ -137,9 +146,12 @@
       "iconImage" : "assets/package-icons/com-kwsp-jbbypass-icon-1788731742.png",
       "iconText" : "KW",
       "longDescription" : "Version 4.9.3",
+      "showBannerSileo" : true,
+      "showBannerWebsite" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.mae.ccjbbypass" : {
+      "bannerImage" : "assets/package-banners/com-mae-ccjbbypass-banner-1788768844.png",
       "changelog" : "Control center module",
       "compatibility" : "IOS 17",
       "featured" : true,
@@ -147,9 +159,12 @@
       "iconImage" : "assets/package-icons/com-mae-ccjbbypass-icon-1788437787.png",
       "iconText" : "MAE",
       "longDescription" : "Version 0.9.48",
+      "showBannerSileo" : true,
+      "showBannerWebsite" : false,
       "tagline" : "CCmodule + JB BYPASS"
     },
     "com.mae.jbbypass" : {
+      "bannerImage" : "assets/package-banners/com-mae-jbbypass-banner-1788768761.png",
       "changelog" : "Tested and working",
       "compatibility" : "IOS 17",
       "featured" : true,
@@ -157,6 +172,8 @@
       "iconImage" : "assets/package-icons/com-mae-jbbypass-icon-1788437779.png",
       "iconText" : "MAE",
       "longDescription" : "Version 0.9.48",
+      "showBannerSileo" : true,
+      "showBannerWebsite" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.mobills.jbbypass" : {
@@ -170,6 +187,7 @@
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.mywe.jbbypass" : {
+      "bannerImage" : "assets/package-banners/com-mywe-jbbypass-banner-1788768721.png",
       "changelog" : "Tested and working",
       "compatibility" : "IOS 17",
       "featured" : true,
@@ -177,6 +195,8 @@
       "iconImage" : "assets/package-icons/com-mywe-jbbypass-icon-1788437713.png",
       "iconText" : "MYWE",
       "longDescription" : "Version 8.7",
+      "showBannerSileo" : true,
+      "showBannerWebsite" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.ptv.jbbypass" : {
@@ -200,6 +220,7 @@
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.tng.jbbypass" : {
+      "bannerImage" : "assets/package-banners/com-tng-jbbypass-banner-1788768919.png",
       "changelog" : "Tested and working",
       "compatibility" : "IOS 17",
       "featured" : true,
@@ -207,6 +228,8 @@
       "iconImage" : "assets/package-icons/com-tng-jbbypass-icon-1788437593.png",
       "iconText" : "TNG",
       "longDescription" : "Version 1.9.12",
+      "showBannerSileo" : true,
+      "showBannerWebsite" : false,
       "tagline" : "CCmodule + JB BYPASS"
     },
     "com.venngo.jbbypass" : {
@@ -260,6 +283,7 @@
     "accentSecondary" : "#9b4dff",
     "addSubtitle" : "Choose your package manager to get started.",
     "addTitle" : "Add the repo",
+    "analyticsAPIURL" : "",
     "brand" : "KiLlErZoN3",
     "buyMeCoffeeURL" : "",
     "country" : "Malaysia",
