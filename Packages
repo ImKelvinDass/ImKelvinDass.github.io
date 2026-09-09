@@ -17,6 +17,22 @@ Size: 378094
 MD5sum: 31c49bb83fe9e3102de48aa75c6e15a5
 SHA256: 55f01a4394d50edb65783ef01338bfffdcf3c92e8a3af5a3c9838ba208b3293f
 
+Package: com.kelvindass.banreservasbypass
+Name: Banreservas Bypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: Kelvin
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-banreservasbypass-icon-1788958419.png
+Filename: debs/BanreservasBypass_v1.0_iphoneos-arm64.deb
+Size: 4412
+MD5sum: 4e25632ef8c02150a4018f71da7ecd57
+SHA256: 48cd390eff87685e309655897f3984369d98affb597c08e96bf3957ead358b12
+
 Package: com.briorhr.jbbypass
 Name: BriorHR JB BYPASS
 Description: Jailbreak Detection Bypass

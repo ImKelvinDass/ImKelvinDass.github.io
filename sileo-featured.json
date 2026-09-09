@@ -2,5 +2,62 @@
   "class": "FeaturedBannersView",
   "itemSize": "{296, 148}",
   "itemCornerRadius": 12,
-  "banners": []
+  "banners": [
+    {
+      "url": "https://imkelvindass.github.io/assets/package-banners/com-cimb-jbbypass-banner-1788768892.png",
+      "title": "CIMB JB BYPASS",
+      "package": "com.cimb.jbbypass",
+      "repoName": "Kelvin",
+      "hideShadow": false
+    },
+    {
+      "url": "https://imkelvindass.github.io/assets/package-banners/com-coopsanjose-jbbypass-banner-1788768962.png",
+      "title": "CoopSanJose JB BYPASS",
+      "package": "com.coopsanjose.jbbypass",
+      "repoName": "Kelvin",
+      "hideShadow": false
+    },
+    {
+      "url": "https://imkelvindass.github.io/assets/package-banners/com-kwsp-jbbypass-banner-1788768489.png",
+      "title": "KWSP JB BYPASS",
+      "package": "com.kwsp.jbbypass",
+      "repoName": "Kelvin",
+      "hideShadow": false
+    },
+    {
+      "url": "https://imkelvindass.github.io/assets/package-banners/com-mae-ccjbbypass-banner-1788768844.png",
+      "title": "MAE CC + JB BYPASS",
+      "package": "com.mae.ccjbbypass",
+      "repoName": "Kelvin",
+      "hideShadow": false
+    },
+    {
+      "url": "https://imkelvindass.github.io/assets/package-banners/com-mae-jbbypass-banner-1788768761.png",
+      "title": "MAE JB BYPASS",
+      "package": "com.mae.jbbypass",
+      "repoName": "Kelvin",
+      "hideShadow": false
+    },
+    {
+      "url": "https://imkelvindass.github.io/assets/package-banners/com-mywe-jbbypass-banner-1788768721.png",
+      "title": "MYWE JB BYPASS",
+      "package": "com.mywe.jbbypass",
+      "repoName": "Kelvin",
+      "hideShadow": false
+    },
+    {
+      "url": "https://imkelvindass.github.io/assets/package-banners/com-tng-jbbypass-banner-1788768919.png",
+      "title": "TNG JB BYPASS",
+      "package": "com.tng.jbbypass",
+      "repoName": "Kelvin",
+      "hideShadow": false
+    },
+    {
+      "url": "https://imkelvindass.github.io/assets/package-banners/com-kelvindass-ukgprobypass-banner-1788768864.png",
+      "title": "UKG JB BYPASS",
+      "package": "com.kelvindass.ukgprobypass",
+      "repoName": "Kelvin",
+      "hideShadow": false
+    }
+  ]
 }
