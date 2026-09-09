@@ -63,7 +63,14 @@
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.cleanpicture.tweak" : {
-      "changelog" : "Tested and working",
+      "changelog" : "Supported all picture size ",
+      "changelogHistory" : [
+        {
+          "date" : "10 Sep 2026",
+          "notes" : "Supported all picture size ",
+          "version" : "1.1"
+        }
+      ],
       "compatibility" : "IOS 17",
       "featured" : true,
       "featuredWebsite" : false,

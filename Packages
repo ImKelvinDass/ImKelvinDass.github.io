@@ -89,23 +89,23 @@ SHA256: db2d89715443cae5541dd7d0344ed783fed5593fa81184fe39fa024d5ebd4129
 
 Package: com.cleanpicture.tweak
 Name: Clean Pictures
-Description: Select clean pictures and use them as camera captures in supported apps.
-Maintainer: Kelvin
-Author: KiLlErZoN3
+Version: 1.1
+Architecture: iphoneos-arm64
 Section: Tweaks
+Author: KiLlErZoN3
+Maintainer: Kelvin
 Depends: mobilesubstrate
+Description: Select clean pictures and use them as camera captures in supported apps
 Conflicts: com.kelvindass.cleanpicture
+Depiction: https://imkelvindass.github.io/package.html?id=com.cleanpicture.tweak
+Installed-Size: 2680
 Replaces: com.kelvindass.cleanpicture
 SileoDepiction: https://imkelvindass.github.io/package.html?id=com.cleanpicture.tweak
-Depiction: https://imkelvindass.github.io/package.html?id=com.cleanpicture.tweak
-Architecture: iphoneos-arm64
-Version: 1.0
-Installed-Size: 2680
 Icon: https://imkelvindass.github.io/assets/package-icons/com-cleanpicture-tweak-icon-1788732037.png
-Filename: debs/CleanPicture_1.0_iphoneos-arm64.deb
-Size: 2163450
-MD5sum: d9526e570299f9212d6829464e3b51fc
-SHA256: 861c54764e7b86cc3d1027204d93dacd43c6e4af13a1df0daad9bfef8a2d510e
+Filename: debs/CleanPicture_1.1_iphoneos-arm64.deb
+Size: 2107236
+MD5sum: e2a828292a1d26471df5e55325ee2490
+SHA256: 368231e8a9a0af6fdb723f8baa97b66b977b2fd504ae4f0e7df0edfa9710f65c
 
 Package: com.complications.ios17
 Name: Complications IOS 17

@@ -131,15 +131,22 @@
   {
     "id": "com.cleanpicture.tweak",
     "name": "Clean Pictures",
-    "version": "1.0",
+    "version": "1.1",
     "architecture": "iphoneos-arm64",
     "author": "KiLlErZoN3",
     "section": "Tweaks",
     "depends": "mobilesubstrate",
-    "summary": "Select clean pictures and use them as camera captures in supported apps.",
-    "filename": "debs/CleanPicture_1.0_iphoneos-arm64.deb",
-    "size": 2163450,
-    "changelog": "Tested and working",
+    "summary": "Select clean pictures and use them as camera captures in supported apps",
+    "filename": "debs/CleanPicture_1.1_iphoneos-arm64.deb",
+    "size": 2107236,
+    "changelog": "Supported all picture size ",
+    "changelogHistory": [
+      {
+        "date": "10 Sep 2026",
+        "notes": "Supported all picture size ",
+        "version": "1.1"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
     "featuredWebsite": false,
