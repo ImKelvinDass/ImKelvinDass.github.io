@@ -1,18 +1,18 @@
 Package: com.kelvindass.affinalwayscompatibility
 Name: AffinAlwaysX JB BYPASS
-Description: Device compatibility tweak for AffinAlwaysX 1.3.7/1.3.8
-Maintainer: Kelvin
-Author: Kelvin
-Section: Bypass
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm64
 Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: Kelvin
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass
 Installed-Size: 172
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-affinalwayscompatibility-icon-1789514982.png
 Filename: debs/AffinAlwaysX_1.0_iphoneos-arm64.deb
-Size: 10382
-MD5sum: 1dd91d16eb65fb1f483468807b90d873
-SHA256: 4a463a034bedf7c9816035a85cb684010b775612a465eac342a9e5362387c3eb
+Size: 10472
+MD5sum: 200710577aca26cdd3b23a90ef3c686e
+SHA256: 359f30e223aaef5d842e05a75aaac066c7df945d2bf951bbbbf9097efea52861
 
 Package: com.atria.ios17
 Name: ATRIA IOS 17
@@ -162,26 +162,6 @@ Filename: debs/CoopSanJose_1.0_iphoneos-arm64.deb
 Size: 2924
 MD5sum: a08f05584599f8d6a14e8a5e7d64d148
 SHA256: 0ad01f9783ef266cf1e0a983d4d36602c4ba73e8a69d213b9c31a3f7bb9801f6
-
-Package: com.gcash.jbbypass
-Name: GCash JB BYPASS
-Description: Jailbreak Detection Bypass
-Maintainer: Kelvin
-Author: KiLlErZoN3
-Section: Bypass
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.gcash.startupdiagnostics
-Replaces: com.gcash.startupdiagnostics
-SileoDepiction: https://imkelvindass.github.io/package.html?id=com.gcash.jbbypass
-Depiction: https://imkelvindass.github.io/package.html?id=com.gcash.jbbypass
-Architecture: iphoneos-arm64
-Version: 1.0
-Installed-Size: 72
-Icon: https://imkelvindass.github.io/assets/package-icons/com-gcash-jbbypass-icon-1789515091.png
-Filename: debs/GCash_1.0_iphoneos-arm64.deb
-Size: 4326
-MD5sum: a469fe87b9a06235301774ca25811ca4
-SHA256: de0352dc8bba836cc070a39b427814d3211bb42949990c84e9e6dead523c6418
 
 Package: com.kelvindass.hsbccompatibility
 Name: HSBC JB BYPASS
