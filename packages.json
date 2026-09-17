@@ -67,11 +67,11 @@
     "version": "2.0",
     "architecture": "iphoneos-arm64",
     "author": "Kelvin",
-    "section": "Tweaks",
+    "section": "Bypass",
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/BanreservasBypass_v2.0_iphoneos-arm64.deb",
-    "size": 5304,
+    "size": 5292,
     "changelog": "Tested and working",
     "changelogHistory": [
       {
