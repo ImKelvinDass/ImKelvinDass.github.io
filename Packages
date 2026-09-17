@@ -35,19 +35,19 @@ SHA256: 55f01a4394d50edb65783ef01338bfffdcf3c92e8a3af5a3c9838ba208b3293f
 
 Package: com.kelvindass.banreservasbypass
 Name: Banreservas Bypass
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm64
-Section: Bypass
+Section: Tweaks
 Author: Kelvin
 Maintainer: Kelvin
 Depends: mobilesubstrate (>= 0.9.5000)
 Description: Jailbreak Detection Bypass
 Installed-Size: 72
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-banreservasbypass-icon-1788958419.png
-Filename: debs/BanreservasBypass_v1.0_iphoneos-arm64.deb
-Size: 4412
-MD5sum: 4e25632ef8c02150a4018f71da7ecd57
-SHA256: 48cd390eff87685e309655897f3984369d98affb597c08e96bf3957ead358b12
+Filename: debs/BanreservasBypass_v2.0_iphoneos-arm64.deb
+Size: 5304
+MD5sum: 5e28f22f5594dba9d385151b5fb7b433
+SHA256: 77136fdcf9bc0601b903cb9d95c912cc5276d8de710096e2be351d630be1e087
 
 Package: com.briorhr.jbbypass
 Name: BriorHR JB BYPASS
@@ -122,26 +122,6 @@ Filename: debs/CleanPicture_1.1_iphoneos-arm64.deb
 Size: 2107236
 MD5sum: e2a828292a1d26471df5e55325ee2490
 SHA256: 368231e8a9a0af6fdb723f8baa97b66b977b2fd504ae4f0e7df0edfa9710f65c
-
-Package: com.complications.ios17
-Name: Complications IOS 17
-Version: 1.0
-Architecture: iphoneos-arm64
-Description: watchOS-style complications for the iOS 17 Lock Screen.
-Maintainer: Kelvin
-Author: KiLlErZoN3
-Section: Tweaks
-Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: byg.iosios.net.complications, com.icraze.complicationsfix
-Replaces: byg.iosios.net.complications, com.icraze.complicationsfix
-Provides: com.icraze.complicationsfix
-SileoDepiction: https://imkelvindass.github.io/package.html?id=com.complications.ios17
-Depiction: https://imkelvindass.github.io/package.html?id=com.complications.ios17
-Icon: https://imkelvindass.github.io/assets/kz3-mark.png
-Filename: debs/ComplicationsIOS17_1.0_iphoneos-arm64.deb
-Size: 644676
-MD5sum: 4754ddb2034757bb89ae2c67b3937b04
-SHA256: fa5263e5f4988d9d494f8cc3fb08f828b4aea5c07c8f421d922f7968e7be451a
 
 Package: com.coopsanjose.jbbypass
 Name: CoopSanJose JB BYPASS
@@ -378,21 +358,3 @@ Filename: debs/WhatsUp_1.0_iphoneos-arm64.deb
 Size: 2396
 MD5sum: e33975467eb1a7ea7e2a9782735f3121
 SHA256: fb3588ab25cdafa418e7ca6c8b2b2df2dc78a8394d056888f37ee2d68f569ad0
-
-Package: com.autolock30seconds.ios17
-Name: AUTOLOCK30SECONDS IOS 17
-Description: Lock Screen timeout customization for iOS 17. Turns off the locked screen after 30 seconds while keeping unlocked Auto-Lock at 5 minutes.
-Maintainer: Kelvin
-Author: KiLlErZoN3
-Section: Tweaks
-Depends: firmware (>= 15.0), mobilesubstrate
-SileoDepiction: https://imkelvindass.github.io/package.html?id=com.autolock30seconds.ios17
-Depiction: https://imkelvindass.github.io/package.html?id=com.autolock30seconds.ios17
-Architecture: iphoneos-arm64
-Version: 1.0
-Installed-Size: 168
-Icon: https://imkelvindass.github.io/assets/kz3-mark.png
-Filename: debs/com.autolock30seconds.ios17_1.0_iphoneos-arm64.deb
-Size: 3982
-MD5sum: 551be5e0da5b89f6d2a45203fbdbc752
-SHA256: a729549b74863568830ab5c413272a708221b3dd4563d3d21cf8bcb964c0e87c

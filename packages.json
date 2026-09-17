@@ -20,25 +20,6 @@
     "tagline": "Jailbreak Detection Bypass"
   },
   {
-    "id": "com.autolock30seconds.ios17",
-    "name": "AUTOLOCK30SECONDS IOS 17",
-    "version": "1.0",
-    "architecture": "iphoneos-arm64",
-    "author": "KiLlErZoN3",
-    "section": "Tweaks",
-    "depends": "firmware (>= 15.0), mobilesubstrate",
-    "summary": "Lock Screen timeout customization for iOS 17. Turns off the locked screen after 30 seconds while keeping unlocked Auto-Lock at 5 minutes.",
-    "filename": "debs/com.autolock30seconds.ios17_1.0_iphoneos-arm64.deb",
-    "size": 3982,
-    "changelog": "Tested and working",
-    "compatibility": "IOS 17",
-    "featured": true,
-    "iconColor": "#fed100",
-    "iconText": "AUTO-LOCK",
-    "longDescription": "Turns off the locked screen after 30 seconds while keeping unlocked Auto-Lock at 5 minutes.",
-    "tagline": "Lock Screen timeout customization for iOS 17"
-  },
-  {
     "id": "com.kelvindass.hsbccompatibility",
     "name": "HSBC JB BYPASS",
     "version": "1.0",
@@ -83,22 +64,29 @@
   {
     "id": "com.kelvindass.banreservasbypass",
     "name": "Banreservas Bypass",
-    "version": "1.0",
+    "version": "2.0",
     "architecture": "iphoneos-arm64",
     "author": "Kelvin",
-    "section": "Bypass",
+    "section": "Tweaks",
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
-    "filename": "debs/BanreservasBypass_v1.0_iphoneos-arm64.deb",
-    "size": 4412,
+    "filename": "debs/BanreservasBypass_v2.0_iphoneos-arm64.deb",
+    "size": 5304,
     "changelog": "Tested and working",
+    "changelogHistory": [
+      {
+        "date": "17 Sep 2026",
+        "notes": "Version 7.1.0",
+        "version": "2.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
     "featuredWebsite": false,
     "iconColor": "#9cff00",
     "iconImage": "assets/package-icons/com-kelvindass-banreservasbypass-icon-1788958419.png",
     "iconText": "BA",
-    "longDescription": "Version 6.3.2",
+    "longDescription": "Version 7.1.0",
     "showBannerSileo": true,
     "showBannerWebsite": true,
     "tagline": "Jailbreak Detection Bypass"
@@ -197,26 +185,6 @@
     "iconText": "CL",
     "longDescription": "FakePictures alternative. Request for apps",
     "tagline": "Select clean pictures and use them as camera captures in supported apps"
-  },
-  {
-    "id": "com.complications.ios17",
-    "name": "Complications IOS 17",
-    "version": "1.0",
-    "architecture": "iphoneos-arm64",
-    "author": "KiLlErZoN3",
-    "section": "Tweaks",
-    "depends": "firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)",
-    "summary": "watchOS-style complications for the iOS 17 Lock Screen.",
-    "filename": "debs/ComplicationsIOS17_1.0_iphoneos-arm64.deb",
-    "size": 644676,
-    "changelog": "Tested and working",
-    "compatibility": "IOS 17",
-    "featured": false,
-    "featuredWebsite": false,
-    "iconColor": "#9cff00",
-    "iconText": "WatchOS",
-    "longDescription": "Modified",
-    "tagline": "watchOS-style complications for the iOS 17 Lock Screen"
   },
   {
     "id": "com.coopsanjose.jbbypass",

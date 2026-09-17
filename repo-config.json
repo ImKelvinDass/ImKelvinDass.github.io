@@ -15,15 +15,6 @@
       "longDescription" : "Modified https://github.com/ren7995/Atria",
       "tagline" : "Working home Screen layout customization for iOS 17"
     },
-    "com.autolock30seconds.ios17" : {
-      "changelog" : "Tested and working",
-      "compatibility" : "IOS 17",
-      "featured" : true,
-      "iconColor" : "#fed100",
-      "iconText" : "AUTO-LOCK",
-      "longDescription" : "Turns off the locked screen after 30 seconds while keeping unlocked Auto-Lock at 5 minutes.",
-      "tagline" : "Lock Screen timeout customization for iOS 17"
-    },
     "com.briorhr.jbbypass" : {
       "changelog" : "Tested and working",
       "compatibility" : "IOS 17",
@@ -80,16 +71,6 @@
       "longDescription" : "FakePictures alternative. Request for apps",
       "tagline" : "Select clean pictures and use them as camera captures in supported apps"
     },
-    "com.complications.ios17" : {
-      "changelog" : "Tested and working",
-      "compatibility" : "IOS 17",
-      "featured" : true,
-      "featuredWebsite" : false,
-      "iconColor" : "#9cff00",
-      "iconText" : "WatchOS",
-      "longDescription" : "Modified",
-      "tagline" : "watchOS-style complications for the iOS 17 Lock Screen"
-    },
     "com.coopsanjose.jbbypass" : {
       "bannerImage" : "assets/package-banners/com-coopsanjose-jbbypass-banner-1788768962.png",
       "changelog" : "Tested and working",
@@ -135,13 +116,20 @@
     },
     "com.kelvindass.banreservasbypass" : {
       "changelog" : "Tested and working",
+      "changelogHistory" : [
+        {
+          "date" : "17 Sep 2026",
+          "notes" : "Version 7.1.0",
+          "version" : "2.0"
+        }
+      ],
       "compatibility" : "IOS 17",
       "featured" : true,
       "featuredWebsite" : false,
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvindass-banreservasbypass-icon-1788958419.png",
       "iconText" : "BA",
-      "longDescription" : "Version 6.3.2",
+      "longDescription" : "Version 7.1.0",
       "showBannerSileo" : true,
       "showBannerWebsite" : true,
       "tagline" : "Jailbreak Detection Bypass"
