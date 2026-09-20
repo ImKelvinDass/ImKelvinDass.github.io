@@ -1,3 +1,19 @@
+Package: com.kelvindass.aeonwalletbypass
+Name: AEON Wallet Bypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: Kelvin
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-aeonwalletbypass-icon-1789938481.png
+Filename: debs/AEONWalletBypass_1.0_iphoneos-arm64.deb
+Size: 4996
+MD5sum: 84b9bfd4aabd636ce08a7856719f2cd8
+SHA256: 5d672d2f66b662cf291d5dfab9309f83e9937f889ebc9c95903d598afcdb7584
+
 Package: com.kelvindass.affinalwayscompatibility
 Name: AffinAlwaysX JB BYPASS
 Version: 1.0
