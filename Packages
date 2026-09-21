@@ -283,6 +283,22 @@ Size: 3972
 MD5sum: a73816b6a1ca1967ef45cc4196289ef3
 SHA256: 12eab3d5ab610c1c545e7ef2c3f48bd4844151e07a45bd07afb69e99e61bce37
 
+Package: com.kelvindass.outlooklocaldetectionbypass
+Name: Outlook Jailbreak Bypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: Kelvin
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-outlooklocaldetectionbypass-icon-1790021905.png
+Filename: debs/OutlookBypass_1.0_iphoneos-arm64.deb
+Size: 2924
+MD5sum: e13193b227722f66fc43d3ceb5faa307
+SHA256: fb66aaa48384f7d0db44b4c3b6c75f105baf8cb86bc8b52db46d81e5611d0a73
+
 Package: com.ptv.jbbypass
 Name: PTV JB BYPASS
 Description: Jailbreak Detection Bypass
@@ -336,6 +352,22 @@ Filename: debs/TNG_1.0_iphoneos-arm64.deb
 Size: 12230
 MD5sum: 6043a31ad74c7328c9b9fba6c7139e5d
 SHA256: a68828ab234e3fcbd999ef1fbdca1784d65ff2211cac89e392e9274668016b61
+
+Package: com.kelvindass.teamslocaldetectionbypass
+Name: Teams Jailbreak Bypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: Kelvin
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-teamslocaldetectionbypass-icon-1790021800.png
+Filename: debs/TeamsBypass_1.0_iphoneos-arm64.deb
+Size: 2932
+MD5sum: 8bcf0bce232b538a38e2584a3a8bb90d
+SHA256: 880572995a04b8bb52237339d3483a7541f4556e885c3ab15be97e34cc39e8d7
 
 Package: com.kelvindass.ukgprobypass
 Name: UKG JB BYPASS

@@ -186,6 +186,26 @@
       "showBannerWebsite" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
+    "com.kelvindass.outlooklocaldetectionbypass" : {
+      "changelog" : "TBA",
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-kelvindass-outlooklocaldetectionbypass-icon-1790021905.png",
+      "iconText" : "OU",
+      "longDescription" : "Version 4.2535.0",
+      "tagline" : "Jailbreak Detection Bypass"
+    },
+    "com.kelvindass.teamslocaldetectionbypass" : {
+      "changelog" : "TBA",
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-kelvindass-teamslocaldetectionbypass-icon-1790021800.png",
+      "iconText" : "TE",
+      "longDescription" : "Version 8.16.3 ",
+      "tagline" : "Jailbreak Detection Bypass"
+    },
     "com.kelvindass.ukgprobypass" : {
       "bannerImage" : "assets/package-banners/com-kelvindass-ukgprobypass-banner-1788768864.png",
       "changelog" : "Tested and working",
