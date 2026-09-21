@@ -42,6 +42,26 @@
     "tagline": "Jailbreak Detection Bypass"
   },
   {
+    "id": "com.kelvindass.gxbankbypass",
+    "name": "GXBank Bypass",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "Kelvin",
+    "section": "Tweaks",
+    "depends": "mobilesubstrate (>= 0.9.5000)",
+    "summary": "Jailbreak Detection Bypass",
+    "filename": "debs/GXBankBypass_1.0_iphoneos-arm64.deb",
+    "size": 5216,
+    "changelog": "Tested and working",
+    "compatibility": "IOS 17",
+    "featured": true,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-kelvindass-gxbankbypass-icon-1790011844.png",
+    "iconText": "GX",
+    "longDescription": "Version 2.37.0",
+    "tagline": "Jailbreak Detection Bypass"
+  },
+  {
     "id": "com.kelvindass.hsbccompatibility",
     "name": "HSBC JB BYPASS",
     "version": "1.0",

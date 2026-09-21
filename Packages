@@ -159,6 +159,22 @@ Size: 2924
 MD5sum: a08f05584599f8d6a14e8a5e7d64d148
 SHA256: 0ad01f9783ef266cf1e0a983d4d36602c4ba73e8a69d213b9c31a3f7bb9801f6
 
+Package: com.kelvindass.gxbankbypass
+Name: GXBank Bypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Tweaks
+Author: Kelvin
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-gxbankbypass-icon-1790011844.png
+Filename: debs/GXBankBypass_1.0_iphoneos-arm64.deb
+Size: 5216
+MD5sum: 329ade73e48a4900b0f686de54057413
+SHA256: 1eb831282660796c80db54fa0446db6a5f84294f44d3af23757818483b449ae4
+
 Package: com.kelvindass.hsbccompatibility
 Name: HSBC JB BYPASS
 Version: 1.0
