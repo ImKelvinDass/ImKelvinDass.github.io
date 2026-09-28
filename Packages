@@ -283,6 +283,22 @@ Size: 3972
 MD5sum: a73816b6a1ca1967ef45cc4196289ef3
 SHA256: 12eab3d5ab610c1c545e7ef2c3f48bd4844151e07a45bd07afb69e99e61bce37
 
+Package: com.kelvindass.mydigitalidbypass
+Name: MyDigitalIDBypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: Kelvin
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-mydigitalidbypass-icon-1790595022.png
+Filename: debs/MyDigitalIDBypass_1.0_iphoneos-arm64.deb
+Size: 4720
+MD5sum: 7afc63fe1a74353af54e837f151224f9
+SHA256: f4ce8c7a50f9ef85e06b2432d7a29355093cc5ff361430a323596acc3838f1ac
+
 Package: com.kelvindass.outlooklocaldetectionbypass
 Name: Outlook Jailbreak Bypass
 Version: 1.0
