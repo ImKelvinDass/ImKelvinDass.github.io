@@ -187,7 +187,14 @@
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.kelvindass.mydigitalidbypass" : {
-      "changelog" : "Tested and working",
+      "changelog" : "Fixed",
+      "changelogHistory" : [
+        {
+          "date" : "29 Sep 2026",
+          "notes" : "Fixed",
+          "version" : "1.2"
+        }
+      ],
       "compatibility" : "IOS 17",
       "featured" : true,
       "iconColor" : "#9cff00",

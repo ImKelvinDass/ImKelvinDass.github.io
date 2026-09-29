@@ -86,15 +86,22 @@
   {
     "id": "com.kelvindass.mydigitalidbypass",
     "name": "MyDigitalIDBypass",
-    "version": "1.0",
+    "version": "1.2",
     "architecture": "iphoneos-arm64",
     "author": "Kelvin",
     "section": "Bypass",
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
-    "filename": "debs/MyDigitalIDBypass_1.0_iphoneos-arm64.deb",
-    "size": 4720,
-    "changelog": "Tested and working",
+    "filename": "debs/MyDigitalIDBypass_1.2_iphoneos-arm64.deb",
+    "size": 5756,
+    "changelog": "Fixed",
+    "changelogHistory": [
+      {
+        "date": "29 Sep 2026",
+        "notes": "Fixed",
+        "version": "1.2"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": true,
     "iconColor": "#9cff00",
