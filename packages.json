@@ -242,10 +242,10 @@
     "author": "xelahot",
     "section": "Tweaks",
     "depends": "",
-    "summary": "Spotify open directly on the playlists tab",
+    "summary": "Spotify open directly on the playlists tab.",
     "filename": "debs/SpotifyOpensOnPlaylists v1.0.deb",
     "size": 4044,
-    "uploadedAt": "2026-10-04T09:26:35.776130+00:00",
+    "uploadedAt": "2026-10-04T09:43:34.072150+00:00",
     "changelog": "Spotify V9.1.74 + Eevee V6.6.8",
     "changelogHistory": [
       {

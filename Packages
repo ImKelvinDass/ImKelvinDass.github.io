@@ -459,14 +459,14 @@ Architecture: iphoneos-arm64
 Section: Tweaks
 Author: xelahot
 Maintainer: xelahot
-Description: Spotify open directly on the playlists tab
+Description: Spotify open directly on the playlists tab.
 Homepage: https://xelahot.github.io/
 Installed-Size: 88
 Icon: https://imkelvindass.github.io/assets/package-icons/com-xelahot-spotifyopensonplaylists-icon-1791105915.png
 Filename: debs/SpotifyOpensOnPlaylists v1.0.deb
 Size: 4044
-MD5sum: 7bd2f14066da7cd5af0688411ebca186
-SHA256: d908395fa7e9dbafcd4f37ca982bed527fbfb659ac32b9788210e58ebf3dc58f
+MD5sum: 07354e3d57a3ef6401adc81516c40ea6
+SHA256: 10d7532c6506edb1df517da5e7019da5b3e651114eedc5f8d3128109b3a5c201
 
 Package: com.tng.jbbypass
 Name: TNG JB BYPASS
