@@ -159,6 +159,24 @@ Size: 2924
 MD5sum: a08f05584599f8d6a14e8a5e7d64d148
 SHA256: 0ad01f9783ef266cf1e0a983d4d36602c4ba73e8a69d213b9c31a3f7bb9801f6
 
+Package: com.detik.jbbypass
+Name: Detik JB BYPASS
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: Kelvin
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass
+Conflicts: com.kelvindass.detikcompatibility
+Installed-Size: 72
+Replaces: com.kelvindass.detikcompatibility
+Icon: https://imkelvindass.github.io/assets/package-icons/com-detik-jbbypass-icon-1791106084.png
+Filename: debs/DetikBypass_1.0_iphoneos-arm64.deb
+Size: 4272
+MD5sum: c00e8508677d61554e39ffbbbc924dd1
+SHA256: df36a4b72b788974efced875f1dbf7d4cb6886b0883712f95396ce6547fde800
+
 Package: com.kelvindass.gxbankbypass
 Name: GXBank Bypass
 Version: 1.0
@@ -174,6 +192,22 @@ Filename: debs/GXBankBypass_1.0_iphoneos-arm64.deb
 Size: 5204
 MD5sum: 60288f58c18ab5f9373a06bfdbe356a6
 SHA256: 7d372f4e421ff53b1f98ed5c1600cfbc4beaad460f68819557b0a849f867b687
+
+Package: com.gmail.jbbypass
+Name: Gmail JB BYPASS
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-gmail-jbbypass-icon-1791106416.png
+Filename: debs/Gmail_1.0_iphoneos-arm64.deb
+Size: 4140
+MD5sum: 5ad497a4f3db7b6fa31cbbc82d132928
+SHA256: c09a5d8cda0bf6167a79b84e2b1a6b7dca451690481ed49a021153c862830bca
 
 Package: com.kelvindass.hsbccompatibility
 Name: HSBC JB BYPASS
@@ -208,6 +242,21 @@ Filename: debs/KWSP_1.0_iphoneos-arm64.deb
 Size: 2804
 MD5sum: fdda67bc8c8899c9cd5826998af94998
 SHA256: 7382cda7e73f797713abf8ce648c3234a925673abf192a6141b31a71a53c1c1c
+
+Package: xyz.cypwn.lockdroid
+Name: LockDroid
+Version: 0.0~beta8+opt1
+Architecture: iphoneos-arm64
+Section: Tweaks
+Author: julioverne
+Maintainer: Kelvin
+Depends: mobilesubstrate, preferenceloader
+Description: Android Lockscreen
+Icon: https://imkelvindass.github.io/assets/package-icons/xyz-cypwn-lockdroid-icon-1791104533.png
+Filename: debs/LockDroid.deb
+Size: 62068
+MD5sum: ba8c331f5b6c7e0b7736ed5f29a7ea46
+SHA256: e5c8c3abb57f674605f35f9dd68e2c5e329d17f6726f3a6628b698c951aeec2a
 
 Package: com.mae.ccjbbypass
 Name: MAE CC + JB BYPASS
@@ -262,6 +311,22 @@ Filename: debs/MYWE_1.0_iphoneos-arm64.deb
 Size: 2822
 MD5sum: 635ec7776e249d5c34300b8971192831
 SHA256: ce13f60d9e11293dc7c9e60d9eab1ed8cfa4226a510a5b2509be1e938d8f4a26
+
+Package: com.mcdonalds.jbbypass
+Name: McDonalds JB BYPASS
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-mcdonalds-jbbypass-icon-1791106269.png
+Filename: debs/McDonalds_1.0_iphoneos-arm64.deb
+Size: 3988
+MD5sum: 1f5c96fdeafac080ffdaa5462ce2990b
+SHA256: 6d3ff65dd39c3feaa8e8d3bb5214aded3e4457b8b00f0ab8e970e9818334845d
 
 Package: com.mobills.jbbypass
 Name: Mobills JB BYPASS
@@ -351,6 +416,58 @@ Size: 3528
 MD5sum: 8ced1f0b739db49f77897e5d586dc39e
 SHA256: dc97e28c99e34cc498fc2a90f13594b0b0337eefb475d43cc42fac5a26ab2c24
 
+Package: com.brkr1.tweaks.spotilovereborn
+Name: SpotiLove Reborn
+Version: 1.9
+Architecture: iphoneos-arm64
+Section: Tweaks
+Author: brkr1
+Maintainer: brkr1
+Depends: mobilesubstrate
+Description: likeSpotify tracks straight from the lock screen
+Depiction: https://brkr1.github.io/repo/depictions/com.brkr1.tweaks.spotilovereborn/depiction.json
+Installed-Size: 356
+SileoDepiction: https://brkr1.github.io/repo/depictions/com.brkr1.tweaks.spotilovereborn/depiction.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-brkr1-tweaks-spotilovereborn-icon-1791105579.png
+Filename: debs/SpotiLoveReborn v1.9.deb
+Size: 18588
+MD5sum: f711fe18347b99a50cbfcc1fe93f65ac
+SHA256: 40cd50d4af6f9d69149bdc8490e6f5ee4bbda468b9e3de49f461072fe5720e38
+
+Package: com.brkr1.tweaks.spotiqueue
+Name: SpotiQueue
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Tweaks
+Author: brkr1
+Maintainer: brkr1
+Depends: mobilesubstrate, com.opa334.libsandy
+Description: Manage your Spotify queue from anywhere
+Depiction: https://brkr1.github.io/repo/depictions/com.brkr1.tweaks.spotiqueue/depiction.json
+Installed-Size: 640
+SileoDepiction: https://brkr1.github.io/repo/depictions/com.brkr1.tweaks.spotiqueue/depiction.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-brkr1-tweaks-spotiqueue-icon-1791105246.png
+Filename: debs/SpotiQueue v1.0.deb
+Size: 52804
+MD5sum: aff2c3e9f90267b986b32cc398a16c83
+SHA256: 7cdfc7a854e6d700dece1c28ce76ea3fce9a6b712e492cdc88f630fb14ba9014
+
+Package: com.xelahot.spotifyopensonplaylists
+Name: SpotifyOpensOnPlaylists
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Section: Tweaks
+Author: xelahot
+Maintainer: xelahot
+Description: Spotify open directly on the playlists tab
+Homepage: https://xelahot.github.io/
+Installed-Size: 88
+Icon: https://imkelvindass.github.io/assets/package-icons/com-xelahot-spotifyopensonplaylists-icon-1791105915.png
+Filename: debs/SpotifyOpensOnPlaylists v1.0.deb
+Size: 4044
+MD5sum: 7bd2f14066da7cd5af0688411ebca186
+SHA256: d908395fa7e9dbafcd4f37ca982bed527fbfb659ac32b9788210e58ebf3dc58f
+
 Package: com.tng.jbbypass
 Name: TNG JB BYPASS
 Description: Jailbreak Detection Bypass
@@ -400,6 +517,21 @@ Filename: debs/UKG_1.0_iphoneos-arm64.deb
 Size: 6476
 MD5sum: 37165c06acabfa6c34703cfbe77632f7
 SHA256: 5b9b543058185754924c41bffa33acb69565e1457bc6032e0df342629bba16ac
+
+Package: com.noisyflake.velvet2
+Name: Velvet 2
+Version: 2.2.0+opt1
+Architecture: iphoneos-arm64
+Section: Tweaks
+Author: NoisyFlake
+Maintainer: NoisyFlake
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Description: Customizable notification experience
+Icon: https://imkelvindass.github.io/assets/package-icons/com-noisyflake-velvet2-icon-1791104796.png
+Filename: debs/Velvet2.deb
+Size: 105560
+MD5sum: c71ce62cc54f861df6c17680b1a69f31
+SHA256: 987e871e88f5e5c9b7a1e766a094375a563a55297c1987a48cefa33e21ad0378
 
 Package: com.venngo.jbbypass
 Name: Venngo JB BYPASS
