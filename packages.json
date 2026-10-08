@@ -115,23 +115,30 @@
   },
   {
     "id": "com.kelvindass.hsbccompatibility",
-    "name": "HSBC JB BYPASS",
-    "version": "1.0",
+    "name": "HSBC Malaysia Compatibility",
+    "version": "2.0",
     "architecture": "iphoneos-arm64",
     "author": "Kelvin",
     "section": "Bypass",
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
-    "filename": "debs/HSBC_1.0_iphoneos-arm64.deb",
-    "size": 5696,
-    "uploadedAt": "2026-09-15T23:27:12.323196+00:00",
-    "changelog": "Tested and working",
+    "filename": "debs/HSBC_2.0_iphoneos-arm64.deb",
+    "size": 5704,
+    "uploadedAt": "2026-10-08T17:36:14.887756+00:00",
+    "changelog": "Updated To Version 3.74.31",
+    "changelogHistory": [
+      {
+        "date": "9 Oct 2026",
+        "notes": "Updated To Version 3.74.31",
+        "version": "2.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": true,
     "iconColor": "#9cff00",
     "iconImage": "assets/package-icons/com-kelvindass-hsbccompatibility-icon-1789514774.png",
     "iconText": "HS",
-    "longDescription": "Version 3.74.0",
+    "longDescription": "Version 3.74.31",
     "showBannerSileo": true,
     "showBannerWebsite": false,
     "tagline": "Jailbreak Detection Bypass"
@@ -188,17 +195,22 @@
   {
     "id": "com.kelvindass.mydigitalidbypass",
     "name": "MyDigitalIDBypass",
-    "version": "1.2",
+    "version": "2.0",
     "architecture": "iphoneos-arm64",
     "author": "Kelvin",
     "section": "Bypass",
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
-    "filename": "debs/MyDigitalIDBypass_1.2_iphoneos-arm64.deb",
-    "size": 5756,
-    "uploadedAt": "2026-09-29T12:27:43.114336+00:00",
-    "changelog": "Fixed",
+    "filename": "debs/MyDigitalIDBypass_2.0_iphoneos-arm64.deb",
+    "size": 5752,
+    "uploadedAt": "2026-10-08T17:36:50.017363+00:00",
+    "changelog": "Updated To Version 2.10.0",
     "changelogHistory": [
+      {
+        "date": "9 Oct 2026",
+        "notes": "Updated To Version 2.10.0",
+        "version": "2.0"
+      },
       {
         "date": "29 Sep 2026",
         "notes": "Fixed",
@@ -210,7 +222,7 @@
     "iconColor": "#9cff00",
     "iconImage": "assets/package-icons/com-kelvindass-mydigitalidbypass-icon-1790595022.png",
     "iconText": "MY",
-    "longDescription": "Version 2.9.8 ",
+    "longDescription": "Version 2.10.0",
     "tagline": "Jailbreak Detection Bypass"
   },
   {
