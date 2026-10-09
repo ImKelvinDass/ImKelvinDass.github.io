@@ -417,56 +417,53 @@ MD5sum: 8ced1f0b739db49f77897e5d586dc39e
 SHA256: dc97e28c99e34cc498fc2a90f13594b0b0337eefb475d43cc42fac5a26ab2c24
 
 Package: com.brkr1.tweaks.spotilovereborn
-Name: SpotiLove Reborn
-Version: 1.9
+Name: SpotiLoveReborn v2.0
+Version: 2.0
 Architecture: iphoneos-arm64
 Section: Tweaks
 Author: brkr1
-Maintainer: brkr1
-Depends: mobilesubstrate
-Description: likeSpotify tracks straight from the lock screen
-Depiction: https://brkr1.github.io/repo/depictions/com.brkr1.tweaks.spotilovereborn/depiction.json
-Installed-Size: 356
-SileoDepiction: https://brkr1.github.io/repo/depictions/com.brkr1.tweaks.spotilovereborn/depiction.json
+Maintainer: Kelvin
+Depends: firmware (>= 17.0), firmware (<< 18.0), mobilesubstrate
+Description: Like Spotify tracks straight from the lock screen
 Icon: https://imkelvindass.github.io/assets/package-icons/com-brkr1-tweaks-spotilovereborn-icon-1791105579.png
-Filename: debs/SpotiLoveReborn v1.9.deb
-Size: 18588
-MD5sum: f711fe18347b99a50cbfcc1fe93f65ac
-SHA256: 40cd50d4af6f9d69149bdc8490e6f5ee4bbda468b9e3de49f461072fe5720e38
+Filename: debs/SpotiLoveReborn v2.0.deb
+Size: 19536
+MD5sum: 2936452cdaf298d357e3888d46ff88d9
+SHA256: cb8c145d600b9c4f9c6d0e4da62cf486e12a0b6e626207a4ee8d86bbf3de3ef3
 
 Package: com.brkr1.tweaks.spotiqueue
-Name: SpotiQueue
-Version: 1.0
+Name: SpotiQueue v2.0
+Version: 2.0
 Architecture: iphoneos-arm64
 Section: Tweaks
 Author: brkr1
-Maintainer: brkr1
-Depends: mobilesubstrate, com.opa334.libsandy
+Maintainer: Kelvin
+Depends: firmware (>= 17.0), firmware (<< 18.0), mobilesubstrate, com.opa334.libsandy, com.brkr1.tweaks.spotilovereborn (= 2.0)
 Description: Manage your Spotify queue from anywhere
-Depiction: https://brkr1.github.io/repo/depictions/com.brkr1.tweaks.spotiqueue/depiction.json
-Installed-Size: 640
-SileoDepiction: https://brkr1.github.io/repo/depictions/com.brkr1.tweaks.spotiqueue/depiction.json
+Conflicts: local.spotiqueue-compact-controls, local.spotiqueue-reorder-fix
+Replaces: local.spotiqueue-compact-controls, local.spotiqueue-reorder-fix
 Icon: https://imkelvindass.github.io/assets/package-icons/com-brkr1-tweaks-spotiqueue-icon-1791105246.png
-Filename: debs/SpotiQueue v1.0.deb
-Size: 52804
-MD5sum: aff2c3e9f90267b986b32cc398a16c83
-SHA256: 7cdfc7a854e6d700dece1c28ce76ea3fce9a6b712e492cdc88f630fb14ba9014
+Filename: debs/SpotiQueue v2.0.deb
+Size: 102168
+MD5sum: d86139b7f628f4726005c1ad4c2aded9
+SHA256: 3b8a3868cdfd51a7649691e1d5cdfb4cd222019b694c41a0293be49738d77f04
 
-Package: com.xelahot.spotifyopensonplaylists
-Name: SpotifyOpensOnPlaylists
-Version: 1.0.0
+Package: local.spotify-open-playlists
+Name: Spotify Opens On Playlists v2.0
+Version: 2.0
 Architecture: iphoneos-arm64
+Description: Opens Spotify's library list once per cold launch. Rootless iOS 17.
+Author: Kelvin
+Maintainer: Kelvin
 Section: Tweaks
-Author: xelahot
-Maintainer: xelahot
-Description: Spotify open directly on the playlists tab.
-Homepage: https://xelahot.github.io/
-Installed-Size: 88
-Icon: https://imkelvindass.github.io/assets/package-icons/com-xelahot-spotifyopensonplaylists-icon-1791105915.png
-Filename: debs/SpotifyOpensOnPlaylists v1.0.deb
-Size: 4044
-MD5sum: 07354e3d57a3ef6401adc81516c40ea6
-SHA256: 10d7532c6506edb1df517da5e7019da5b3e651114eedc5f8d3128109b3a5c201
+Depends: mobilesubstrate, firmware (>= 17.0), firmware (<< 18.0)
+Conflicts: com.xelahot.spotifyopensonplaylists
+Replaces: com.xelahot.spotifyopensonplaylists
+Icon: https://imkelvindass.github.io/assets/package-icons/local-spotify-open-playlists-icon-1791544892.png
+Filename: debs/Spotify Opens On Playlists v2.0.deb
+Size: 7248
+MD5sum: 0fcadde4b42c094ed0315761f5820dfc
+SHA256: 43c35ec6084e68ed1ce560bbbc9662886d0ce9205c0036058da1aaee3e5f157a
 
 Package: com.tng.jbbypass
 Name: TNG JB BYPASS
@@ -501,6 +498,21 @@ Filename: debs/TeamsBypass_1.0_iphoneos-arm64.deb
 Size: 2932
 MD5sum: 8bcf0bce232b538a38e2584a3a8bb90d
 SHA256: 880572995a04b8bb52237339d3483a7541f4556e885c3ab15be97e34cc39e8d7
+
+Package: togglow
+Name: Togglow
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: Thin outlines and soft glow for Control Center modules and expanded panels. Rootless build.
+Author: smokin1337
+Maintainer: Kelvin
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, oldabi (>= 2.0.1) | com.complications.ios17
+Icon: https://imkelvindass.github.io/assets/package-icons/togglow-icon-1791546069.png
+Filename: debs/Togglow v1.0.deb
+Size: 287328
+MD5sum: 506806d9bcdcbb9d801cca8774649884
+SHA256: b07594e59aaed1f6b64fd4c08faa8d52cc0164e9a8248385af3d4f2dd32c6e9a
 
 Package: com.kelvindass.ukgprobypass
 Name: UKG JB BYPASS
@@ -570,3 +582,18 @@ Filename: debs/WhatsUp_1.0_iphoneos-arm64.deb
 Size: 2396
 MD5sum: e33975467eb1a7ea7e2a9782735f3121
 SHA256: fb3588ab25cdafa418e7ca6c8b2b2df2dc78a8394d056888f37ee2d68f569ad0
+
+Package: local.youtube-queue
+Name: YouTube Queue
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Section: Tweaks
+Author: Kelvin
+Maintainer: Kelvin
+Depends: firmware (>= 17.0), firmware (<< 18.0), mobilesubstrate, com.opa334.libsandy (>= 1.1.6)
+Description: Native YouTube playback queue in Control Center and on the Lock Screen
+Icon: https://imkelvindass.github.io/assets/package-icons/local-youtube-queue-icon-1791545743.png
+Filename: debs/YouTube Queue v1.0.1.deb
+Size: 58136
+MD5sum: 1b7186c03cf4ee09d993aaed49129763
+SHA256: 06e118d24a1b2d42d36856d036adebd249c577c387e0a73d3fac72f4658b96e6

@@ -28,8 +28,13 @@
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.brkr1.tweaks.spotilovereborn" : {
-      "changelog" : "Spotify V9.1.74 + Eevee V6.6.8",
+      "changelog" : "Spotify V9.1.88 + Eevee V7.0.0",
       "changelogHistory" : [
+        {
+          "date" : "9 Oct 2026",
+          "notes" : "Spotify V9.1.88 + Eevee V7.0.0",
+          "version" : "2.0"
+        },
         {
           "date" : "4 Oct 2026",
           "notes" : "Spotify V9.1.74 + Eevee V6.6.8",
@@ -38,15 +43,22 @@
       ],
       "compatibility" : "IOS 17",
       "featured" : true,
+      "featuredWebsite" : false,
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-brkr1-tweaks-spotilovereborn-icon-1791105579.png",
       "iconText" : "SP",
       "longDescription" : "Brkr1's Fork Spotilove Reborn",
+      "showBannerSileo" : false,
       "tagline" : "Like Spotify tracks straight from the lock screen"
     },
     "com.brkr1.tweaks.spotiqueue" : {
-      "changelog" : "Fixed support with Nextup3 / Spotify V9.1.74 + Eevee V6.6.8",
+      "changelog" : "Spotify V9.1.88 + Eevee V7.0.0",
       "changelogHistory" : [
+        {
+          "date" : "9 Oct 2026",
+          "notes" : "Spotify V9.1.88 + Eevee V7.0.0",
+          "version" : "2.0"
+        },
         {
           "date" : "4 Oct 2026",
           "notes" : "Fixed support with Nextup3 / Spotify V9.1.74 + Eevee V6.6.8",
@@ -55,10 +67,12 @@
       ],
       "compatibility" : "IOS 17",
       "featured" : true,
+      "featuredWebsite" : false,
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-brkr1-tweaks-spotiqueue-icon-1791105246.png",
       "iconText" : "SP",
       "longDescription" : "Brkr1's Fork SpotiQueue",
+      "showBannerSileo" : false,
       "tagline" : "Manage your Spotify queue from anywhere"
     },
     "com.celcomdigi.jbbypass" : {
@@ -131,6 +145,7 @@
       ],
       "compatibility" : "IOS 17",
       "featured" : true,
+      "featuredWebsite" : false,
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-detik-jbbypass-icon-1791106084.png",
       "iconText" : "DE",
@@ -141,6 +156,7 @@
       "changelog" : "Tested and working",
       "compatibility" : "IOS 17",
       "featured" : true,
+      "featuredWebsite" : false,
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-gmail-jbbypass-icon-1791106416.png",
       "iconText" : "GM",
@@ -169,6 +185,7 @@
       "changelog" : "Tested and working",
       "compatibility" : "IOS 17",
       "featured" : true,
+      "featuredWebsite" : false,
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvindass-aeonwalletbypass-icon-1789938481.png",
       "iconText" : "AE",
@@ -181,6 +198,7 @@
       "changelog" : "Tested and working",
       "compatibility" : "IOS 17",
       "featured" : true,
+      "featuredWebsite" : false,
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvindass-affinalwayscompatibility-icon-1789514982.png",
       "iconText" : "AF",
@@ -229,6 +247,7 @@
       "changelog" : "Tested and working",
       "compatibility" : "IOS 17",
       "featured" : true,
+      "featuredWebsite" : false,
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvindass-gxbankbypass-icon-1790011844.png",
       "iconText" : "GX",
@@ -246,6 +265,7 @@
       ],
       "compatibility" : "IOS 17",
       "featured" : true,
+      "featuredWebsite" : false,
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvindass-hsbccompatibility-icon-1789514774.png",
       "iconText" : "HS",
@@ -270,6 +290,7 @@
       ],
       "compatibility" : "IOS 17",
       "featured" : true,
+      "featuredWebsite" : false,
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvindass-mydigitalidbypass-icon-1790595022.png",
       "iconText" : "MY",
@@ -280,6 +301,7 @@
       "changelog" : "TBA",
       "compatibility" : "IOS 17",
       "featured" : true,
+      "featuredWebsite" : false,
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvindass-outlooklocaldetectionbypass-icon-1790021905.png",
       "iconText" : "OU",
@@ -290,6 +312,7 @@
       "changelog" : "TBA",
       "compatibility" : "IOS 17",
       "featured" : true,
+      "featuredWebsite" : false,
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvindass-teamslocaldetectionbypass-icon-1790021800.png",
       "iconText" : "TE",
@@ -360,6 +383,7 @@
       "changelog" : "Tested and working",
       "compatibility" : "IOS 17",
       "featured" : true,
+      "featuredWebsite" : false,
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-mcdonalds-jbbypass-icon-1791106269.png",
       "iconText" : "MC",
@@ -403,6 +427,7 @@
       ],
       "compatibility" : "IOS 17",
       "featured" : true,
+      "featuredWebsite" : false,
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-noisyflake-velvet2-icon-1791104796.png",
       "iconText" : "VE",
@@ -479,6 +504,7 @@
       ],
       "compatibility" : "IOS 17",
       "featured" : true,
+      "featuredSileo" : false,
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-xelahot-spotifyopensonplaylists-icon-1791105915.png",
       "iconText" : "SP",
@@ -494,6 +520,63 @@
       "longDescription" : "English-only Atria rebuild for modern rootless jailbreaks. Customize icon layout, spacing, dock behavior, and Home Screen presentation with independent controls.",
       "tagline" : "A clean English Home Screen layout editor."
     },
+    "local.spotify-open-playlists" : {
+      "changelog" : "Updated Spotify V 9.1.88",
+      "changelogHistory" : [
+        {
+          "date" : "9 Oct 2026",
+          "notes" : "Updated Spotify V 9.1.88",
+          "version" : "2.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/local-spotify-open-playlists-icon-1791544892.png",
+      "iconText" : "SP",
+      "longDescription" : "Spotify V9.1.88 + Eevee V7.0.0",
+      "showBannerSileo" : false,
+      "tagline" : "Opens Spotify's library list once launch"
+    },
+    "local.youtube-queue" : {
+      "changelog" : "Tested and working",
+      "changelogHistory" : [
+        {
+          "date" : "9 Oct 2026",
+          "notes" : "Tested and working",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/local-youtube-queue-icon-1791545743.png",
+      "iconText" : "YO",
+      "longDescription" : "Youtube V21.40.5",
+      "showBannerSileo" : false,
+      "tagline" : "Native YouTube playback queue in Control Center and on the Lock Screen"
+    },
+    "togglow" : {
+      "changelog" : "Tested and working",
+      "changelogHistory" : [
+        {
+          "date" : "9 Oct 2026",
+          "notes" : "Tested and working",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/togglow-icon-1791546069.png",
+      "iconText" : "TO",
+      "longDescription" : "This is cool",
+      "showBannerSileo" : false,
+      "tagline" : "Thin outlines and soft glow for Control Center modules and expanded panels"
+    },
     "xyz.cypwn.lockdroid" : {
       "changelog" : "Fixed safe mode crash",
       "changelogHistory" : [
@@ -505,6 +588,7 @@
       ],
       "compatibility" : "IOS 17",
       "featured" : true,
+      "featuredWebsite" : false,
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/xyz-cypwn-lockdroid-icon-1791104533.png",
       "iconText" : "LO",
