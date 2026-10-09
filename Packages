@@ -499,20 +499,22 @@ Size: 2932
 MD5sum: 8bcf0bce232b538a38e2584a3a8bb90d
 SHA256: 880572995a04b8bb52237339d3483a7541f4556e885c3ab15be97e34cc39e8d7
 
-Package: togglow
+Package: com.kelvindass.togglow
 Name: Togglow
 Version: 1.0
 Architecture: iphoneos-arm64
-Description: Thin outlines and soft glow for Control Center modules and expanded panels. Rootless build.
+Section: Tweaks
 Author: smokin1337
 Maintainer: Kelvin
-Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, oldabi (>= 2.0.1) | com.complications.ios17
-Icon: https://imkelvindass.github.io/assets/package-icons/togglow-icon-1791546069.png
+Description: Thin outlines and soft glow for Control Center modules and expanded panels
+Conflicts: togglow
+Replaces: togglow
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-togglow-icon-1791549725.png
 Filename: debs/Togglow v1.0.deb
-Size: 287328
-MD5sum: 506806d9bcdcbb9d801cca8774649884
-SHA256: b07594e59aaed1f6b64fd4c08faa8d52cc0164e9a8248385af3d4f2dd32c6e9a
+Size: 287424
+MD5sum: 5bc8d37f603f0aee6e4bfec330e00fa5
+SHA256: 03d09cda129c7c4686a02d0cd0d0044cb0c9dc2a6bbf6ab196ce2eabddefba57
 
 Package: com.kelvindass.ukgprobypass
 Name: UKG JB BYPASS

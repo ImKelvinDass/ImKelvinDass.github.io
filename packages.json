@@ -747,22 +747,22 @@
     "tagline": "CCmodule + JB BYPASS"
   },
   {
-    "id": "togglow",
+    "id": "com.kelvindass.togglow",
     "name": "Togglow",
     "version": "1.0",
     "architecture": "iphoneos-arm64",
     "author": "smokin1337",
     "section": "Tweaks",
     "depends": "mobilesubstrate, preferenceloader, ws.hbang.alderis, oldabi (>= 2.0.1) | com.complications.ios17",
-    "summary": "Thin outlines and soft glow for Control Center modules and expanded panels. Rootless build.",
+    "summary": "Thin outlines and soft glow for Control Center modules and expanded panels",
     "filename": "debs/Togglow v1.0.deb",
-    "size": 287328,
-    "uploadedAt": "2026-10-09T12:02:00.500693+00:00",
-    "changelog": "Tested and working",
+    "size": 287424,
+    "uploadedAt": "2026-10-09T12:43:06.106149+00:00",
+    "changelog": "Tested and Working",
     "changelogHistory": [
       {
         "date": "9 Oct 2026",
-        "notes": "Tested and working",
+        "notes": "Tested and Working",
         "version": "1.0"
       }
     ],
@@ -770,10 +770,9 @@
     "featured": false,
     "featuredWebsite": false,
     "iconColor": "#9cff00",
-    "iconImage": "assets/package-icons/togglow-icon-1791546069.png",
+    "iconImage": "assets/package-icons/com-kelvindass-togglow-icon-1791549725.png",
     "iconText": "TO",
-    "longDescription": "This is cool",
-    "showBannerSileo": false,
+    "longDescription": "smokin1337 Fork Togglow",
     "tagline": "Thin outlines and soft glow for Control Center modules and expanded panels"
   },
   {
@@ -888,6 +887,11 @@
     "uploadedAt": "2026-10-09T12:07:49.037859+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
+      {
+        "date": "9 Oct 2026",
+        "notes": "Tested and working",
+        "version": "1.0.1"
+      },
       {
         "date": "9 Oct 2026",
         "notes": "Tested and working",
