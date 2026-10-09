@@ -319,6 +319,25 @@
       "longDescription" : "Version 8.16.3 ",
       "tagline" : "Jailbreak Detection Bypass"
     },
+    "com.kelvindass.togglow" : {
+      "changelog" : "Tested and Working",
+      "changelogHistory" : [
+        {
+          "date" : "9 Oct 2026",
+          "notes" : "Tested and Working",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-kelvindass-togglow-icon-1791554073.png",
+      "iconText" : "TO",
+      "longDescription" : "smokin1337 Fork Togglow",
+      "showBannerSileo" : false,
+      "tagline" : "Thin outlines and soft glow for Control Center modules and expanded panels"
+    },
     "com.kelvindass.ukgprobypass" : {
       "bannerImage" : "assets/package-banners/com-kelvindass-ukgprobypass-banner-1788768864.png",
       "changelog" : "Tested and working",

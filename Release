@@ -6,14 +6,14 @@ Codename: kelvin
 Architectures: iphoneos-arm64 arm64
 Components: main
 Description: IOS tweaks by Kelvin Dass
-Date: Fri, 09 Oct 2026 13:26:44 UTC
+Date: Fri, 09 Oct 2026 13:55:19 UTC
 MD5Sum:
- 8b01c77a928884d25d55546e208bd495 21559 Packages
- 4e4ca517b981f314236fde772ac31e3d 4795 Packages.gz
- 94d3bbc67002252f0186be1bd6849c35 4671 Packages.bz2
- 6a752df39830f151b34ca15649bf113e 4492 Packages.xz
+ 9a9b7fe95ad83c8d49c4d8a0dc16e1a0 22203 Packages
+ fd588ca8288010f6890c1ffc30bf6f57 5006 Packages.gz
+ 0da7178c8050be5917d6be5647f7242c 4876 Packages.bz2
+ 798722888b1d915111a3862c864e0ef6 4692 Packages.xz
 SHA256:
- 00fb550a944a8e440c7911ffd64248985350b45728e0ffbac1a47f24391e5d81 21559 Packages
- eaa8c34099c6779472aca23ded2ea2577ca4e8e9bacf46b9fc16586be19bdb55 4795 Packages.gz
- 7eff7f9c6d014902b5c9ecbc37b4b04151e87ff3ea27ce6d58e67422d9d0c660 4671 Packages.bz2
- 08db0705fe2a6cb2db0f8a6a1cdd0306a308c11f0fea9a9831a9c63be962febf 4492 Packages.xz
+ ce83dd20813449f0d5f7a201d9a232b53c8c476f3dd2efeec80cc3d5e69dbb62 22203 Packages
+ f340393b1b4430c206be7ea1d3ffc249df0e4a2f711467b882489e93eb87efc3 5006 Packages.gz
+ 01cd95672a4c770ba1a71084de070b99bebe0181bb97ba98292bdad6a4ed93f2 4876 Packages.bz2
+ 3208ae0feb30d52c8f50316981ae3aeeb72085519b1a74e5cfe1d72635d4027a 4692 Packages.xz
