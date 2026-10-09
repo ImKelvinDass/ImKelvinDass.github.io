@@ -338,7 +338,14 @@
     "size": 2804,
     "uploadedAt": "2026-09-06T20:13:21.859959+00:00",
     "bannerImage": "assets/package-banners/com-kwsp-jbbypass-banner-1788768489.png",
-    "changelog": "Tested and working",
+    "changelog": "Supports KWSP V4.10.2",
+    "changelogHistory": [
+      {
+        "date": "10 Oct 2026",
+        "notes": "Supports KWSP V4.10.2",
+        "version": "1.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
     "featuredSileo": true,
@@ -346,7 +353,7 @@
     "iconColor": "#9cff00",
     "iconImage": "assets/package-icons/com-kwsp-jbbypass-icon-1788731742.png",
     "iconText": "KW",
-    "longDescription": "Version 4.9.3",
+    "longDescription": "Version 4.10.2",
     "showBannerSileo": true,
     "showBannerWebsite": true,
     "tagline": "Jailbreak Detection Bypass"
@@ -748,7 +755,7 @@
     "iconColor": "#9cff00",
     "iconImage": "assets/package-icons/com-tng-jbbypass-icon-1788437593.png",
     "iconText": "TNG",
-    "longDescription": "Version 1.9.12",
+    "longDescription": "Version 1.9.18",
     "showBannerSileo": true,
     "showBannerWebsite": false,
     "tagline": "CCmodule + JB BYPASS"
