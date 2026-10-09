@@ -733,7 +733,14 @@
     "filename": "debs/TNG_1.0_iphoneos-arm64.deb",
     "size": 12230,
     "uploadedAt": "2026-09-04T15:00:08.028390+00:00",
-    "changelog": "Tested and working",
+    "changelog": "Supports TNG V1.9.18",
+    "changelogHistory": [
+      {
+        "date": "10 Oct 2026",
+        "notes": "Supports TNG V1.9.18",
+        "version": "1.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
     "featuredSileo": true,

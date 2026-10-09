@@ -477,7 +477,14 @@
     },
     "com.tng.jbbypass" : {
       "bannerImage" : "assets/package-banners/com-tng-jbbypass-banner-1788768919.png",
-      "changelog" : "Tested and working",
+      "changelog" : "Supports TNG V1.9.18",
+      "changelogHistory" : [
+        {
+          "date" : "10 Oct 2026",
+          "notes" : "Supports TNG V1.9.18",
+          "version" : "1.0"
+        }
+      ],
       "compatibility" : "IOS 17",
       "featured" : true,
       "featuredSileo" : true,
