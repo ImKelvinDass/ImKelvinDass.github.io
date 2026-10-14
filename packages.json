@@ -918,7 +918,7 @@
     "changelogHistory": [
       {
         "date": "9 Oct 2026",
-        "notes": "Tested and working",
+        "notes": "Fixed Animation",
         "version": "1.0.1"
       },
       {
