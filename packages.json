@@ -1,17 +1,24 @@
 [
   {
     "id": "com.kelvindass.aeonwalletbypass",
-    "name": "AEON Wallet Bypass",
+    "name": "AEON Wallet JB Bypass",
     "version": "1.0",
     "architecture": "iphoneos-arm64",
-    "author": "Kelvin",
+    "author": "KiLlErZoN3",
     "section": "Bypass",
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/AEONWalletBypass_1.0_iphoneos-arm64.deb",
-    "size": 4996,
-    "uploadedAt": "2026-09-20T21:09:19.553093+00:00",
+    "size": 5012,
+    "uploadedAt": "2026-10-19T15:06:45.689981+00:00",
     "changelog": "Tested and working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and working",
+        "version": "1.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
     "featuredWebsite": false,
@@ -20,22 +27,59 @@
     "iconText": "AE",
     "longDescription": "Version  3.19.7",
     "showBannerSileo": false,
-    "showBannerWebsite": true,
+    "showBannerWebsite": false,
     "tagline": "Jailbreak Detection Bypass"
+  },
+  {
+    "id": "com.kelvin.aeroweathercaptain",
+    "name": "Aeroweather Unlocked",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "IAP",
+    "depends": "firmware (>= 16.0), ellekit",
+    "summary": "Captain Unlocked",
+    "filename": "debs/com.kelvin.aeroweathercaptain_1.0_iphoneos-arm64.deb",
+    "size": 5092,
+    "uploadedAt": "2026-10-19T14:49:00.994399+00:00",
+    "changelog": "Tested and Working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and Working",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-kelvin-aeroweathercaptain-icon-1792421210.png",
+    "iconText": "AE",
+    "longDescription": "Aeroweather V3.16.2 ( Request for IPA )",
+    "showBannerSileo": false,
+    "tagline": "Captain Unlocked"
   },
   {
     "id": "com.kelvindass.affinalwayscompatibility",
     "name": "AffinAlwaysX JB BYPASS",
     "version": "1.0",
     "architecture": "iphoneos-arm64",
-    "author": "Kelvin",
+    "author": "KiLlErZoN3",
     "section": "Bypass",
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/AffinAlwaysX_1.0_iphoneos-arm64.deb",
-    "size": 10472,
-    "uploadedAt": "2026-09-15T23:59:33.579946+00:00",
+    "size": 10496,
+    "uploadedAt": "2026-10-19T14:02:38.758824+00:00",
     "changelog": "Tested and working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and working",
+        "version": "1.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
     "featuredWebsite": false,
@@ -43,11 +87,12 @@
     "iconImage": "assets/package-icons/com-kelvindass-affinalwayscompatibility-icon-1789514982.png",
     "iconText": "AF",
     "longDescription": "Version 1.3.8",
+    "showBannerSileo": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {
     "id": "com.atria.ios17",
-    "name": "ATRIA IOS 17",
+    "name": "ATRIA",
     "version": "1.0",
     "architecture": "iphoneos-arm64",
     "author": "KiLlErZoN3",
@@ -55,29 +100,37 @@
     "depends": "firmware (>= 13.0), mobilesubstrate, preferenceloader",
     "summary": "Home Screen layout customization for iOS 17.",
     "filename": "debs/AtriaIOS17_1.0_iphoneos-arm64.deb",
-    "size": 378094,
-    "uploadedAt": "2026-09-02T20:44:08.877902+00:00",
+    "size": 214192,
+    "uploadedAt": "2026-10-19T14:59:09.998790+00:00",
     "changelog": "Tested and working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and working",
+        "version": "1.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
     "featuredWebsite": false,
     "iconColor": "#4b1679",
     "iconText": "ATRIA",
     "longDescription": "Modified https://github.com/ren7995/Atria",
+    "showBannerSileo": false,
     "tagline": "Working home Screen layout customization for iOS 17"
   },
   {
     "id": "com.kelvindass.banreservasbypass",
-    "name": "Banreservas Bypass",
+    "name": "Banreservas JB Bypass",
     "version": "2.0",
     "architecture": "iphoneos-arm64",
-    "author": "Kelvin",
+    "author": "KiLlErZoN3",
     "section": "Bypass",
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/BanreservasBypass_v2.0_iphoneos-arm64.deb",
-    "size": 5292,
-    "uploadedAt": "2026-09-17T09:05:44.854312+00:00",
+    "size": 5316,
+    "uploadedAt": "2026-10-19T15:06:27.147599+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
@@ -93,8 +146,8 @@
     "iconImage": "assets/package-icons/com-kelvindass-banreservasbypass-icon-1788958419.png",
     "iconText": "BA",
     "longDescription": "Version 7.1.0",
-    "showBannerSileo": true,
-    "showBannerWebsite": true,
+    "showBannerSileo": false,
+    "showBannerWebsite": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {
@@ -110,6 +163,13 @@
     "size": 2488,
     "uploadedAt": "2026-09-02T20:44:30.316088+00:00",
     "changelog": "Tested and working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and working",
+        "version": "1.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
     "featuredSileo": false,
@@ -118,6 +178,37 @@
     "iconImage": "assets/package-icons/com-briorhr-jbbypass-icon-1788437867.png",
     "iconText": "BriorHr",
     "longDescription": "Version 2.10.0 ",
+    "showBannerSileo": false,
+    "tagline": "Jailbreak Detection Bypass"
+  },
+  {
+    "id": "com.kelvindass.capcutjbbypass",
+    "name": "CapCut JB Bypass",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "Bypass",
+    "depends": "firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)",
+    "summary": "Jailbreak Detection Bypass",
+    "filename": "debs/CapCutJbBypass_1.0_iphoneos-arm64.deb",
+    "size": 9908,
+    "uploadedAt": "2026-10-19T14:45:10.914184+00:00",
+    "changelog": "Tested and Working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and Working",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-kelvindass-capcutjbbypass-icon-1792421058.png",
+    "iconText": "CA",
+    "longDescription": "Capcut V19.7.0",
+    "showBannerSileo": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {
@@ -133,6 +224,13 @@
     "size": 3196,
     "uploadedAt": "2026-09-02T20:44:30.311378+00:00",
     "changelog": "Tested and working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and working",
+        "version": "1.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
     "featuredWebsite": false,
@@ -140,6 +238,7 @@
     "iconImage": "assets/package-icons/com-celcomdigi-jbbypass-icon-1788437844.png",
     "iconText": "Digi",
     "longDescription": "Version 1.1.5",
+    "showBannerSileo": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {
@@ -155,6 +254,13 @@
     "size": 3968,
     "uploadedAt": "2026-09-02T20:44:30.318482+00:00",
     "changelog": "Tested and working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and working",
+        "version": "1.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
     "featuredSileo": true,
@@ -194,6 +300,7 @@
     "iconImage": "assets/package-icons/com-cleanpicture-tweak-icon-1788732037.png",
     "iconText": "CL",
     "longDescription": "FakePictures alternative. Request for apps",
+    "showBannerSileo": false,
     "tagline": "Select clean pictures and use them as camera captures in supported apps"
   },
   {
@@ -209,15 +316,22 @@
     "size": 2924,
     "uploadedAt": "2026-09-06T19:26:04.878592+00:00",
     "changelog": "Tested and working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and working",
+        "version": "1.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
-    "featuredSileo": true,
+    "featuredSileo": false,
     "featuredWebsite": false,
     "iconColor": "#9cff00",
     "iconImage": "assets/package-icons/com-coopsanjose-jbbypass-icon-1788731499.png",
     "iconText": "CO",
     "longDescription": "Version 4.7.1",
-    "showBannerSileo": true,
+    "showBannerSileo": false,
     "showBannerWebsite": false,
     "tagline": "Jailbreak Detection Bypass"
   },
@@ -226,13 +340,13 @@
     "name": "Detik JB BYPASS",
     "version": "1.0",
     "architecture": "iphoneos-arm64",
-    "author": "Kelvin",
+    "author": "KiLlErZoN3",
     "section": "Bypass",
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/DetikBypass_1.0_iphoneos-arm64.deb",
-    "size": 4272,
-    "uploadedAt": "2026-10-04T09:29:07.456258+00:00",
+    "size": 4276,
+    "uploadedAt": "2026-10-19T14:04:52.415027+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
@@ -248,7 +362,68 @@
     "iconImage": "assets/package-icons/com-detik-jbbypass-icon-1791106084.png",
     "iconText": "DE",
     "longDescription": "Version 7.12.0",
+    "showBannerSileo": false,
     "tagline": "Jailbreak Detection Bypass"
+  },
+  {
+    "id": "com.codex.fr24.goldsessiontest",
+    "name": "Flight Radar Gold",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "IAP",
+    "depends": "ellekit",
+    "summary": "Gold Unlocked",
+    "filename": "debs/FR24GoldSessionTest_1.0_iphoneos-arm64.deb",
+    "size": 10084,
+    "uploadedAt": "2026-10-19T14:41:44.346444+00:00",
+    "changelog": "Tested and Working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and Working",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-codex-fr24-goldsessiontest-icon-1792420791.png",
+    "iconText": "FR",
+    "longDescription": "Flight Radar V11.13.0",
+    "showBannerSileo": false,
+    "tagline": "Gold Unlocked"
+  },
+  {
+    "id": "com.kelvin.glancereborn",
+    "name": "Glance Reborn",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "Janisbtw",
+    "section": "Tweaks",
+    "depends": "dev.theos.orion (>= 1.0.0), firmware (>= 15.0), preferenceloader",
+    "summary": "Beautiful Lockscreen Notifications",
+    "filename": "debs/com.kelvin.glancereborn_1.0_iphoneos-arm64.deb",
+    "size": 293752,
+    "uploadedAt": "2026-10-19T14:10:19.975721+00:00",
+    "changelog": "Tested and Working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and Working",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-kelvin-glancereborn-icon-1792418922.png",
+    "iconText": "GL",
+    "longDescription": "Janisbtw's Fork Glance ",
+    "showBannerSileo": false,
+    "tagline": "Beautiful Lockscreen Notifications"
   },
   {
     "id": "com.gmail.jbbypass",
@@ -263,6 +438,13 @@
     "size": 4140,
     "uploadedAt": "2026-10-04T09:33:55.358247+00:00",
     "changelog": "Tested and working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and working",
+        "version": "1.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
     "featuredWebsite": false,
@@ -270,21 +452,29 @@
     "iconImage": "assets/package-icons/com-gmail-jbbypass-icon-1791106416.png",
     "iconText": "GM",
     "longDescription": "Version 6.0.260330",
+    "showBannerSileo": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {
     "id": "com.kelvindass.gxbankbypass",
-    "name": "GXBank Bypass",
+    "name": "GXBank JB Bypass",
     "version": "1.0",
     "architecture": "iphoneos-arm64",
-    "author": "Kelvin",
+    "author": "KiLlErZoN3",
     "section": "Bypass",
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/GXBankBypass_1.0_iphoneos-arm64.deb",
-    "size": 5204,
-    "uploadedAt": "2026-09-21T20:27:09.014941+00:00",
+    "size": 5232,
+    "uploadedAt": "2026-10-19T15:08:03.215418+00:00",
     "changelog": "Tested and working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and working",
+        "version": "1.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
     "featuredWebsite": false,
@@ -292,20 +482,51 @@
     "iconImage": "assets/package-icons/com-kelvindass-gxbankbypass-icon-1790011844.png",
     "iconText": "GX",
     "longDescription": "Version 2.37.0",
+    "showBannerSileo": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {
+    "id": "hideavcontrols",
+    "name": "HideAVControls",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "Tweaks",
+    "depends": "mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)",
+    "summary": "Hides the Microphone Mode and Video Effects modules in Control Center on rootless jailbreaks",
+    "filename": "debs/hideavcontrols_1.0_iphoneos-arm64.deb",
+    "size": 4712,
+    "uploadedAt": "2026-10-19T15:11:29.799426+00:00",
+    "changelog": "Tested and Working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and Working",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/hideavcontrols-icon-1792417758.png",
+    "iconText": "HI",
+    "longDescription": "Hide the annoying modules",
+    "showBannerSileo": false,
+    "tagline": "Hides the Mic Mode and Video Effects modules in Control Center"
+  },
+  {
     "id": "com.kelvindass.hsbccompatibility",
-    "name": "HSBC Malaysia Compatibility",
+    "name": "HSBC Malaysia JB Bypass",
     "version": "2.0",
     "architecture": "iphoneos-arm64",
-    "author": "Kelvin",
+    "author": "KiLlErZoN3",
     "section": "Bypass",
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/HSBC_2.0_iphoneos-arm64.deb",
-    "size": 5704,
-    "uploadedAt": "2026-10-08T17:36:14.887756+00:00",
+    "size": 5712,
+    "uploadedAt": "2026-10-19T15:10:26.821470+00:00",
     "changelog": "Updated To Version 3.74.31",
     "changelogHistory": [
       {
@@ -321,7 +542,7 @@
     "iconImage": "assets/package-icons/com-kelvindass-hsbccompatibility-icon-1789514774.png",
     "iconText": "HS",
     "longDescription": "Version 3.74.31",
-    "showBannerSileo": true,
+    "showBannerSileo": false,
     "showBannerWebsite": false,
     "tagline": "Jailbreak Detection Bypass"
   },
@@ -361,17 +582,22 @@
   {
     "id": "xyz.cypwn.lockdroid",
     "name": "LockDroid",
-    "version": "0.0~beta8+opt1",
+    "version": "1.0",
     "architecture": "iphoneos-arm64",
     "author": "julioverne",
     "section": "Tweaks",
     "depends": "mobilesubstrate, preferenceloader",
     "summary": "Android Lockscreen",
     "filename": "debs/LockDroid.deb",
-    "size": 62068,
-    "uploadedAt": "2026-10-04T09:04:10.512028+00:00",
-    "changelog": "Fixed safe mode crash",
+    "size": 62232,
+    "uploadedAt": "2026-10-19T14:04:27.032911+00:00",
+    "changelog": "Tested and Working",
     "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and Working",
+        "version": "1.0"
+      },
       {
         "date": "4 Oct 2026",
         "notes": "Fixed safe mode crash",
@@ -385,6 +611,7 @@
     "iconImage": "assets/package-icons/xyz-cypwn-lockdroid-icon-1791104533.png",
     "iconText": "LO",
     "longDescription": "Julioverne's Fork LockDroid",
+    "showBannerSileo": false,
     "tagline": "Android Lockscreen"
   },
   {
@@ -409,13 +636,13 @@
     ],
     "compatibility": "IOS 17",
     "featured": false,
-    "featuredSileo": true,
+    "featuredSileo": false,
     "featuredWebsite": false,
     "iconColor": "#9cff00",
     "iconImage": "assets/package-icons/com-mae-ccjbbypass-icon-1788437787.png",
     "iconText": "MAE",
     "longDescription": "Version 0.9.50",
-    "showBannerSileo": true,
+    "showBannerSileo": false,
     "showBannerWebsite": false,
     "tagline": "CCmodule + JB BYPASS"
   },
@@ -464,6 +691,13 @@
     "size": 3988,
     "uploadedAt": "2026-10-04T09:31:36.858714+00:00",
     "changelog": "Tested and working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and working",
+        "version": "1.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
     "featuredWebsite": false,
@@ -471,6 +705,7 @@
     "iconImage": "assets/package-icons/com-mcdonalds-jbbypass-icon-1791106269.png",
     "iconText": "MC",
     "longDescription": "Version 3.50.0",
+    "showBannerSileo": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {
@@ -486,6 +721,13 @@
     "size": 3972,
     "uploadedAt": "2026-09-06T19:26:04.937467+00:00",
     "changelog": "Tested and working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and working",
+        "version": "1.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
     "featuredWebsite": false,
@@ -493,20 +735,21 @@
     "iconImage": "assets/package-icons/com-mobills-jbbypass-icon-1788731625.png",
     "iconText": "MO",
     "longDescription": "Version 6.21.1",
+    "showBannerSileo": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {
     "id": "com.kelvindass.mydigitalidbypass",
-    "name": "MyDigitalIDBypass",
+    "name": "MyDigital Id JB Bypass",
     "version": "2.0",
     "architecture": "iphoneos-arm64",
-    "author": "Kelvin",
+    "author": "KiLlErZoN3",
     "section": "Bypass",
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/MyDigitalIDBypass_2.0_iphoneos-arm64.deb",
-    "size": 5752,
-    "uploadedAt": "2026-10-08T17:36:50.017363+00:00",
+    "size": 5780,
+    "uploadedAt": "2026-10-19T15:11:07.716249+00:00",
     "changelog": "Updated To Version 2.10.0",
     "changelogHistory": [
       {
@@ -527,6 +770,7 @@
     "iconImage": "assets/package-icons/com-kelvindass-mydigitalidbypass-icon-1790595022.png",
     "iconText": "MY",
     "longDescription": "Version 2.10.0",
+    "showBannerSileo": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {
@@ -542,31 +786,45 @@
     "size": 2822,
     "uploadedAt": "2026-09-02T20:44:30.313802+00:00",
     "changelog": "Tested and working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and working",
+        "version": "1.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
-    "featuredSileo": true,
+    "featuredSileo": false,
     "featuredWebsite": false,
     "iconColor": "#9cff00",
     "iconImage": "assets/package-icons/com-mywe-jbbypass-icon-1788437713.png",
     "iconText": "MYWE",
     "longDescription": "Version 8.7",
-    "showBannerSileo": true,
+    "showBannerSileo": false,
     "showBannerWebsite": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {
     "id": "com.kelvindass.outlooklocaldetectionbypass",
-    "name": "Outlook Jailbreak Bypass",
+    "name": "Outlook JB Bypass",
     "version": "1.0",
     "architecture": "iphoneos-arm64",
-    "author": "Kelvin",
+    "author": "KiLlErZoN3",
     "section": "Bypass",
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/OutlookBypass_1.0_iphoneos-arm64.deb",
-    "size": 2924,
-    "uploadedAt": "2026-09-21T20:20:24.323349+00:00",
-    "changelog": "TBA",
+    "size": 2940,
+    "uploadedAt": "2026-10-19T15:07:49.356609+00:00",
+    "changelog": "Tested and Working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and Working",
+        "version": "1.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
     "featuredWebsite": false,
@@ -574,6 +832,7 @@
     "iconImage": "assets/package-icons/com-kelvindass-outlooklocaldetectionbypass-icon-1790021905.png",
     "iconText": "OU",
     "longDescription": "Version 4.2535.0",
+    "showBannerSileo": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {
@@ -589,6 +848,13 @@
     "size": 5540,
     "uploadedAt": "2026-09-02T20:44:30.320798+00:00",
     "changelog": "Tested and working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and working",
+        "version": "1.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
     "featuredWebsite": false,
@@ -596,7 +862,38 @@
     "iconImage": "assets/package-icons/com-ptv-jbbypass-icon-1788437632.png",
     "iconText": "PTV",
     "longDescription": "Version 5.6.0",
+    "showBannerSileo": false,
     "tagline": "Jailbreak Detection Bypass"
+  },
+  {
+    "id": "com.codex.rainalarm.sk2test",
+    "name": "RainAlarmPro+",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "IAP",
+    "depends": "ellekit",
+    "summary": "Pro and Plus Unlocked",
+    "filename": "debs/RainAlarmPro+_1.0_iphoneos-arm64.deb",
+    "size": 4096,
+    "uploadedAt": "2026-10-19T14:15:11.934154+00:00",
+    "changelog": "Tested and Working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and Working",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-codex-rainalarm-sk2test-icon-1792419156.png",
+    "iconText": "RA",
+    "longDescription": "Rain Alarm V5.5.0",
+    "showBannerSileo": false,
+    "tagline": "Pro and Plus Unlocked"
   },
   {
     "id": "com.ring.jbbypass",
@@ -611,6 +908,13 @@
     "size": 3528,
     "uploadedAt": "2026-09-06T20:42:34.072985+00:00",
     "changelog": "Tested and working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and working",
+        "version": "1.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
     "featuredWebsite": false,
@@ -618,6 +922,7 @@
     "iconImage": "assets/package-icons/com-ring-jbbypass-icon-1788731835.png",
     "iconText": "RI",
     "longDescription": "Version 5.112.0",
+    "showBannerSileo": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {
@@ -625,13 +930,13 @@
     "name": "Spotify Opens On Playlists v2.0",
     "version": "2.0",
     "architecture": "iphoneos-arm64",
-    "author": "Kelvin",
+    "author": "KiLlErZoN3",
     "section": "Tweaks",
     "depends": "mobilesubstrate, firmware (>= 17.0), firmware (<< 18.0)",
     "summary": "Opens Spotify's library list once per cold launch. Rootless iOS 17.",
     "filename": "debs/Spotify Opens On Playlists v2.0.deb",
-    "size": 7248,
-    "uploadedAt": "2026-10-09T11:50:23.537575+00:00",
+    "size": 7264,
+    "uploadedAt": "2026-10-19T14:06:03.748765+00:00",
     "changelog": "Updated Spotify V 9.1.88",
     "changelogHistory": [
       {
@@ -722,17 +1027,24 @@
   },
   {
     "id": "com.kelvindass.teamslocaldetectionbypass",
-    "name": "Teams Jailbreak Bypass",
+    "name": "Teams JB Bypass",
     "version": "1.0",
     "architecture": "iphoneos-arm64",
-    "author": "Kelvin",
+    "author": "KiLlErZoN3",
     "section": "Bypass",
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/TeamsBypass_1.0_iphoneos-arm64.deb",
-    "size": 2932,
-    "uploadedAt": "2026-09-21T20:17:16.258236+00:00",
-    "changelog": "TBA",
+    "size": 2948,
+    "uploadedAt": "2026-10-19T15:07:29.316637+00:00",
+    "changelog": "Tested and Working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and Working",
+        "version": "1.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
     "featuredWebsite": false,
@@ -740,6 +1052,7 @@
     "iconImage": "assets/package-icons/com-kelvindass-teamslocaldetectionbypass-icon-1790021800.png",
     "iconText": "TE",
     "longDescription": "Version 8.16.3 ",
+    "showBannerSileo": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {
@@ -772,6 +1085,7 @@
     "longDescription": "Version 1.9.18",
     "showBannerSileo": true,
     "showBannerWebsite": false,
+    "supportURL": "",
     "tagline": "CCmodule + JB BYPASS"
   },
   {
@@ -779,13 +1093,13 @@
     "name": "Togglow",
     "version": "1.0",
     "architecture": "iphoneos-arm64",
-    "author": "Local Package",
+    "author": "smokin1337",
     "section": "Tweaks",
     "depends": "mobilesubstrate, preferenceloader, ws.hbang.alderis, oldabi (>= 2.0.1) | com.complications.ios17",
     "summary": "Thin outlines and soft glow for Control Center modules and expanded panels",
     "filename": "debs/Togglow v1.0.deb",
-    "size": 288040,
-    "uploadedAt": "2026-10-09T13:54:48.502512+00:00",
+    "size": 288020,
+    "uploadedAt": "2026-10-19T14:06:56.798722+00:00",
     "changelog": "Tested and Working",
     "changelogHistory": [
       {
@@ -809,40 +1123,52 @@
     "name": "UKG JB BYPASS",
     "version": "1.0",
     "architecture": "iphoneos-arm64",
-    "author": "Kelvin",
+    "author": "KiLlErZoN3",
     "section": "Bypass",
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/UKG_1.0_iphoneos-arm64.deb",
-    "size": 6476,
-    "uploadedAt": "2026-09-20T21:13:54.709321+00:00",
+    "size": 6488,
+    "uploadedAt": "2026-10-19T14:03:51.129666+00:00",
     "changelog": "Tested and working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and working",
+        "version": "1.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
-    "featuredSileo": true,
+    "featuredSileo": false,
     "featuredWebsite": false,
     "iconColor": "#9cff00",
     "iconImage": "assets/package-icons/com-kelvindass-ukgprobypass-icon-1788621121.png",
     "iconText": "UK",
     "longDescription": "Version 5.7.4",
-    "showBannerSileo": true,
+    "showBannerSileo": false,
     "showBannerWebsite": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {
     "id": "com.noisyflake.velvet2",
     "name": "Velvet 2",
-    "version": "2.2.0+opt1",
+    "version": "1.0",
     "architecture": "iphoneos-arm64",
     "author": "NoisyFlake",
     "section": "Tweaks",
     "depends": "mobilesubstrate (>= 0.9.5000), preferenceloader",
     "summary": "Customizable notification experience",
     "filename": "debs/Velvet2.deb",
-    "size": 105560,
-    "uploadedAt": "2026-10-04T09:08:23.813342+00:00",
-    "changelog": "Optimized for IOS 17",
+    "size": 105484,
+    "uploadedAt": "2026-10-19T14:04:43.973520+00:00",
+    "changelog": "Tested and Working",
     "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and Working",
+        "version": "1.0"
+      },
       {
         "date": "4 Oct 2026",
         "notes": "Optimized for IOS 17",
@@ -856,6 +1182,7 @@
     "iconImage": "assets/package-icons/com-noisyflake-velvet2-icon-1791104796.png",
     "iconText": "VE",
     "longDescription": "NoisyFlake's Fork Velvet2",
+    "showBannerSileo": false,
     "tagline": "Customizable notification experience"
   },
   {
@@ -871,6 +1198,13 @@
     "size": 3268,
     "uploadedAt": "2026-09-06T19:23:27.208068+00:00",
     "changelog": "Tested and working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and working",
+        "version": "1.0"
+      }
+    ],
     "compatibility": "IOS 17",
     "featured": false,
     "featuredWebsite": false,
@@ -878,7 +1212,38 @@
     "iconImage": "assets/package-icons/com-venngo-jbbypass-icon-1788731286.png",
     "iconText": "VE",
     "longDescription": "Version 3.4.6",
+    "showBannerSileo": false,
     "tagline": "Jailbreak Detection Bypass"
+  },
+  {
+    "id": "com.codex.watchapp.protest",
+    "name": "WatchApp Pro",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "IAP",
+    "depends": "ellekit",
+    "summary": "Pro Unlocked",
+    "filename": "debs/WatchAppPro_1.0_iphoneos-arm64.deb",
+    "size": 3208,
+    "uploadedAt": "2026-10-19T14:38:40.040972+00:00",
+    "changelog": "Tested and Working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and Working",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-codex-watchapp-protest-icon-1792420255.png",
+    "iconText": "WA",
+    "longDescription": "Watchapp+ V2.9.0",
+    "showBannerSileo": false,
+    "tagline": "Pro Unlocked"
   },
   {
     "id": "com.whatsup.jbbypass",
@@ -900,20 +1265,81 @@
     "iconImage": "assets/package-icons/com-whatsup-jbbypass-icon-1788446430.png",
     "iconText": "whatsup",
     "longDescription": "Version 4.66.2",
+    "showBannerSileo": false,
     "tagline": "Jailbreak Detection Bypass"
+  },
+  {
+    "id": "com.codex.windypro",
+    "name": "windy Pro",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "IAP",
+    "depends": "ellekit",
+    "summary": "Pro Unlocked",
+    "filename": "debs/windyPro_1.0_iphoneos-arm64.deb",
+    "size": 3288,
+    "uploadedAt": "2026-10-19T14:38:24.966866+00:00",
+    "changelog": "Tested and Working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and Working",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-codex-windypro-icon-1792420609.png",
+    "iconText": "WI",
+    "longDescription": "Windy.app V15.8.4",
+    "showBannerSileo": false,
+    "tagline": "Pro Unlocked"
+  },
+  {
+    "id": "com.kelvin.wingmanpro",
+    "name": "Wingman Premium",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "IAP",
+    "depends": "firmware (>= 15.1), ellekit",
+    "summary": "Premium Unlocked",
+    "filename": "debs/com.kelvin.wingmanpro_1.0_iphoneos-arm64.deb",
+    "size": 5936,
+    "uploadedAt": "2026-10-19T14:57:56.174390+00:00",
+    "changelog": "Tested and Working",
+    "changelogHistory": [
+      {
+        "date": "19 Oct 2026",
+        "notes": "Tested and Working",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-kelvin-wingmanpro-icon-1792421756.png",
+    "iconText": "WI",
+    "longDescription": "Wingman V1.8.8",
+    "showBannerSileo": false,
+    "tagline": "Premium Unlocked"
   },
   {
     "id": "local.youtube-queue",
     "name": "YouTube Queue",
     "version": "1.0.1",
     "architecture": "iphoneos-arm64",
-    "author": "Kelvin",
+    "author": "KiLlErZoN3",
     "section": "Tweaks",
     "depends": "firmware (>= 17.0), firmware (<< 18.0), mobilesubstrate, com.opa334.libsandy (>= 1.1.6)",
     "summary": "Native YouTube playback queue in Control Center and on the Lock Screen",
     "filename": "debs/YouTube Queue v1.0.1.deb",
-    "size": 58136,
-    "uploadedAt": "2026-10-09T12:07:49.037859+00:00",
+    "size": 57964,
+    "uploadedAt": "2026-10-19T14:06:25.615647+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
