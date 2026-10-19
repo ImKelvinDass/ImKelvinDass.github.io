@@ -32,7 +32,7 @@
   },
   {
     "id": "com.kelvin.aeroweathercaptain",
-    "name": "Aeroweather Unlocked",
+    "name": "Aeroweather Captain",
     "version": "1.0",
     "architecture": "iphoneos-arm64",
     "author": "KiLlErZoN3",
@@ -41,7 +41,7 @@
     "summary": "Captain Unlocked",
     "filename": "debs/com.kelvin.aeroweathercaptain_1.0_iphoneos-arm64.deb",
     "size": 5092,
-    "uploadedAt": "2026-10-19T14:49:00.994399+00:00",
+    "uploadedAt": "2026-10-19T17:01:54.899537+00:00",
     "changelog": "Tested and Working",
     "changelogHistory": [
       {
@@ -118,6 +118,36 @@
     "longDescription": "Modified https://github.com/ren7995/Atria",
     "showBannerSileo": false,
     "tagline": "Working home Screen layout customization for iOS 17"
+  },
+  {
+    "id": "com.kelvin.audioeditorpro",
+    "name": "Audio Editor - Music Mixer VIP",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "IAP",
+    "depends": "firmware (>= 15.6), ellekit",
+    "summary": "VIP Unlocked",
+    "filename": "debs/com.kelvin.audioeditorpro_1.0_iphoneos-arm64.deb",
+    "size": 3196,
+    "uploadedAt": "2026-10-19T17:14:50.847439+00:00",
+    "changelog": "Tested and Working",
+    "changelogHistory": [
+      {
+        "date": "20 Oct 2026",
+        "notes": "Tested and Working",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-kelvin-audioeditorpro-icon-1792430011.png",
+    "iconText": "AU",
+    "longDescription": "Audio Editor - Music Mixer V5.86",
+    "showBannerSileo": false,
+    "tagline": "VIP Unlocked"
   },
   {
     "id": "com.kelvindass.banreservasbypass",
@@ -1267,6 +1297,36 @@
     "longDescription": "Version 4.66.2",
     "showBannerSileo": false,
     "tagline": "Jailbreak Detection Bypass"
+  },
+  {
+    "id": "com.codex.windy.localtiertest",
+    "name": "Windy Premium",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "IAP",
+    "depends": "ellekit",
+    "summary": "Premium Unlocked",
+    "filename": "debs/com.codex.windy.localtiertest_1.0_iphoneos-arm64.deb",
+    "size": 3524,
+    "uploadedAt": "2026-10-19T17:00:00.993203+00:00",
+    "changelog": "Tested and Working",
+    "changelogHistory": [
+      {
+        "date": "20 Oct 2026",
+        "notes": "Tested and Working",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-codex-windy-localtiertest-icon-1792429017.png",
+    "iconText": "WI",
+    "longDescription": "Windy V51.030124.24510302",
+    "showBannerSileo": false,
+    "tagline": "Premium Unlocked"
   },
   {
     "id": "com.codex.windypro",

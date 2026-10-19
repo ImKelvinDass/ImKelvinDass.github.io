@@ -208,6 +208,25 @@
       "showBannerSileo" : false,
       "tagline" : "Pro Unlocked"
     },
+    "com.codex.windy.localtiertest" : {
+      "changelog" : "Tested and Working",
+      "changelogHistory" : [
+        {
+          "date" : "20 Oct 2026",
+          "notes" : "Tested and Working",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-codex-windy-localtiertest-icon-1792429017.png",
+      "iconText" : "WI",
+      "longDescription" : "Windy V51.030124.24510302",
+      "showBannerSileo" : false,
+      "tagline" : "Premium Unlocked"
+    },
     "com.codex.windypro" : {
       "changelog" : "Tested and Working",
       "changelogHistory" : [
@@ -305,6 +324,25 @@
       "longDescription" : "Aeroweather V3.16.2 ( Request for IPA )",
       "showBannerSileo" : false,
       "tagline" : "Captain Unlocked"
+    },
+    "com.kelvin.audioeditorpro" : {
+      "changelog" : "Tested and Working",
+      "changelogHistory" : [
+        {
+          "date" : "20 Oct 2026",
+          "notes" : "Tested and Working",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-kelvin-audioeditorpro-icon-1792430011.png",
+      "iconText" : "AU",
+      "longDescription" : "Audio Editor - Music Mixer V5.86",
+      "showBannerSileo" : false,
+      "tagline" : "VIP Unlocked"
     },
     "com.kelvin.glancereborn" : {
       "changelog" : "Tested and Working",

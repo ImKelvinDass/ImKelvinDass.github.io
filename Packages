@@ -667,8 +667,24 @@ Size: 57964
 MD5sum: 7c9ba3d7b6dc0cfaa6ceb73e7c914c05
 SHA256: 20998f173697f0c901655065352cc456c35ba51c9e18e2d50dee8c5054d38c4a
 
+Package: com.codex.windy.localtiertest
+Name: Windy Premium 
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: IAP
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: ellekit
+Description: Premium Unlocked
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-codex-windy-localtiertest-icon-1792429017.png
+Filename: debs/com.codex.windy.localtiertest_1.0_iphoneos-arm64.deb
+Size: 3524
+MD5sum: 3ab0f6b44a18098ed8085f2cb730cf66
+SHA256: 971df84381ac8c56c8a57700cfe33a589119ae9cbc2701affa85b8da59daacd1
+
 Package: com.kelvin.aeroweathercaptain
-Name: Aeroweather Unlocked
+Name: Aeroweather Captain
 Version: 1.0
 Architecture: iphoneos-arm64
 Section: IAP
@@ -680,8 +696,24 @@ Installed-Size: 76
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-aeroweathercaptain-icon-1792421210.png
 Filename: debs/com.kelvin.aeroweathercaptain_1.0_iphoneos-arm64.deb
 Size: 5092
-MD5sum: 16f4d81307c24e515997b137cb80d306
-SHA256: 1c80b8611ed2f3243f562ebd46bce032acf18564f0d4207935b58ad933d79f75
+MD5sum: 50b9af35d33b04aa7e614ff5bedf83be
+SHA256: dfe404b45065e78d42340d9b6bd96b045ee9d87e004c778152dbeac5223e6de5
+
+Package: com.kelvin.audioeditorpro
+Name: Audio Editor - Music Mixer VIP
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: IAP
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: firmware (>= 15.6), ellekit
+Description: VIP Unlocked
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-audioeditorpro-icon-1792430011.png
+Filename: debs/com.kelvin.audioeditorpro_1.0_iphoneos-arm64.deb
+Size: 3196
+MD5sum: 84e0a7b8178692d0a78fee6fe128830e
+SHA256: cb6f33cfbde0f97ca44d33bb1c7b27becfe82de2e94bb64b58bcfffef75e0109
 
 Package: com.kelvin.glancereborn
 Name: Glance Reborn
