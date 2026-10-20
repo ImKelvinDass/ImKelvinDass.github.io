@@ -4,28 +4,28 @@
   "itemCornerRadius": 12,
   "banners": [
     {
-      "url": "https://imkelvindass.github.io/assets/package-banners/com-cimb-jbbypass-banner-1788768892.png",
+      "url": "https://imkelvindass.github.io/assets/package-banners/com-cimb-jbbypass-banner-1788768892.jpg",
       "title": "CIMB JB BYPASS",
       "package": "com.cimb.jbbypass",
       "repoName": "Kelvin",
       "hideShadow": false
     },
     {
-      "url": "https://imkelvindass.github.io/assets/package-banners/com-kwsp-jbbypass-banner-1788768489.png",
+      "url": "https://imkelvindass.github.io/assets/package-banners/com-kwsp-jbbypass-banner-1788768489.jpg",
       "title": "KWSP JB BYPASS",
       "package": "com.kwsp.jbbypass",
       "repoName": "Kelvin",
       "hideShadow": false
     },
     {
-      "url": "https://imkelvindass.github.io/assets/package-banners/com-mae-jbbypass-banner-1788768761.png",
+      "url": "https://imkelvindass.github.io/assets/package-banners/com-mae-jbbypass-banner-1788768761.jpg",
       "title": "MAE JB BYPASS",
       "package": "com.mae.jbbypass",
       "repoName": "Kelvin",
       "hideShadow": false
     },
     {
-      "url": "https://imkelvindass.github.io/assets/package-banners/com-tng-jbbypass-banner-1788768919.png",
+      "url": "https://imkelvindass.github.io/assets/package-banners/com-tng-jbbypass-banner-1788768919.jpg",
       "title": "TNG JB BYPASS",
       "package": "com.tng.jbbypass",
       "repoName": "Kelvin",

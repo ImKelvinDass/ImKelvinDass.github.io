@@ -10,7 +10,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/AEONWalletBypass_1.0_iphoneos-arm64.deb",
     "size": 5012,
-    "uploadedAt": "2026-10-19T15:06:45.689981+00:00",
+    "uploadedAt": "2026-09-20T21:11:18+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
@@ -41,7 +41,7 @@
     "summary": "Captain Unlocked",
     "filename": "debs/com.kelvin.aeroweathercaptain_1.0_iphoneos-arm64.deb",
     "size": 5092,
-    "uploadedAt": "2026-10-19T17:01:54.899537+00:00",
+    "uploadedAt": "2026-10-19T15:14:11+00:00",
     "changelog": "Tested and Working",
     "changelogHistory": [
       {
@@ -71,7 +71,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/AffinAlwaysX_1.0_iphoneos-arm64.deb",
     "size": 10496,
-    "uploadedAt": "2026-10-19T14:02:38.758824+00:00",
+    "uploadedAt": "2026-09-15T23:33:06+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
@@ -101,7 +101,7 @@
     "summary": "Home Screen layout customization for iOS 17.",
     "filename": "debs/AtriaIOS17_1.0_iphoneos-arm64.deb",
     "size": 214192,
-    "uploadedAt": "2026-10-19T14:59:09.998790+00:00",
+    "uploadedAt": "2026-09-02T21:13:06+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
@@ -130,7 +130,7 @@
     "summary": "VIP Unlocked",
     "filename": "debs/com.kelvin.audioeditorpro_1.0_iphoneos-arm64.deb",
     "size": 3196,
-    "uploadedAt": "2026-10-19T17:14:50.847439+00:00",
+    "uploadedAt": "2026-10-19T17:16:16+00:00",
     "changelog": "Tested and Working",
     "changelogHistory": [
       {
@@ -160,7 +160,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/BanreservasBypass_v2.0_iphoneos-arm64.deb",
     "size": 5316,
-    "uploadedAt": "2026-10-19T15:06:27.147599+00:00",
+    "uploadedAt": "2026-09-17T08:11:37+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
@@ -191,7 +191,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/BriorHR_1.0_iphoneos-arm64.deb",
     "size": 2488,
-    "uploadedAt": "2026-09-02T20:44:30.316088+00:00",
+    "uploadedAt": "2026-09-02T21:13:06+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
@@ -222,7 +222,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/CapCutJbBypass_1.0_iphoneos-arm64.deb",
     "size": 9908,
-    "uploadedAt": "2026-10-19T14:45:10.914184+00:00",
+    "uploadedAt": "2026-10-19T15:14:11+00:00",
     "changelog": "Tested and Working",
     "changelogHistory": [
       {
@@ -242,6 +242,36 @@
     "tagline": "Jailbreak Detection Bypass"
   },
   {
+    "id": "com.kelvin.carrotpromax",
+    "name": "Carrot Pro max",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "IAP",
+    "depends": "firmware (>= 15.0), ellekit",
+    "summary": "Pro Max Unlocked",
+    "filename": "debs/com.kelvin.carrotpromax_1.0_iphoneos-arm64.deb",
+    "size": 3444,
+    "uploadedAt": "2026-10-20T23:51:52.880562+00:00",
+    "changelog": "Tested and Working",
+    "changelogHistory": [
+      {
+        "date": "21 Oct 2026",
+        "notes": "Tested and Working",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-kelvin-carrotpromax-icon-1792540426.png",
+    "iconText": "CA",
+    "longDescription": "Carrot V6.9.2",
+    "showBannerSileo": false,
+    "tagline": "Pro Max Unlocked"
+  },
+  {
     "id": "com.celcomdigi.jbbypass",
     "name": "CelcomDigi JB BYPASS",
     "version": "1.0",
@@ -252,7 +282,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/CelcomDigi_1.0_iphoneos-arm64.deb",
     "size": 3196,
-    "uploadedAt": "2026-09-02T20:44:30.311378+00:00",
+    "uploadedAt": "2026-09-02T21:13:06+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
@@ -282,7 +312,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/CIMB_1.0_iphoneos-arm64.deb",
     "size": 3968,
-    "uploadedAt": "2026-09-02T20:44:30.318482+00:00",
+    "uploadedAt": "2026-09-02T21:13:06+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
@@ -314,7 +344,7 @@
     "summary": "Select clean pictures and use them as camera captures in supported apps",
     "filename": "debs/CleanPicture_1.1_iphoneos-arm64.deb",
     "size": 2107236,
-    "uploadedAt": "2026-09-09T17:40:55.419385+00:00",
+    "uploadedAt": "2026-09-09T17:43:04+00:00",
     "changelog": "Supported all picture size ",
     "changelogHistory": [
       {
@@ -344,7 +374,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/CoopSanJose_1.0_iphoneos-arm64.deb",
     "size": 2924,
-    "uploadedAt": "2026-09-06T19:26:04.878592+00:00",
+    "uploadedAt": "2026-09-06T22:06:44+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
@@ -376,7 +406,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/DetikBypass_1.0_iphoneos-arm64.deb",
     "size": 4276,
-    "uploadedAt": "2026-10-19T14:04:52.415027+00:00",
+    "uploadedAt": "2026-10-04T09:35:03+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
@@ -406,7 +436,7 @@
     "summary": "Gold Unlocked",
     "filename": "debs/FR24GoldSessionTest_1.0_iphoneos-arm64.deb",
     "size": 10084,
-    "uploadedAt": "2026-10-19T14:41:44.346444+00:00",
+    "uploadedAt": "2026-10-19T15:14:11+00:00",
     "changelog": "Tested and Working",
     "changelogHistory": [
       {
@@ -436,7 +466,7 @@
     "summary": "Beautiful Lockscreen Notifications",
     "filename": "debs/com.kelvin.glancereborn_1.0_iphoneos-arm64.deb",
     "size": 293752,
-    "uploadedAt": "2026-10-19T14:10:19.975721+00:00",
+    "uploadedAt": "2026-10-19T15:14:11+00:00",
     "changelog": "Tested and Working",
     "changelogHistory": [
       {
@@ -466,7 +496,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/Gmail_1.0_iphoneos-arm64.deb",
     "size": 4140,
-    "uploadedAt": "2026-10-04T09:33:55.358247+00:00",
+    "uploadedAt": "2026-10-04T09:35:03+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
@@ -496,7 +526,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/GXBankBypass_1.0_iphoneos-arm64.deb",
     "size": 5232,
-    "uploadedAt": "2026-10-19T15:08:03.215418+00:00",
+    "uploadedAt": "2026-09-21T17:32:52+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
@@ -526,7 +556,7 @@
     "summary": "Hides the Microphone Mode and Video Effects modules in Control Center on rootless jailbreaks",
     "filename": "debs/hideavcontrols_1.0_iphoneos-arm64.deb",
     "size": 4712,
-    "uploadedAt": "2026-10-19T15:11:29.799426+00:00",
+    "uploadedAt": "2026-10-19T15:14:11+00:00",
     "changelog": "Tested and Working",
     "changelogHistory": [
       {
@@ -556,7 +586,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/HSBC_2.0_iphoneos-arm64.deb",
     "size": 5712,
-    "uploadedAt": "2026-10-19T15:10:26.821470+00:00",
+    "uploadedAt": "2026-10-08T17:39:09+00:00",
     "changelog": "Updated To Version 3.74.31",
     "changelogHistory": [
       {
@@ -587,8 +617,8 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/KWSP_1.0_iphoneos-arm64.deb",
     "size": 2804,
-    "uploadedAt": "2026-09-06T20:13:21.859959+00:00",
-    "bannerImage": "assets/package-banners/com-kwsp-jbbypass-banner-1788768489.png",
+    "uploadedAt": "2026-09-06T22:06:44+00:00",
+    "bannerImage": "assets/package-banners/com-kwsp-jbbypass-banner-1788768489.jpg",
     "changelog": "Supports KWSP V4.10.2",
     "changelogHistory": [
       {
@@ -620,7 +650,7 @@
     "summary": "Android Lockscreen",
     "filename": "debs/LockDroid.deb",
     "size": 62232,
-    "uploadedAt": "2026-10-19T14:04:27.032911+00:00",
+    "uploadedAt": "2026-10-19T15:14:11+00:00",
     "changelog": "Tested and Working",
     "changelogHistory": [
       {
@@ -655,7 +685,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/MAECCJB_1.0_iphoneos-arm64.deb",
     "size": 17006,
-    "uploadedAt": "2026-09-04T14:26:40.525583+00:00",
+    "uploadedAt": "2026-09-02T21:13:06+00:00",
     "changelog": "Updated V0.9.50",
     "changelogHistory": [
       {
@@ -687,7 +717,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/MAE_1.0_iphoneos-arm64.deb",
     "size": 2338,
-    "uploadedAt": "2026-09-02T20:44:30.308838+00:00",
+    "uploadedAt": "2026-09-02T21:13:06+00:00",
     "changelog": "Updated V0.9.50",
     "changelogHistory": [
       {
@@ -719,7 +749,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/McDonalds_1.0_iphoneos-arm64.deb",
     "size": 3988,
-    "uploadedAt": "2026-10-04T09:31:36.858714+00:00",
+    "uploadedAt": "2026-10-04T09:35:03+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
@@ -749,7 +779,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/Mobills_1.0_iphoneos-arm64.deb",
     "size": 3972,
-    "uploadedAt": "2026-09-06T19:26:04.937467+00:00",
+    "uploadedAt": "2026-09-06T22:06:44+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
@@ -779,7 +809,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/MyDigitalIDBypass_2.0_iphoneos-arm64.deb",
     "size": 5780,
-    "uploadedAt": "2026-10-19T15:11:07.716249+00:00",
+    "uploadedAt": "2026-10-08T17:39:09+00:00",
     "changelog": "Updated To Version 2.10.0",
     "changelogHistory": [
       {
@@ -814,7 +844,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/MYWE_1.0_iphoneos-arm64.deb",
     "size": 2822,
-    "uploadedAt": "2026-09-02T20:44:30.313802+00:00",
+    "uploadedAt": "2026-09-02T21:13:06+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
@@ -846,7 +876,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/OutlookBypass_1.0_iphoneos-arm64.deb",
     "size": 2940,
-    "uploadedAt": "2026-10-19T15:07:49.356609+00:00",
+    "uploadedAt": "2026-09-21T20:24:53+00:00",
     "changelog": "Tested and Working",
     "changelogHistory": [
       {
@@ -876,7 +906,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/PTV_1.0_iphoneos-arm64.deb",
     "size": 5540,
-    "uploadedAt": "2026-09-02T20:44:30.320798+00:00",
+    "uploadedAt": "2026-09-02T21:13:06+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
@@ -906,7 +936,7 @@
     "summary": "Pro and Plus Unlocked",
     "filename": "debs/RainAlarmPro+_1.0_iphoneos-arm64.deb",
     "size": 4096,
-    "uploadedAt": "2026-10-19T14:15:11.934154+00:00",
+    "uploadedAt": "2026-10-19T15:14:11+00:00",
     "changelog": "Tested and Working",
     "changelogHistory": [
       {
@@ -936,7 +966,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/Ring_1.0_iphoneos-arm64.deb",
     "size": 3528,
-    "uploadedAt": "2026-09-06T20:42:34.072985+00:00",
+    "uploadedAt": "2026-09-06T22:06:44+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
@@ -966,7 +996,7 @@
     "summary": "Opens Spotify's library list once per cold launch. Rootless iOS 17.",
     "filename": "debs/Spotify Opens On Playlists v2.0.deb",
     "size": 7264,
-    "uploadedAt": "2026-10-19T14:06:03.748765+00:00",
+    "uploadedAt": "2026-10-09T12:10:04+00:00",
     "changelog": "Updated Spotify V 9.1.88",
     "changelogHistory": [
       {
@@ -996,7 +1026,7 @@
     "summary": "Like Spotify tracks straight from the lock screen",
     "filename": "debs/SpotiLoveReborn v2.0.deb",
     "size": 19536,
-    "uploadedAt": "2026-10-09T12:06:42.390779+00:00",
+    "uploadedAt": "2026-10-09T12:10:04+00:00",
     "changelog": "Spotify V9.1.88 + Eevee V7.0.0",
     "changelogHistory": [
       {
@@ -1031,7 +1061,7 @@
     "summary": "Manage your Spotify queue from anywhere",
     "filename": "debs/SpotiQueue v2.0.deb",
     "size": 102168,
-    "uploadedAt": "2026-10-09T12:07:14.579401+00:00",
+    "uploadedAt": "2026-10-09T12:10:04+00:00",
     "changelog": "Spotify V9.1.88 + Eevee V7.0.0",
     "changelogHistory": [
       {
@@ -1066,7 +1096,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/TeamsBypass_1.0_iphoneos-arm64.deb",
     "size": 2948,
-    "uploadedAt": "2026-10-19T15:07:29.316637+00:00",
+    "uploadedAt": "2026-09-21T20:24:53+00:00",
     "changelog": "Tested and Working",
     "changelogHistory": [
       {
@@ -1096,7 +1126,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/TNG_1.0_iphoneos-arm64.deb",
     "size": 12230,
-    "uploadedAt": "2026-09-04T15:00:08.028390+00:00",
+    "uploadedAt": "2026-09-02T21:13:06+00:00",
     "changelog": "Supports TNG V1.9.18",
     "changelogHistory": [
       {
@@ -1129,7 +1159,7 @@
     "summary": "Thin outlines and soft glow for Control Center modules and expanded panels",
     "filename": "debs/Togglow v1.0.deb",
     "size": 288020,
-    "uploadedAt": "2026-10-19T14:06:56.798722+00:00",
+    "uploadedAt": "2026-10-09T12:44:10+00:00",
     "changelog": "Tested and Working",
     "changelogHistory": [
       {
@@ -1149,6 +1179,36 @@
     "tagline": "Thin outlines and soft glow for Control Center modules and expanded panels"
   },
   {
+    "id": "com.kelvin.truthordarepro",
+    "name": "Truth Or Dare Premium",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "IAP",
+    "depends": "firmware (>= 15.0), ellekit",
+    "summary": "Premium Unlocked",
+    "filename": "debs/com.kelvin.truthordarepro_1.0_iphoneos-arm64.deb",
+    "size": 3320,
+    "uploadedAt": "2026-10-20T23:46:19.366793+00:00",
+    "changelog": "Tested and Working",
+    "changelogHistory": [
+      {
+        "date": "21 Oct 2026",
+        "notes": "Tested and Working",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 18",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-kelvin-truthordarepro-icon-1792539989.png",
+    "iconText": "TR",
+    "longDescription": "Truth Or Dare V6.9.3",
+    "showBannerSileo": false,
+    "tagline": "Premium Unlocked"
+  },
+  {
     "id": "com.kelvindass.ukgprobypass",
     "name": "UKG JB BYPASS",
     "version": "1.0",
@@ -1159,7 +1219,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/UKG_1.0_iphoneos-arm64.deb",
     "size": 6488,
-    "uploadedAt": "2026-10-19T14:03:51.129666+00:00",
+    "uploadedAt": "2026-09-05T15:14:40+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
@@ -1191,7 +1251,7 @@
     "summary": "Customizable notification experience",
     "filename": "debs/Velvet2.deb",
     "size": 105484,
-    "uploadedAt": "2026-10-19T14:04:43.973520+00:00",
+    "uploadedAt": "2026-10-19T15:14:11+00:00",
     "changelog": "Tested and Working",
     "changelogHistory": [
       {
@@ -1226,7 +1286,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/Venngo_1.0_iphoneos-arm64.deb",
     "size": 3268,
-    "uploadedAt": "2026-09-06T19:23:27.208068+00:00",
+    "uploadedAt": "2026-09-06T22:06:44+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {
@@ -1256,7 +1316,7 @@
     "summary": "Pro Unlocked",
     "filename": "debs/WatchAppPro_1.0_iphoneos-arm64.deb",
     "size": 3208,
-    "uploadedAt": "2026-10-19T14:38:40.040972+00:00",
+    "uploadedAt": "2026-10-19T15:14:11+00:00",
     "changelog": "Tested and Working",
     "changelogHistory": [
       {
@@ -1286,7 +1346,7 @@
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/WhatsUp_1.0_iphoneos-arm64.deb",
     "size": 2396,
-    "uploadedAt": "2026-09-02T20:44:30.303091+00:00",
+    "uploadedAt": "2026-09-02T21:13:06+00:00",
     "changelog": "Tested and working",
     "compatibility": "IOS 17",
     "featured": false,
@@ -1309,7 +1369,7 @@
     "summary": "Premium Unlocked",
     "filename": "debs/com.codex.windy.localtiertest_1.0_iphoneos-arm64.deb",
     "size": 3524,
-    "uploadedAt": "2026-10-19T17:00:00.993203+00:00",
+    "uploadedAt": "2026-10-19T17:16:16+00:00",
     "changelog": "Tested and Working",
     "changelogHistory": [
       {
@@ -1339,7 +1399,7 @@
     "summary": "Pro Unlocked",
     "filename": "debs/windyPro_1.0_iphoneos-arm64.deb",
     "size": 3288,
-    "uploadedAt": "2026-10-19T14:38:24.966866+00:00",
+    "uploadedAt": "2026-10-19T15:14:11+00:00",
     "changelog": "Tested and Working",
     "changelogHistory": [
       {
@@ -1369,7 +1429,7 @@
     "summary": "Premium Unlocked",
     "filename": "debs/com.kelvin.wingmanpro_1.0_iphoneos-arm64.deb",
     "size": 5936,
-    "uploadedAt": "2026-10-19T14:57:56.174390+00:00",
+    "uploadedAt": "2026-10-19T15:14:11+00:00",
     "changelog": "Tested and Working",
     "changelogHistory": [
       {
@@ -1399,7 +1459,7 @@
     "summary": "Native YouTube playback queue in Control Center and on the Lock Screen",
     "filename": "debs/YouTube Queue v1.0.1.deb",
     "size": 57964,
-    "uploadedAt": "2026-10-19T14:06:25.615647+00:00",
+    "uploadedAt": "2026-10-09T12:10:04+00:00",
     "changelog": "Tested and working",
     "changelogHistory": [
       {

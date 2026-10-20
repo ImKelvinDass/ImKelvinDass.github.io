@@ -715,6 +715,24 @@ Size: 3196
 MD5sum: 84e0a7b8178692d0a78fee6fe128830e
 SHA256: cb6f33cfbde0f97ca44d33bb1c7b27becfe82de2e94bb64b58bcfffef75e0109
 
+Package: com.kelvin.carrotpromax
+Name: Carrot Pro max
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: IAP
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: firmware (>= 15.0), ellekit
+Description: Pro Max Unlocked
+Conflicts: com.codex.carrot.localtest
+Installed-Size: 72
+Replaces: com.codex.carrot.localtest
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-carrotpromax-icon-1792540426.png
+Filename: debs/com.kelvin.carrotpromax_1.0_iphoneos-arm64.deb
+Size: 3444
+MD5sum: 1b20b0a91b0ea053738a287ce49fe36b
+SHA256: 7fd70b6aed60931d5feabe375b6255a39fd0d709270e41a24408603f72ea22a4
+
 Package: com.kelvin.glancereborn
 Name: Glance Reborn
 Version: 1.0
@@ -732,6 +750,22 @@ Filename: debs/com.kelvin.glancereborn_1.0_iphoneos-arm64.deb
 Size: 293752
 MD5sum: d0f09dd5a348e4051459635f4d9a1056
 SHA256: 50b6d90bf9e9dd7d223cbaeb6e4c2dede708541ff6d49f607fed58c4ed26ecc0
+
+Package: com.kelvin.truthordarepro
+Name: Truth Or Dare Premium
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: IAP
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: firmware (>= 15.0), ellekit
+Description: Premium Unlocked
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-truthordarepro-icon-1792539989.png
+Filename: debs/com.kelvin.truthordarepro_1.0_iphoneos-arm64.deb
+Size: 3320
+MD5sum: 5bd785a987dc1f3c55ea30a33acb60a5
+SHA256: 3a40c98e295873c91c443692dc0961393bc5eb3184060052d6f67a84cebca908
 
 Package: com.kelvin.wingmanpro
 Name: Wingman Premium
