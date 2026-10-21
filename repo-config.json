@@ -361,6 +361,7 @@
       "iconText" : "CA",
       "longDescription" : "Carrot V6.9.2",
       "showBannerSileo" : false,
+      "supportURL" : "",
       "tagline" : "Pro Max Unlocked"
     },
     "com.kelvin.glancereborn" : {
@@ -907,14 +908,22 @@
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.whatsup.jbbypass" : {
-      "changelog" : "Tested and working",
+      "appStoreURL" : "https://apps.apple.com/app/whats-up/id535247768",
+      "changelog" : "Version 4.66.2",
+      "changelogHistory" : [
+        {
+          "date" : "21 Oct 2026",
+          "notes" : "Version 4.66.2",
+          "version" : "1.0"
+        }
+      ],
       "compatibility" : "IOS 17",
       "featured" : true,
       "featuredWebsite" : false,
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-whatsup-jbbypass-icon-1788446430.png",
       "iconText" : "whatsup",
-      "longDescription" : "Version 4.66.2",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
