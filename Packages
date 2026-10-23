@@ -683,6 +683,22 @@ Size: 3524
 MD5sum: 3ab0f6b44a18098ed8085f2cb730cf66
 SHA256: 971df84381ac8c56c8a57700cfe33a589119ae9cbc2701affa85b8da59daacd1
 
+Package: com.kelvin.365scorespro
+Name: 365Scores Pro
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: IAP
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: firmware (>= 16.4), ellekit
+Description: Ad-Removed
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-365scorespro-icon-1792760085.png
+Filename: debs/com.kelvin.365scorespro_1.0_iphoneos-arm64.deb
+Size: 3464
+MD5sum: c75d2f42384f4d6ba27fd9eef0c15b4d
+SHA256: 98582c91f957bdf2e99c138bcdccdec844191aa3304c7ed59bd9e6328db3de26
+
 Package: com.kelvin.aeroweathercaptain
 Name: Aeroweather Captain
 Version: 1.0
@@ -733,6 +749,38 @@ Size: 3444
 MD5sum: 1b20b0a91b0ea053738a287ce49fe36b
 SHA256: 7fd70b6aed60931d5feabe375b6255a39fd0d709270e41a24408603f72ea22a4
 
+Package: com.kelvin.dirtygamepro
+Name: Dirty Game Pro
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: IAP
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: firmware (>= 17.0), ellekit
+Description: All Unlocked
+Installed-Size: 76
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-dirtygamepro-icon-1792760823.png
+Filename: debs/com.kelvin.dirtygamepro_1.0_iphoneos-arm64.deb
+Size: 4800
+MD5sum: ede0ddbf446739adba5d934cdd32b398
+SHA256: 0cd04b014a0ba19b7748299ae2a351909268a7b382b7874faca451de902ccccb
+
+Package: com.kelvin.episodevip
+Name: Episode VIP
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: IAP
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: firmware (>= 15.0), ellekit
+Description: Unlmited Gems, Passes and Gumball Tokens
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-episodevip-icon-1792759781.png
+Filename: debs/com.kelvin.episodevip_1.0_iphoneos-arm64.deb
+Size: 4280
+MD5sum: fca6bee3a5680d9d2befbaff9abffd6c
+SHA256: 5a14952e7b00fb89fa45c8086ee27e01440c256f444505fb0ab184312f7abb09
+
 Package: com.kelvin.glancereborn
 Name: Glance Reborn
 Version: 1.0
@@ -750,6 +798,86 @@ Filename: debs/com.kelvin.glancereborn_1.0_iphoneos-arm64.deb
 Size: 293752
 MD5sum: d0f09dd5a348e4051459635f4d9a1056
 SHA256: 50b6d90bf9e9dd7d223cbaeb6e4c2dede708541ff6d49f607fed58c4ed26ecc0
+
+Package: com.kelvin.logtenpro
+Name: LogTen Pro
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: IAP
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: firmware (>= 15.0), ellekit
+Description: Pro Unlocked
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-logtenpro-icon-1792759349.png
+Filename: debs/com.kelvin.logtenpro_1.0_iphoneos-arm64.deb
+Size: 3360
+MD5sum: bdbb92709608a8dede23320491f25fe0
+SHA256: 3c91abe75c239db9326ac59dcc8b595355985f2d3c3463909cac01785846f7db
+
+Package: com.kelvin.manutdpro
+Name: Man Utd Pro
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: IAP
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: firmware (>= 17.0), ellekit
+Description: MUTV Unlocked
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-manutdpro-icon-1792760679.png
+Filename: debs/com.kelvin.manutdpro_1.0_iphoneos-arm64.deb
+Size: 5164
+MD5sum: 01c6edddf5a2f19011cb50dfa27b4f0e
+SHA256: b1f8689e616b09360cf6faa021fcf888ea2ae0c06e196d040d09979bd8340ce2
+
+Package: com.kelvin.swipewipepro
+Name: SwipeWipe Premium
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: IAP
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: firmware (>= 15.0), ellekit
+Description: Premium Unlocked
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-swipewipepro-icon-1792760246.png
+Filename: debs/com.kelvin.swipewipepro_1.0_iphoneos-arm64.deb
+Size: 3460
+MD5sum: 76f97d159c6d099aa2ed77a53d6064aa
+SHA256: d294b17a225dc45ae08ee1dad7997123ea04890ee3865545ab1ce01d1a58e6dd
+
+Package: com.kelvin.truecallerpremium
+Name: TrueCaller Premium
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: IAP
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: firmware (>= 17.0), ellekit
+Description: Premium Unlocked
+Installed-Size: 76
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-truecallerpremium-icon-1792760544.png
+Filename: debs/com.kelvin.truecallerpremium_1.0_iphoneos-arm64.deb
+Size: 5184
+MD5sum: c68d2b723bad28bbca3e4d81fc42ba9e
+SHA256: 22278429e21d80fd0f858f15d9b811268319cf24c6c59f19667779c72e6c4c26
+
+Package: com.kelvin.trueskatepro
+Name: True Skate Pro
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: IAP
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: firmware (>= 15.6), ellekit
+Description: Unlimited Gold and All Parks Unlocked
+Installed-Size: 72
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-trueskatepro-icon-1792760410.png
+Filename: debs/com.kelvin.trueskatepro_1.0_iphoneos-arm64.deb
+Size: 3996
+MD5sum: 72970481982fe020d352adb03bcf0df3
+SHA256: 5c149fed0c98dbca6522ef32830ad2aba238e5804ff46b929994bbc9f7823843
 
 Package: com.kelvin.truthordarepro
 Name: Truth Or Dare Premium

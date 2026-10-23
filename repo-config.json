@@ -24,11 +24,12 @@
       "tagline" : "Working home Screen layout customization for iOS 17"
     },
     "com.briorhr.jbbypass" : {
-      "changelog" : "Tested and working",
+      "appStoreURL" : "https://apps.apple.com/app/briohr/id1484448446",
+      "changelog" : "Version 2.10.0 ",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and working",
+          "date" : "21 Oct 2026",
+          "notes" : "Version 2.10.0 ",
           "version" : "1.0"
         }
       ],
@@ -39,15 +40,16 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-briorhr-jbbypass-icon-1788437867.png",
       "iconText" : "BriorHr",
-      "longDescription" : "Version 2.10.0 ",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.brkr1.tweaks.spotilovereborn" : {
+      "appStoreURL" : "https://apps.apple.com/app/spotify-music-and-podcasts/id324684580",
       "changelog" : "Spotify V9.1.88 + Eevee V7.0.0",
       "changelogHistory" : [
         {
-          "date" : "9 Oct 2026",
+          "date" : "23 Oct 2026",
           "notes" : "Spotify V9.1.88 + Eevee V7.0.0",
           "version" : "2.0"
         },
@@ -68,10 +70,11 @@
       "tagline" : "Like Spotify tracks straight from the lock screen"
     },
     "com.brkr1.tweaks.spotiqueue" : {
+      "appStoreURL" : "https://apps.apple.com/app/spotify-music-and-podcasts/id324684580",
       "changelog" : "Spotify V9.1.88 + Eevee V7.0.0",
       "changelogHistory" : [
         {
-          "date" : "9 Oct 2026",
+          "date" : "23 Oct 2026",
           "notes" : "Spotify V9.1.88 + Eevee V7.0.0",
           "version" : "2.0"
         },
@@ -92,11 +95,12 @@
       "tagline" : "Manage your Spotify queue from anywhere"
     },
     "com.celcomdigi.jbbypass" : {
-      "changelog" : "Tested and working",
+      "appStoreURL" : "https://apps.apple.com/app/celcomdigi/id6482219793",
+      "changelog" : "Version 1.1.5",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and working",
+          "date" : "21 Oct 2026",
+          "notes" : "Version 1.1.5",
           "version" : "1.0"
         }
       ],
@@ -106,17 +110,18 @@
       "iconColor" : "#789616",
       "iconImage" : "assets/package-icons/com-celcomdigi-jbbypass-icon-1788437844.png",
       "iconText" : "Digi",
-      "longDescription" : "Version 1.1.5",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.cimb.jbbypass" : {
+      "appStoreURL" : "https://apps.apple.com/app/cimb-octo-my/id1591184221",
       "bannerImage" : "assets/package-banners/com-cimb-jbbypass-banner-1788768892.jpg",
-      "changelog" : "Tested and working",
+      "changelog" : "Version 1.10.2",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and working",
+          "date" : "21 Oct 2026",
+          "notes" : "Version 1.10.2",
           "version" : "1.0"
         }
       ],
@@ -127,7 +132,7 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-cimb-jbbypass-icon-1788437818.png",
       "iconText" : "CIMB",
-      "longDescription" : "Version 1.10.2",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : true,
       "showBannerWebsite" : false,
       "tagline" : "Jailbreak Detection Bypass"
@@ -152,11 +157,12 @@
       "tagline" : "Select clean pictures and use them as camera captures in supported apps"
     },
     "com.codex.fr24.goldsessiontest" : {
-      "changelog" : "Tested and Working",
+      "appStoreURL" : "https://apps.apple.com/app/flightradar24-flight-tracker/id382233851",
+      "changelog" : "Flight Radar V11.13.0",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and Working",
+          "date" : "23 Oct 2026",
+          "notes" : "Flight Radar V11.13.0",
           "version" : "1.0"
         }
       ],
@@ -166,16 +172,17 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-codex-fr24-goldsessiontest-icon-1792420791.png",
       "iconText" : "FR",
-      "longDescription" : "Flight Radar V11.13.0",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Gold Unlocked"
     },
     "com.codex.rainalarm.sk2test" : {
-      "changelog" : "Tested and Working",
+      "appStoreURL" : "https://apps.apple.com/app/rain-alarm/id397676100",
+      "changelog" : "Rain Alarm V5.5.0",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and Working",
+          "date" : "23 Oct 2026",
+          "notes" : "Rain Alarm V5.5.0",
           "version" : "1.0"
         }
       ],
@@ -185,16 +192,17 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-codex-rainalarm-sk2test-icon-1792419156.png",
       "iconText" : "RA",
-      "longDescription" : "Rain Alarm V5.5.0",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Pro and Plus Unlocked"
     },
     "com.codex.watchapp.protest" : {
-      "changelog" : "Tested and Working",
+      "appStoreURL" : "https://apps.apple.com/app/watchapp-for-whatsapp/id1530602007",
+      "changelog" : "Watchapp+ V2.9.0",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and Working",
+          "date" : "23 Oct 2026",
+          "notes" : "Watchapp+ V2.9.0",
           "version" : "1.0"
         }
       ],
@@ -204,16 +212,17 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-codex-watchapp-protest-icon-1792420255.png",
       "iconText" : "WA",
-      "longDescription" : "Watchapp+ V2.9.0",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Pro Unlocked"
     },
     "com.codex.windy.localtiertest" : {
-      "changelog" : "Tested and Working",
+      "appStoreURL" : "https://apps.apple.com/app/windy-com/id1161387262",
+      "changelog" : "Windy V51.030124.24510302",
       "changelogHistory" : [
         {
-          "date" : "20 Oct 2026",
-          "notes" : "Tested and Working",
+          "date" : "23 Oct 2026",
+          "notes" : "Windy V51.030124.24510302",
           "version" : "1.0"
         }
       ],
@@ -223,16 +232,17 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-codex-windy-localtiertest-icon-1792429017.png",
       "iconText" : "WI",
-      "longDescription" : "Windy V51.030124.24510302",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Premium Unlocked"
     },
     "com.codex.windypro" : {
-      "changelog" : "Tested and Working",
+      "appStoreURL" : "https://apps.apple.com/app/windy-app-wind-tides-radar/id997079492",
+      "changelog" : "Windy.app V15.8.4",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and Working",
+          "date" : "23 Oct 2026",
+          "notes" : "Windy.app V15.8.4",
           "version" : "1.0"
         }
       ],
@@ -242,17 +252,18 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-codex-windypro-icon-1792420609.png",
       "iconText" : "WI",
-      "longDescription" : "Windy.app V15.8.4",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Pro Unlocked"
     },
     "com.coopsanjose.jbbypass" : {
+      "appStoreURL" : "https://apps.apple.com/app/coopsanjos%C3%A9-en-l%C3%ADnea/id1671844443",
       "bannerImage" : "assets/package-banners/com-coopsanjose-jbbypass-banner-1788768962.jpg",
-      "changelog" : "Tested and working",
+      "changelog" : "Version 4.7.1",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and working",
+          "date" : "21 Oct 2026",
+          "notes" : "Version 4.7.1",
           "version" : "1.0"
         }
       ],
@@ -263,17 +274,18 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-coopsanjose-jbbypass-icon-1788731499.png",
       "iconText" : "CO",
-      "longDescription" : "Version 4.7.1",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "showBannerWebsite" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.detik.jbbypass" : {
-      "changelog" : "Tested and working",
+      "appStoreURL" : "https://apps.apple.com/app/detikcom-berita-terlengkap/id442914988",
+      "changelog" : "Version 7.12.0",
       "changelogHistory" : [
         {
-          "date" : "4 Oct 2026",
-          "notes" : "Tested and working",
+          "date" : "23 Oct 2026",
+          "notes" : "Version 7.12.0",
           "version" : "1.0"
         }
       ],
@@ -283,16 +295,17 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-detik-jbbypass-icon-1791106084.png",
       "iconText" : "DE",
-      "longDescription" : "Version 7.12.0",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.gmail.jbbypass" : {
-      "changelog" : "Tested and working",
+      "appStoreURL" : "https://apps.apple.com/app/gmail-email-by-google/id422689480",
+      "changelog" : "Version 6.0.260330",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and working",
+          "date" : "23 Oct 2026",
+          "notes" : "Version 6.0.260330",
           "version" : "1.0"
         }
       ],
@@ -302,16 +315,37 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-gmail-jbbypass-icon-1791106416.png",
       "iconText" : "GM",
-      "longDescription" : "Version 6.0.260330",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
-    "com.kelvin.aeroweathercaptain" : {
-      "changelog" : "Tested and Working",
+    "com.kelvin.365scorespro" : {
+      "appStoreURL" : "https://apps.apple.com/app/365scores-live-scores-data/id571801488",
+      "changelog" : "365Scores V6.7.0",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and Working",
+          "date" : "23 Oct 2026",
+          "notes" : "365Scores V6.7.0",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-kelvin-365scorespro-icon-1792760085.png",
+      "iconText" : "36",
+      "longDescription" : "Tested and Working",
+      "showBannerSileo" : false,
+      "tagline" : "Ad-Removed"
+    },
+    "com.kelvin.aeroweathercaptain" : {
+      "appStoreURL" : "https://apps.apple.com/app/aeroweather-pro/id378120971",
+      "changelog" : "Aeroweather V3.16.2",
+      "changelogHistory" : [
+        {
+          "date" : "23 Oct 2026",
+          "notes" : "Aeroweather V3.16.2",
           "version" : "1.0"
         }
       ],
@@ -321,16 +355,17 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvin-aeroweathercaptain-icon-1792421210.png",
       "iconText" : "AE",
-      "longDescription" : "Aeroweather V3.16.2 ( Request for IPA )",
+      "longDescription" : "Tested and Working\n- Request for IPA",
       "showBannerSileo" : false,
       "tagline" : "Captain Unlocked"
     },
     "com.kelvin.audioeditorpro" : {
-      "changelog" : "Tested and Working",
+      "appStoreURL" : " https://apps.apple.com/app/audio-editor-music-mixer/id1345937284",
+      "changelog" : "Audio Editor - Music Mixer V5.86",
       "changelogHistory" : [
         {
-          "date" : "20 Oct 2026",
-          "notes" : "Tested and Working",
+          "date" : "23 Oct 2026",
+          "notes" : "Audio Editor - Music Mixer V5.86",
           "version" : "1.0"
         }
       ],
@@ -340,16 +375,17 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvin-audioeditorpro-icon-1792430011.png",
       "iconText" : "AU",
-      "longDescription" : "Audio Editor - Music Mixer V5.86",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "VIP Unlocked"
     },
     "com.kelvin.carrotpromax" : {
-      "changelog" : "Tested and Working",
+      "appStoreURL" : "https://apps.apple.com/app/carrot-weather-alerts-radar/id961390574",
+      "changelog" : "Carrot V6.9.2",
       "changelogHistory" : [
         {
-          "date" : "21 Oct 2026",
-          "notes" : "Tested and Working",
+          "date" : "23 Oct 2026",
+          "notes" : "Carrot V6.9.2",
           "version" : "1.0"
         }
       ],
@@ -359,16 +395,56 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvin-carrotpromax-icon-1792540426.png",
       "iconText" : "CA",
-      "longDescription" : "Carrot V6.9.2",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "supportURL" : "",
       "tagline" : "Pro Max Unlocked"
+    },
+    "com.kelvin.dirtygamepro" : {
+      "appStoreURL" : "https://apps.apple.com/app/dirty-game-hot-truth-or-dare/id468667433",
+      "changelog" : "Dirty Game V6.0.2",
+      "changelogHistory" : [
+        {
+          "date" : "23 Oct 2026",
+          "notes" : "Dirty Game V6.0.2",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-kelvin-dirtygamepro-icon-1792760823.png",
+      "iconText" : "DI",
+      "longDescription" : "Tested and Working",
+      "showBannerSileo" : false,
+      "tagline" : "All Unlocked"
+    },
+    "com.kelvin.episodevip" : {
+      "appStoreURL" : "https://apps.apple.com/app/episode-choose-your-story/id656971078",
+      "changelog" : "Episode V27.10",
+      "changelogHistory" : [
+        {
+          "date" : "23 Oct 2026",
+          "notes" : "Episode V27.10",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-kelvin-episodevip-icon-1792759781.png",
+      "iconText" : "EP",
+      "longDescription" : "Tested and Working",
+      "showBannerSileo" : false,
+      "tagline" : "Unlmited Gems, Passes and Gumball Tokens"
     },
     "com.kelvin.glancereborn" : {
       "changelog" : "Tested and Working",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
+          "date" : "23 Oct 2026",
           "notes" : "Tested and Working",
           "version" : "1.0"
         }
@@ -382,6 +458,26 @@
       "longDescription" : "Janisbtw's Fork Glance ",
       "showBannerSileo" : false,
       "tagline" : "Beautiful Lockscreen Notifications"
+    },
+    "com.kelvin.logtenpro" : {
+      "appStoreURL" : "https://apps.apple.com/app/logten-pilot-logbook/id837274884",
+      "changelog" : "LogTen V2026.3.3",
+      "changelogHistory" : [
+        {
+          "date" : "23 Oct 2026",
+          "notes" : "LogTen V2026.3.3",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-kelvin-logtenpro-icon-1792759349.png",
+      "iconText" : "LO",
+      "longDescription" : "Tested and working",
+      "showBannerSileo" : false,
+      "tagline" : "Pro Unlocked"
     },
     "com.kelvin.maejbbypass" : {
       "changelog" : "Removed logs",
@@ -401,12 +497,93 @@
       "longDescription" : "MAE Quick QR combines Scan, Receive QR, and Pay QR inside one expandable Control Center module, giving you instant access to the MAE actions you use most.",
       "tagline" : "Your essential MAE QR actions in Control Center."
     },
-    "com.kelvin.truthordarepro" : {
-      "changelog" : "Tested and Working",
+    "com.kelvin.manutdpro" : {
+      "appStoreURL" : "https://apps.apple.com/app/manchester-united-official-app/id785339538",
+      "changelog" : "Man Utd V27.1.0",
       "changelogHistory" : [
         {
-          "date" : "21 Oct 2026",
-          "notes" : "Tested and Working",
+          "date" : "23 Oct 2026",
+          "notes" : "Man Utd V27.1.0",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-kelvin-manutdpro-icon-1792760679.png",
+      "iconText" : "MA",
+      "longDescription" : "Tested and Working",
+      "showBannerSileo" : false,
+      "tagline" : "MUTV Unlocked"
+    },
+    "com.kelvin.swipewipepro" : {
+      "appStoreURL" : "https://apps.apple.com/app/swipewipe-photo-cleaner/id1583884012",
+      "changelog" : "SwipeWipe V3.2.45",
+      "changelogHistory" : [
+        {
+          "date" : "23 Oct 2026",
+          "notes" : "SwipeWipe V3.2.45",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-kelvin-swipewipepro-icon-1792760246.png",
+      "iconText" : "SW",
+      "longDescription" : "Tested and Working",
+      "showBannerSileo" : false,
+      "tagline" : "Premium Unlocked"
+    },
+    "com.kelvin.truecallerpremium" : {
+      "appStoreURL" : "https://apps.apple.com/app/truecaller-premium-caller-id/id448142450",
+      "changelog" : "TrueCaller V26.41.7",
+      "changelogHistory" : [
+        {
+          "date" : "23 Oct 2026",
+          "notes" : "TrueCaller V26.41.7",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-kelvin-truecallerpremium-icon-1792760544.png",
+      "iconText" : "TR",
+      "longDescription" : "Tested and Working",
+      "showBannerSileo" : false,
+      "tagline" : "Premium Unlocked"
+    },
+    "com.kelvin.trueskatepro" : {
+      "appStoreURL" : "https://apps.apple.com/app/true-skate/id549105915",
+      "changelog" : "TrueSkate V1.6.11",
+      "changelogHistory" : [
+        {
+          "date" : "23 Oct 2026",
+          "notes" : "TrueSkate V1.6.11",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-kelvin-trueskatepro-icon-1792760410.png",
+      "iconText" : "TR",
+      "longDescription" : "Tested and Working",
+      "showBannerSileo" : false,
+      "tagline" : "Unlimited Gold and All Parks Unlocked"
+    },
+    "com.kelvin.truthordarepro" : {
+      "appStoreURL" : "https://apps.apple.com/app/truth-or-dare-group-game/id1548928674",
+      "changelog" : "Truth Or Dare V6.9.3",
+      "changelogHistory" : [
+        {
+          "date" : "23 Oct 2026",
+          "notes" : "Truth Or Dare V6.9.3",
           "version" : "1.0"
         }
       ],
@@ -416,16 +593,17 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvin-truthordarepro-icon-1792539989.png",
       "iconText" : "TR",
-      "longDescription" : "Truth Or Dare V6.9.3",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Premium Unlocked"
     },
     "com.kelvin.wingmanpro" : {
-      "changelog" : "Tested and Working",
+      "appStoreURL" : "https://apps.apple.com/app/wingman-crew-roster/id6742027238",
+      "changelog" : "Wingman V1.8.8",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and Working",
+          "date" : "23 Oct 2026",
+          "notes" : "Wingman V1.8.8",
           "version" : "1.0"
         }
       ],
@@ -435,16 +613,17 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvin-wingmanpro-icon-1792421756.png",
       "iconText" : "WI",
-      "longDescription" : "Wingman V1.8.8",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Premium Unlocked"
     },
     "com.kelvindass.aeonwalletbypass" : {
-      "changelog" : "Tested and working",
+      "appStoreURL" : "https://apps.apple.com/app/aeon-wallet-malaysia/id1371474291",
+      "changelog" : "Version  3.19.7",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and working",
+          "date" : "21 Oct 2026",
+          "notes" : "Version  3.19.7",
           "version" : "1.0"
         }
       ],
@@ -454,17 +633,18 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvindass-aeonwalletbypass-icon-1789938481.png",
       "iconText" : "AE",
-      "longDescription" : "Version  3.19.7",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "showBannerWebsite" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.kelvindass.affinalwayscompatibility" : {
-      "changelog" : "Tested and working",
+      "appStoreURL" : "https://apps.apple.com/app/affinalwaysx/id6736671432",
+      "changelog" : "Version 1.3.8",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and working",
+          "date" : "21 Oct 2026",
+          "notes" : "Version 1.3.8",
           "version" : "1.0"
         }
       ],
@@ -474,15 +654,16 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvindass-affinalwayscompatibility-icon-1789514982.png",
       "iconText" : "AF",
-      "longDescription" : "Version 1.3.8",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.kelvindass.banreservasbypass" : {
-      "changelog" : "Tested and working",
+      "appStoreURL" : "https://apps.apple.com/app/banreservas/id1170610154",
+      "changelog" : "Version 7.1.0",
       "changelogHistory" : [
         {
-          "date" : "17 Sep 2026",
+          "date" : "21 Oct 2026",
           "notes" : "Version 7.1.0",
           "version" : "2.0"
         }
@@ -493,17 +674,18 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvindass-banreservasbypass-icon-1788958419.png",
       "iconText" : "BA",
-      "longDescription" : "Version 7.1.0",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "showBannerWebsite" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.kelvindass.capcutjbbypass" : {
-      "changelog" : "Tested and Working",
+      "appStoreURL" : "https://apps.apple.com/app/capcut-photo-video-editor/id1500855883",
+      "changelog" : "Capcut V19.7.0",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and Working",
+          "date" : "23 Oct 2026",
+          "notes" : "Capcut V19.7.0",
           "version" : "1.0"
         }
       ],
@@ -513,7 +695,7 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvindass-capcutjbbypass-icon-1792421058.png",
       "iconText" : "CA",
-      "longDescription" : "Capcut V19.7.0",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
@@ -536,11 +718,12 @@
       "tagline" : "watchOS-style Lock Screen widgets in English."
     },
     "com.kelvindass.gxbankbypass" : {
-      "changelog" : "Tested and working",
+      "appStoreURL" : "https://apps.apple.com/app/gxbank/id6454673510",
+      "changelog" : "Version 2.37.0",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and working",
+          "date" : "21 Oct 2026",
+          "notes" : "Version 2.37.0",
           "version" : "1.0"
         }
       ],
@@ -550,16 +733,17 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvindass-gxbankbypass-icon-1790011844.png",
       "iconText" : "GX",
-      "longDescription" : "Version 2.37.0",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.kelvindass.hsbccompatibility" : {
-      "changelog" : "Updated To Version 3.74.31",
+      "appStoreURL" : "https://apps.apple.com/app/hsbc-malaysia/id1437876264",
+      "changelog" : "Version 3.74.31",
       "changelogHistory" : [
         {
-          "date" : "9 Oct 2026",
-          "notes" : "Updated To Version 3.74.31",
+          "date" : "23 Oct 2026",
+          "notes" : "Version 3.74.31",
           "version" : "2.0"
         }
       ],
@@ -569,23 +753,19 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvindass-hsbccompatibility-icon-1789514774.png",
       "iconText" : "HS",
-      "longDescription" : "Version 3.74.31",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "showBannerWebsite" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.kelvindass.mydigitalidbypass" : {
-      "changelog" : "Updated To Version 2.10.0",
+      "appStoreURL" : "https://apps.apple.com/app/mydigital-id/id1435289143",
+      "changelog" : "Version 2.10.0",
       "changelogHistory" : [
         {
-          "date" : "9 Oct 2026",
-          "notes" : "Updated To Version 2.10.0",
+          "date" : "23 Oct 2026",
+          "notes" : "Version 2.10.0",
           "version" : "2.0"
-        },
-        {
-          "date" : "29 Sep 2026",
-          "notes" : "Fixed",
-          "version" : "1.2"
         }
       ],
       "compatibility" : "IOS 17",
@@ -594,16 +774,17 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvindass-mydigitalidbypass-icon-1790595022.png",
       "iconText" : "MY",
-      "longDescription" : "Version 2.10.0",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.kelvindass.outlooklocaldetectionbypass" : {
-      "changelog" : "Tested and Working",
+      "appStoreURL" : "https://apps.apple.com/app/microsoft-outlook/id951937596",
+      "changelog" : "Version 4.2535.0",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and Working",
+          "date" : "21 Oct 2026",
+          "notes" : "Version 4.2535.0",
           "version" : "1.0"
         }
       ],
@@ -613,16 +794,17 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvindass-outlooklocaldetectionbypass-icon-1790021905.png",
       "iconText" : "OU",
-      "longDescription" : "Version 4.2535.0",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.kelvindass.teamslocaldetectionbypass" : {
-      "changelog" : "Tested and Working",
+      "appStoreURL" : "https://apps.apple.com/app/microsoft-teams/id1113153706",
+      "changelog" : "Version 8.16.3 ",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and Working",
+          "date" : "21 Oct 2026",
+          "notes" : "Version 8.16.3 ",
           "version" : "1.0"
         }
       ],
@@ -632,7 +814,7 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvindass-teamslocaldetectionbypass-icon-1790021800.png",
       "iconText" : "TE",
-      "longDescription" : "Version 8.16.3 ",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
@@ -640,7 +822,7 @@
       "changelog" : "Tested and Working",
       "changelogHistory" : [
         {
-          "date" : "9 Oct 2026",
+          "date" : "23 Oct 2026",
           "notes" : "Tested and Working",
           "version" : "1.0"
         }
@@ -656,12 +838,13 @@
       "tagline" : "Thin outlines and soft glow for Control Center modules and expanded panels"
     },
     "com.kelvindass.ukgprobypass" : {
+      "appStoreURL" : "https://apps.apple.com/app/ukg-pro/id6445849909",
       "bannerImage" : "assets/package-banners/com-kelvindass-ukgprobypass-banner-1788768864.jpg",
-      "changelog" : "Tested and working",
+      "changelog" : "Version 5.7.4",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and working",
+          "date" : "21 Oct 2026",
+          "notes" : "Version 5.7.4",
           "version" : "1.0"
         }
       ],
@@ -672,18 +855,19 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvindass-ukgprobypass-icon-1788621121.png",
       "iconText" : "UK",
-      "longDescription" : "Version 5.7.4",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "showBannerWebsite" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.kwsp.jbbypass" : {
+      "appStoreURL" : "https://apps.apple.com/app/kwsp-i-akaun/id1660153573",
       "bannerImage" : "assets/package-banners/com-kwsp-jbbypass-banner-1788768489.jpg",
-      "changelog" : "Supports KWSP V4.10.2",
+      "changelog" : "Version 4.10.2",
       "changelogHistory" : [
         {
-          "date" : "10 Oct 2026",
-          "notes" : "Supports KWSP V4.10.2",
+          "date" : "21 Oct 2026",
+          "notes" : "Version 4.10.2",
           "version" : "1.0"
         }
       ],
@@ -694,18 +878,19 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kwsp-jbbypass-icon-1788731742.png",
       "iconText" : "KW",
-      "longDescription" : "Version 4.10.2",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : true,
       "showBannerWebsite" : true,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.mae.ccjbbypass" : {
+      "appStoreURL" : "https://apps.apple.com/app/mae-by-maybank2u/id1481028763",
       "bannerImage" : "assets/package-banners/com-mae-ccjbbypass-banner-1788768844.jpg",
-      "changelog" : "Updated V0.9.50",
+      "changelog" : "Version 0.9.50",
       "changelogHistory" : [
         {
-          "date" : "10 Oct 2026",
-          "notes" : "Updated V0.9.50",
+          "date" : "21 Oct 2026",
+          "notes" : "Version 0.9.50",
           "version" : "1.0"
         }
       ],
@@ -716,18 +901,19 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-mae-ccjbbypass-icon-1788437787.png",
       "iconText" : "MAE",
-      "longDescription" : "Version 0.9.50",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "showBannerWebsite" : false,
       "tagline" : "CCmodule + JB BYPASS"
     },
     "com.mae.jbbypass" : {
+      "appStoreURL" : "https://apps.apple.com/app/mae-by-maybank2u/id1481028763",
       "bannerImage" : "assets/package-banners/com-mae-jbbypass-banner-1788768761.jpg",
-      "changelog" : "Updated V0.9.50",
+      "changelog" : "Version 0.9.50",
       "changelogHistory" : [
         {
-          "date" : "10 Oct 2026",
-          "notes" : "Updated V0.9.50",
+          "date" : "21 Oct 2026",
+          "notes" : "Version 0.9.50",
           "version" : "1.0"
         }
       ],
@@ -738,17 +924,18 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-mae-jbbypass-icon-1788437779.png",
       "iconText" : "MAE",
-      "longDescription" : "Version 0.9.50",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : true,
       "showBannerWebsite" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.mcdonalds.jbbypass" : {
-      "changelog" : "Tested and working",
+      "appStoreURL" : "https://apps.apple.com/app/mcdonalds/id1217507712",
+      "changelog" : "Version 3.50.0",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and working",
+          "date" : "21 Oct 2026",
+          "notes" : "Version 3.50.0",
           "version" : "1.0"
         }
       ],
@@ -758,16 +945,17 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-mcdonalds-jbbypass-icon-1791106269.png",
       "iconText" : "MC",
-      "longDescription" : "Version 3.50.0",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.mobills.jbbypass" : {
-      "changelog" : "Tested and working",
+      "appStoreURL" : "https://apps.apple.com/app/mobills-budget-planner/id921838244",
+      "changelog" : "Version 6.21.1",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and working",
+          "date" : "21 Oct 2026",
+          "notes" : "Version 6.21.1",
           "version" : "1.0"
         }
       ],
@@ -777,17 +965,18 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-mobills-jbbypass-icon-1788731625.png",
       "iconText" : "MO",
-      "longDescription" : "Version 6.21.1",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.mywe.jbbypass" : {
+      "appStoreURL" : "https://apps.apple.com/app/my-we/id1413151505",
       "bannerImage" : "assets/package-banners/com-mywe-jbbypass-banner-1788768721.jpg",
-      "changelog" : "Tested and working",
+      "changelog" : "Version 8.7",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and working",
+          "date" : "21 Oct 2026",
+          "notes" : "Version 8.7",
           "version" : "1.0"
         }
       ],
@@ -798,7 +987,7 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-mywe-jbbypass-icon-1788437713.png",
       "iconText" : "MYWE",
-      "longDescription" : "Version 8.7",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "showBannerWebsite" : false,
       "tagline" : "Jailbreak Detection Bypass"
@@ -807,14 +996,9 @@
       "changelog" : "Tested and Working",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
+          "date" : "23 Oct 2026",
           "notes" : "Tested and Working",
           "version" : "1.0"
-        },
-        {
-          "date" : "4 Oct 2026",
-          "notes" : "Optimized for IOS 17",
-          "version" : "2.2.0+opt1"
         }
       ],
       "compatibility" : "IOS 17",
@@ -828,11 +1012,12 @@
       "tagline" : "Customizable notification experience"
     },
     "com.ptv.jbbypass" : {
-      "changelog" : "Tested and working",
+      "appStoreURL" : "https://apps.apple.com/app/public-transport-victoria-app/id318696180",
+      "changelog" : "Version 5.6.0",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and working",
+          "date" : "21 Oct 2026",
+          "notes" : "Version 5.6.0",
           "version" : "1.0"
         }
       ],
@@ -842,16 +1027,17 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-ptv-jbbypass-icon-1788437632.png",
       "iconText" : "PTV",
-      "longDescription" : "Version 5.6.0",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.ring.jbbypass" : {
-      "changelog" : "Tested and working",
+      "appStoreURL" : "https://apps.apple.com/app/ring-always-home/id926252661",
+      "changelog" : "Version 5.112.0",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and working",
+          "date" : "21 Oct 2026",
+          "notes" : "Version 5.112.0",
           "version" : "1.0"
         }
       ],
@@ -861,17 +1047,18 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-ring-jbbypass-icon-1788731835.png",
       "iconText" : "RI",
-      "longDescription" : "Version 5.112.0",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.tng.jbbypass" : {
+      "appStoreURL" : "https://apps.apple.com/app/touch-n-go-ewallet/id1344696702",
       "bannerImage" : "assets/package-banners/com-tng-jbbypass-banner-1788768919.jpg",
-      "changelog" : "Supports TNG V1.9.18",
+      "changelog" : "Version 1.9.18",
       "changelogHistory" : [
         {
-          "date" : "10 Oct 2026",
-          "notes" : "Supports TNG V1.9.18",
+          "date" : "21 Oct 2026",
+          "notes" : "Version 1.9.18",
           "version" : "1.0"
         }
       ],
@@ -882,18 +1069,19 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-tng-jbbypass-icon-1788437593.png",
       "iconText" : "TNG",
-      "longDescription" : "Version 1.9.18",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : true,
       "showBannerWebsite" : false,
       "supportURL" : "",
       "tagline" : "CCmodule + JB BYPASS"
     },
     "com.venngo.jbbypass" : {
-      "changelog" : "Tested and working",
+      "appStoreURL" : "https://apps.apple.com/app/venngo/id522452356",
+      "changelog" : "Version 3.4.6",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
-          "notes" : "Tested and working",
+          "date" : "21 Oct 2026",
+          "notes" : "Version 3.4.6",
           "version" : "1.0"
         }
       ],
@@ -903,7 +1091,7 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-venngo-jbbypass-icon-1788731286.png",
       "iconText" : "VE",
-      "longDescription" : "Version 3.4.6",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
@@ -949,7 +1137,7 @@
       "changelog" : "Tested and Working",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
+          "date" : "23 Oct 2026",
           "notes" : "Tested and Working",
           "version" : "1.0"
         }
@@ -974,11 +1162,12 @@
       "tagline" : "A clean English Home Screen layout editor."
     },
     "local.spotify-open-playlists" : {
-      "changelog" : "Updated Spotify V 9.1.88",
+      "appStoreURL" : "https://apps.apple.com/app/spotify-music-and-podcasts/id324684580",
+      "changelog" : "Spotify V9.1.88 + Eevee V7.0.0",
       "changelogHistory" : [
         {
-          "date" : "9 Oct 2026",
-          "notes" : "Updated Spotify V 9.1.88",
+          "date" : "23 Oct 2026",
+          "notes" : "Spotify V9.1.88 + Eevee V7.0.0",
           "version" : "2.0"
         }
       ],
@@ -988,22 +1177,18 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/local-spotify-open-playlists-icon-1791544892.png",
       "iconText" : "SP",
-      "longDescription" : "Spotify V9.1.88 + Eevee V7.0.0",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Opens Spotify's library list once launch"
     },
     "local.youtube-queue" : {
-      "changelog" : "Tested and working",
+      "appStoreURL" : "https://apps.apple.com/app/youtube/id544007664",
+      "changelog" : "Youtube V21.40.5",
       "changelogHistory" : [
         {
-          "date" : "9 Oct 2026",
-          "notes" : "Fixed Animation",
+          "date" : "23 Oct 2026",
+          "notes" : "Youtube V21.40.5",
           "version" : "1.0.1"
-        },
-        {
-          "date" : "9 Oct 2026",
-          "notes" : "Tested and working",
-          "version" : "1.0"
         }
       ],
       "compatibility" : "IOS 17",
@@ -1012,7 +1197,7 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/local-youtube-queue-icon-1791545743.png",
       "iconText" : "YO",
-      "longDescription" : "Youtube V21.40.5",
+      "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Native YouTube playback queue in Control Center and on the Lock Screen"
     },
@@ -1039,14 +1224,9 @@
       "changelog" : "Tested and Working",
       "changelogHistory" : [
         {
-          "date" : "19 Oct 2026",
+          "date" : "23 Oct 2026",
           "notes" : "Tested and Working",
           "version" : "1.0"
-        },
-        {
-          "date" : "4 Oct 2026",
-          "notes" : "Fixed safe mode crash",
-          "version" : "0.0~beta8+opt1"
         }
       ],
       "compatibility" : "IOS 17",
