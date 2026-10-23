@@ -38,7 +38,6 @@ nav .brand em{border-left:0;padding-left:2px;font-size:22px}.upload-date{display
 .about-list{margin:.4em 0 1.1em;padding-left:1.25em;color:inherit}
 .about-list li{margin:.35em 0;line-height:1.55;opacity:.85}
 .about-list li::marker{color:#45dcff}
-.detail-grid section>p+p{margin-top:.5em}
 
 /* App Store button */
 .date-row{display:flex;align-items:center;justify-content:space-between;gap:10px;margin:4px 0 15px}.date-row .upload-date{margin:0}
@@ -46,3 +45,9 @@ nav .brand em{border-left:0;padding-left:2px;font-size:22px}.upload-date{display
 .appstore-chip svg{width:13px;height:13px;fill:none;stroke:#fff;stroke-width:2.3;stroke-linecap:round}
 .appstore-chip:hover,.appstore-chip:focus-visible{transform:translateY(-1px);filter:brightness(1.12);box-shadow:0 6px 18px -4px #0a84ffcc;outline:none}
 .detail-hero .badges .appstore-chip{font-size:10px}
+
+/* About text: tight spacing between lines/bullets, one gap before Changelog */
+.detail-grid section .about-body{margin:0 0 38px}
+.detail-grid section .about-body p{margin:0 0 .45em}
+.detail-grid section .about-body .about-list{margin:.15em 0 .45em}
+.detail-grid section .about-body>:last-child{margin-bottom:0}
