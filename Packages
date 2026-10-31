@@ -50,8 +50,8 @@ MD5sum: 17850eb1ae3358cda1264cf925b6d885
 SHA256: 64f3a9349f5079776b7ef331b4b95af4d8a46c7328636b4d7c23c3dc3f477d6a
 
 Package: com.kelvindass.banreservasbypass
-Name: Banreservas JB Bypass
-Version: 2.0
+Name: Banreservas Bypass
+Version: 3.0
 Architecture: iphoneos-arm64
 Section: Bypass
 Author: KiLlErZoN3
@@ -60,10 +60,10 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Description: Jailbreak Detection Bypass
 Installed-Size: 72
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-banreservasbypass-icon-1788958419.png
-Filename: debs/BanreservasBypass_v2.0_iphoneos-arm64.deb
-Size: 5316
-MD5sum: e64ae1c05826d40dbcf7c9631c101b85
-SHA256: 6850f43e7c31f95ee9d892412dee10de57a8c12f2fd393963ff2c0bb7907deef
+Filename: debs/BanreservasBypass_v3.0_iphoneos-arm64.deb
+Size: 5848
+MD5sum: 590dc49cd3151dd6b8ccf54fa18883f9
+SHA256: 2799d7faab8acb8c3a40dd97d2d867eb68da8642eb006b85129afcbec468eccf
 
 Package: com.briorhr.jbbypass
 Name: BriorHR JB BYPASS
@@ -846,22 +846,6 @@ Filename: debs/com.kelvin.swipewipepro_1.0_iphoneos-arm64.deb
 Size: 3460
 MD5sum: 76f97d159c6d099aa2ed77a53d6064aa
 SHA256: d294b17a225dc45ae08ee1dad7997123ea04890ee3865545ab1ce01d1a58e6dd
-
-Package: com.kelvin.truecallerpremium
-Name: TrueCaller Premium
-Version: 1.0
-Architecture: iphoneos-arm64
-Section: IAP
-Author: KiLlErZoN3
-Maintainer: Kelvin
-Depends: firmware (>= 17.0), ellekit
-Description: Premium Unlocked
-Installed-Size: 76
-Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-truecallerpremium-icon-1792760544.png
-Filename: debs/com.kelvin.truecallerpremium_1.0_iphoneos-arm64.deb
-Size: 5184
-MD5sum: c68d2b723bad28bbca3e4d81fc42ba9e
-SHA256: 22278429e21d80fd0f858f15d9b811268319cf24c6c59f19667779c72e6c4c26
 
 Package: com.kelvin.trueskatepro
 Name: True Skate Pro
