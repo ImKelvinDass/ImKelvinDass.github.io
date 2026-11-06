@@ -51,3 +51,10 @@ nav .brand em{border-left:0;padding-left:2px;font-size:22px}.upload-date{display
 .detail-grid section .about-body p{margin:0 0 .45em}
 .detail-grid section .about-body .about-list{margin:.15em 0 .45em}
 .detail-grid section .about-body>:last-child{margin-bottom:0}
+
+/* Last updated pill (left of views) */
+.nav-pills{display:flex;align-items:center;gap:8px}
+.site-updated{display:flex;align-items:center;gap:6px;border:1px solid color-mix(in srgb,#45dcff 30%,transparent);background:color-mix(in srgb,#45dcff 7%,transparent);padding:8px 12px;border-radius:999px;color:#aaa;font-size:12px;white-space:nowrap}
+.site-updated b{color:#fff}
+.site-updated .clock-icon{width:14px;height:14px;fill:none;stroke:#45dcff;stroke-width:2;stroke-linecap:round}
+@media(max-width:760px){.site-updated{font-size:11px;padding:7px 9px}.site-updated .label{display:none}}
