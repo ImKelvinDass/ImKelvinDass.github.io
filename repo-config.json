@@ -5,6 +5,16 @@
     "zebra" : true
   },
   "packageDetails" : {
+    "com.aizzat.competition.bookdoclevel1" : {
+      "changelog" : "Latest release.",
+      "compatibility" : "iphoneos-arm64",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconText" : "BO",
+      "longDescription" : "Guarded compatibility and local premium feature setting for BookDoc 3.55.17 (227)",
+      "tagline" : "Guarded compatibility and local premium feature setting for BookDoc 3.55.17 (227)"
+    },
     "com.atria.ios17" : {
       "changelog" : "Tested and working",
       "changelogHistory" : [
@@ -22,6 +32,26 @@
       "longDescription" : "Modified https://github.com/ren7995/Atria",
       "showBannerSileo" : false,
       "tagline" : "Working home Screen layout customization for iOS 17"
+    },
+    "com.bookdoc.jbbypass" : {
+      "appStoreURL" : "https://apps.apple.com/app/bookdoc-ai-health-companion/id1037726744",
+      "changelog" : "Version 3.55.17",
+      "changelogHistory" : [
+        {
+          "date" : "6 Nov 2026",
+          "notes" : "Version 3.55.17",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-bookdoc-jbbypass-icon-1793960354.png",
+      "iconText" : "BO",
+      "longDescription" : "Credits : Aizzat 🔥\nTested and Working",
+      "showBannerSileo" : false,
+      "tagline" : "Jailbreak Detection Bypass"
     },
     "com.briorhr.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/briohr/id1484448446",

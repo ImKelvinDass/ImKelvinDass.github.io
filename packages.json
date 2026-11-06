@@ -222,6 +222,37 @@
     "tagline": "Jailbreak Detection Bypass"
   },
   {
+    "id": "com.bookdoc.jbbypass",
+    "name": "BookDoc JB Bypass",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "Bypass",
+    "depends": "mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)",
+    "summary": "Jailbreak Detection Bypass",
+    "filename": "debs/BookDocJbBypass_1.0_iphoneos-arm64.deb",
+    "size": 21016,
+    "uploadedAt": "2026-11-06T10:11:12.347404+00:00",
+    "appStoreURL": "https://apps.apple.com/app/bookdoc-ai-health-companion/id1037726744",
+    "changelog": "Version 3.55.17",
+    "changelogHistory": [
+      {
+        "date": "6 Nov 2026",
+        "notes": "Version 3.55.17",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-bookdoc-jbbypass-icon-1793960354.png",
+    "iconText": "BO",
+    "longDescription": "Credits : Aizzat \ud83d\udd25\nTested and Working",
+    "showBannerSileo": false,
+    "tagline": "Jailbreak Detection Bypass"
+  },
+  {
     "id": "com.briorhr.jbbypass",
     "name": "BriorHR JB BYPASS",
     "version": "1.0",

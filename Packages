@@ -65,6 +65,24 @@ Size: 5844
 MD5sum: 6562371501357a5c1f37dcd0241071a5
 SHA256: 127e42e0621773acfcacd810eaf2002e1d25ed3d34bfc7adfd0be0b020d113e7
 
+Package: com.bookdoc.jbbypass
+Name: BookDoc JB Bypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Description: Jailbreak Detection Bypass
+Conflicts: com.aizzat.competition.bookdoclevel1
+Installed-Size: 272
+Replaces: com.aizzat.competition.bookdoclevel1
+Icon: https://imkelvindass.github.io/assets/package-icons/com-bookdoc-jbbypass-icon-1793960354.png
+Filename: debs/BookDocJbBypass_1.0_iphoneos-arm64.deb
+Size: 21016
+MD5sum: d596afe1502a775d47f60f9ed222a5e9
+SHA256: 78a4dd0e690933b9b38ba16b35b8e4c47430854034916f0fb06a37f3430a4d58
+
 Package: com.briorhr.jbbypass
 Name: BriorHR JB BYPASS
 Description: Jailbreak Detection Bypass
