@@ -50,7 +50,7 @@ MD5sum: 17850eb1ae3358cda1264cf925b6d885
 SHA256: 64f3a9349f5079776b7ef331b4b95af4d8a46c7328636b4d7c23c3dc3f477d6a
 
 Package: com.kelvindass.banreservasbypass
-Name: Banreservas Bypass
+Name: Banreservas JB Bypass
 Version: 3.0
 Architecture: iphoneos-arm64
 Section: Bypass
@@ -61,9 +61,9 @@ Description: Jailbreak Detection Bypass
 Installed-Size: 72
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-banreservasbypass-icon-1788958419.png
 Filename: debs/BanreservasBypass_v3.0_iphoneos-arm64.deb
-Size: 5848
-MD5sum: 590dc49cd3151dd6b8ccf54fa18883f9
-SHA256: 2799d7faab8acb8c3a40dd97d2d867eb68da8642eb006b85129afcbec468eccf
+Size: 5844
+MD5sum: 6562371501357a5c1f37dcd0241071a5
+SHA256: 127e42e0621773acfcacd810eaf2002e1d25ed3d34bfc7adfd0be0b020d113e7
 
 Package: com.briorhr.jbbypass
 Name: BriorHR JB BYPASS
@@ -432,6 +432,26 @@ Filename: debs/PTV_1.0_iphoneos-arm64.deb
 Size: 5540
 MD5sum: 11027b73ccc1d916416b03ab3fff3bf0
 SHA256: 43a37f8fe3c4e1d868c3dfad371540621c872910fe4b8e30b89ca053eda4199d
+
+Package: com.pichincha.jbbypass
+Name: Pichincha JB BYPASS
+Description: Jailbreak Detection Bypass
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Conflicts: com.kelvindass.pichinchacompatibility
+Replaces: com.kelvindass.pichinchacompatibility
+SileoDepiction: https://imkelvindass.github.io/package.html?id=com.pichincha.jbbypass
+Depiction: https://imkelvindass.github.io/package.html?id=com.pichincha.jbbypass
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 76
+Icon: https://imkelvindass.github.io/assets/package-icons/com-pichincha-jbbypass-icon-1793950309.png
+Filename: debs/Pichincha_1.0_iphoneos-arm64.deb
+Size: 5274
+MD5sum: 289187df7ac6a7f0eeba4f100442e005
+SHA256: e5729398f15c947fbb6b720da0e08d597409e035b94f08d88ccc9336f67b26c7
 
 Package: com.codex.rainalarm.sk2test
 Name: RainAlarmPro+

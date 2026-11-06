@@ -996,6 +996,26 @@
       "showBannerSileo" : false,
       "tagline" : "Customizable notification experience"
     },
+    "com.pichincha.jbbypass" : {
+      "appStoreURL" : "https://apps.apple.com/app/pichincha-banca-movil/id999191728",
+      "changelog" : "Version 15.0.0",
+      "changelogHistory" : [
+        {
+          "date" : "6 Nov 2026",
+          "notes" : "Version 15.0.0",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-pichincha-jbbypass-icon-1793950309.png",
+      "iconText" : "PI",
+      "longDescription" : "Tested and Working",
+      "showBannerSileo" : false,
+      "tagline" : "Jailbreak Detection Bypass"
+    },
     "com.ptv.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/public-transport-victoria-app/id318696180",
       "changelog" : "Version 5.6.0",

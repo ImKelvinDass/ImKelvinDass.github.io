@@ -186,7 +186,7 @@
   },
   {
     "id": "com.kelvindass.banreservasbypass",
-    "name": "Banreservas Bypass",
+    "name": "Banreservas JB Bypass",
     "version": "3.0",
     "architecture": "iphoneos-arm64",
     "author": "KiLlErZoN3",
@@ -194,7 +194,7 @@
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/BanreservasBypass_v3.0_iphoneos-arm64.deb",
-    "size": 5848,
+    "size": 5844,
     "uploadedAt": "2026-10-31T14:13:09.476249+00:00",
     "appStoreURL": "https://apps.apple.com/app/banreservas/id1170610154",
     "changelog": "Version 8.0.0",
@@ -1066,6 +1066,37 @@
     "iconColor": "#9cff00",
     "iconImage": "assets/package-icons/com-kelvindass-outlooklocaldetectionbypass-icon-1790021905.png",
     "iconText": "OU",
+    "longDescription": "Tested and Working",
+    "showBannerSileo": false,
+    "tagline": "Jailbreak Detection Bypass"
+  },
+  {
+    "id": "com.pichincha.jbbypass",
+    "name": "Pichincha JB BYPASS",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "Bypass",
+    "depends": "mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)",
+    "summary": "Jailbreak Detection Bypass",
+    "filename": "debs/Pichincha_1.0_iphoneos-arm64.deb",
+    "size": 5274,
+    "uploadedAt": "2026-11-06T07:30:39.766800+00:00",
+    "appStoreURL": "https://apps.apple.com/app/pichincha-banca-movil/id999191728",
+    "changelog": "Version 15.0.0",
+    "changelogHistory": [
+      {
+        "date": "6 Nov 2026",
+        "notes": "Version 15.0.0",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-pichincha-jbbypass-icon-1793950309.png",
+    "iconText": "PI",
     "longDescription": "Tested and Working",
     "showBannerSileo": false,
     "tagline": "Jailbreak Detection Bypass"
