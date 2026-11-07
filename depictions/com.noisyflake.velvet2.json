@@ -47,6 +47,12 @@
     },
     {
      "class": "DepictionTableButtonView",
+     "title": "★ Rate this tweak",
+     "action": "https://imkelvindass.github.io/package.html?id=com.noisyflake.velvet2#rate",
+     "openExternal": true
+    },
+    {
+     "class": "DepictionTableButtonView",
      "title": "View on website",
      "action": "https://imkelvindass.github.io/package.html?id=com.noisyflake.velvet2",
      "openExternal": true
