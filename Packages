@@ -904,6 +904,25 @@ Size: 3528
 MD5sum: 8ced1f0b739db49f77897e5d586dc39e
 SHA256: dc97e28c99e34cc498fc2a90f13594b0b0337eefb475d43cc42fac5a26ab2c24
 
+Package: com.talikhidmat.jbbypass
+Name: Talikhidmat JB Bypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: firmware (>= 15.0), mobilesubstrate | ellekit
+Description: Jailbreak Detection Bypass · Talikhidmat V2.2.4
+Conflicts: com.aizzat.competition.talikhidmatlevel2
+Replaces: com.aizzat.competition.talikhidmatlevel2
+Depiction: https://imkelvindass.github.io/package.html?id=com.talikhidmat.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.talikhidmat.jbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-talikhidmat-jbbypass-icon-1794088099.png
+Filename: debs/com.talikhidmat.jbbypass_1.0_iphoneos-arm64.deb
+Size: 6372
+MD5sum: d8bd75d048005a656e64cf52994bca21
+SHA256: c59754735dfa1b5ed8af7b9c1a7946d594e4fae9d4a90ace6f5104a268ddedd9
+
 Package: com.tng.jbbypass
 Name: TNG JB BYPASS
 Version: 2.0

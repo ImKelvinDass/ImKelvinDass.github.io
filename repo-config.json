@@ -1136,6 +1136,27 @@
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
+    "com.talikhidmat.jbbypass" : {
+      "appStoreURL" : "https://apps.apple.com/app/scs-talikhidmat-app/id1323946716",
+      "appVersion" : "Talikhidmat V2.2.4",
+      "changelog" : "Version 2.2.4",
+      "changelogHistory" : [
+        {
+          "date" : "8 Nov 2026",
+          "notes" : "Version 2.2.4",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-talikhidmat-jbbypass-icon-1794088099.png",
+      "iconText" : "TA",
+      "longDescription" : "Credits : Aizzat 🔥\nTested and Working",
+      "showBannerSileo" : false,
+      "tagline" : "Jailbreak Detection Bypass"
+    },
     "com.tng.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/touch-n-go-ewallet/id1344696702",
       "appVersion" : "TNG V1.9.22",

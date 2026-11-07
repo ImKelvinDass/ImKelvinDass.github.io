@@ -1369,6 +1369,38 @@
     "tagline": "Premium Unlocked"
   },
   {
+    "id": "com.talikhidmat.jbbypass",
+    "name": "Talikhidmat JB Bypass",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "Bypass",
+    "depends": "firmware (>= 15.0), mobilesubstrate | ellekit",
+    "summary": "Jailbreak Detection Bypass",
+    "filename": "debs/com.talikhidmat.jbbypass_1.0_iphoneos-arm64.deb",
+    "size": 6372,
+    "uploadedAt": "2026-11-07T21:42:53.634199+00:00",
+    "appStoreURL": "https://apps.apple.com/app/scs-talikhidmat-app/id1323946716",
+    "appVersion": "Talikhidmat V2.2.4",
+    "changelog": "Version 2.2.4",
+    "changelogHistory": [
+      {
+        "date": "8 Nov 2026",
+        "notes": "Version 2.2.4",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-talikhidmat-jbbypass-icon-1794088099.png",
+    "iconText": "TA",
+    "longDescription": "Credits : Aizzat \ud83d\udd25\nTested and Working",
+    "showBannerSileo": false,
+    "tagline": "Jailbreak Detection Bypass"
+  },
+  {
     "id": "com.kelvindass.teamslocaldetectionbypass",
     "name": "Teams JB Bypass",
     "version": "1.0",
