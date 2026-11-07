@@ -1,19 +1,19 @@
-Origin: Kelvin
-Label: Kelvin
+Origin: KiLlErZoN3
+Label: KiLlErZoN3
 Suite: stable
 Version: 1.0
 Codename: kelvin
 Architectures: iphoneos-arm64 arm64
 Components: main
-Description: IOS tweaks by Kelvin Dass
-Date: Sat, 07 Nov 2026 20:30:40 UTC
+Description: iOS tweaks by KiLlErZoN3
+Date: Sat, 07 Nov 2026 20:37:22 UTC
 MD5Sum:
- 3250a964987cc85f4a1df605767855b8 42006 Packages
- 0a6059e071362fa4e8b4bc2209dbd2a0 8559 Packages.gz
- 5b5a86ad97c2f047f056a79a62b81d46 7841 Packages.bz2
- 9b9afa03bdcfd842769f861ec0dfb0c8 7876 Packages.xz
+ 34237c5f6179e0fe807cdef97cd117e1 42684 Packages
+ 0e0e3358a7fc612351f6472b7c6e07f7 8561 Packages.gz
+ 4343cd9a4e0e86b0fef47759ce77a033 7744 Packages.bz2
+ 715ca80737242523f580e8d8b6a029bc 7812 Packages.xz
 SHA256:
- 013677fb79ce2a4411072da15da0dbd42b9e271784848e7626d6b7d2f8c7e417 42006 Packages
- 6921c8c756b476be4c8a57c029c94cbd71087feedcc09fdee8375a91a1330c80 8559 Packages.gz
- 2d78e30d0ae00e7164c529ba867db3019b8b09d8bf156d3cef313fbcaf133442 7841 Packages.bz2
- 54e67d318ba18b0be103c26f4e501b46caa892666b6881c1eb99d7128d07b964 7876 Packages.xz
+ a98e865dfca1a680c37eb579e930cdbaa01fdf75c8f0c174ec5f6f0fcd0fa64f 42684 Packages
+ 15d7bb74c50f28af9a7644a449358975179e1f2cded485a12d0b073bff4aee93 8561 Packages.gz
+ 48ded7c21d7ce7ac5df5c08e7675f7f1519f9d2159d541a2859664f8eedd6f95 7744 Packages.bz2
+ b0548cf253b537a27e4604a9a8b060989665e6b570a78990d1155f3e11714de9 7812 Packages.xz

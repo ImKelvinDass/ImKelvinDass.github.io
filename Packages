@@ -1,39 +1,3 @@
-Package: com.kelvindass.aeonwalletbypass
-Name: AEON Wallet JB Bypass
-Version: 1.0
-Architecture: iphoneos-arm64
-Section: Bypass
-Author: KiLlErZoN3
-Maintainer: Kelvin
-Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass · AEON Wallet V3.19.7
-Installed-Size: 72
-Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.aeonwalletbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.aeonwalletbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-aeonwalletbypass-icon-1789938481.png
-Filename: debs/AEONWalletBypass_1.0_iphoneos-arm64.deb
-Size: 5012
-MD5sum: 7d90b37152f80ad1972dbea819e9e455
-SHA256: 7a6634ed3517cb56e13abe8a46dfd735d51644f4e6dfd74d32cf3aaa2f0be04f
-
-Package: com.kelvindass.affinalwayscompatibility
-Name: AffinAlwaysX JB BYPASS
-Version: 1.0
-Architecture: iphoneos-arm64
-Section: Bypass
-Author: KiLlErZoN3
-Maintainer: Kelvin
-Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass · AffinAlwaysX V1.3.8
-Installed-Size: 172
-Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.affinalwayscompatibility
-SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.affinalwayscompatibility.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-affinalwayscompatibility-icon-1789514982.png
-Filename: debs/AffinAlwaysX_1.0_iphoneos-arm64.deb
-Size: 10496
-MD5sum: 201de1ff3738060039aa02ddb204fcb3
-SHA256: 5132f912e8488e1dea1b7fbb65323bfdccd95af451e6e4ea0c48c5faac601997
-
 Package: com.atria.ios17
 Name: ATRIA 
 Version: 1.0
@@ -48,28 +12,10 @@ Replaces: acreson.rootless.cj.atria, byg.iosios.net.atria.rootless
 Depiction: https://imkelvindass.github.io/package.html?id=com.atria.ios17
 SileoDepiction: https://imkelvindass.github.io/depictions/com.atria.ios17.json
 Icon: https://imkelvindass.github.io/assets/kz3-mark.png
-Filename: debs/AtriaIOS17_1.0_iphoneos-arm64.deb
+Filename: debs/com.atria.ios17_1.0_iphoneos-arm64.deb
 Size: 214192
 MD5sum: 17850eb1ae3358cda1264cf925b6d885
 SHA256: 64f3a9349f5079776b7ef331b4b95af4d8a46c7328636b4d7c23c3dc3f477d6a
-
-Package: com.kelvindass.banreservasbypass
-Name: Banreservas JB Bypass
-Version: 3.0
-Architecture: iphoneos-arm64
-Section: Bypass
-Author: KiLlErZoN3
-Maintainer: Kelvin
-Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass · Banreservas V8.0.0
-Installed-Size: 72
-Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.banreservasbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.banreservasbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-banreservasbypass-icon-1788958419.png
-Filename: debs/BanreservasBypass_v3.0_iphoneos-arm64.deb
-Size: 5844
-MD5sum: 6562371501357a5c1f37dcd0241071a5
-SHA256: 127e42e0621773acfcacd810eaf2002e1d25ed3d34bfc7adfd0be0b020d113e7
 
 Package: com.bookdoc.jbbypass
 Name: BookDoc JB Bypass
@@ -86,7 +32,7 @@ Replaces: com.aizzat.competition.bookdoclevel1
 Depiction: https://imkelvindass.github.io/package.html?id=com.bookdoc.jbbypass
 SileoDepiction: https://imkelvindass.github.io/depictions/com.bookdoc.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-bookdoc-jbbypass-icon-1793960354.png
-Filename: debs/BookDocJbBypass_1.0_iphoneos-arm64.deb
+Filename: debs/com.bookdoc.jbbypass_1.0_iphoneos-arm64.deb
 Size: 21016
 MD5sum: d596afe1502a775d47f60f9ed222a5e9
 SHA256: 78a4dd0e690933b9b38ba16b35b8e4c47430854034916f0fb06a37f3430a4d58
@@ -104,48 +50,46 @@ Installed-Size: 72
 Depiction: https://imkelvindass.github.io/package.html?id=com.briorhr.jbbypass
 SileoDepiction: https://imkelvindass.github.io/depictions/com.briorhr.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-briorhr-jbbypass-icon-1788437867.png
-Filename: debs/BriorHR_1.0_iphoneos-arm64.deb
+Filename: debs/com.briorhr.jbbypass_1.0_iphoneos-arm64.deb
 Size: 2488
 MD5sum: ededf62a1947ff59a32f0ba7516874ea
 SHA256: 524c133c19da5f98bd86ecc96b1b7edb7266bd11a69fb76801388e4284013ba7
 
-Package: com.cimb.jbbypass
-Name: CIMB JB BYPASS
-Description: Jailbreak Detection Bypass · CIMB V1.10.2
-Maintainer: Kelvin
-Author: KiLlErZoN3
-Section: Bypass
-Depends: mobilesubstrate (>= 0.9.5000)
+Package: com.brkr1.tweaks.spotilovereborn
+Name: SpotiLoveReborn v2.0
+Version: 2.0
 Architecture: iphoneos-arm64
-Version: 1.0
-Installed-Size: 72
-Depiction: https://imkelvindass.github.io/package.html?id=com.cimb.jbbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.cimb.jbbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-cimb-jbbypass-icon-1788437818.png
-Filename: debs/CIMB_1.0_iphoneos-arm64.deb
-Size: 3968
-MD5sum: 730494b81945a8978e09fbf2867ee174
-SHA256: 83dacdd2c052e9c534b452f3cc099e488d968db6dae692ca3ac5c38f984241eb
+Section: Tweaks
+Author: brkr1
+Maintainer: Kelvin
+Depends: firmware (>= 17.0), firmware (<< 18.0), mobilesubstrate
+Description: Like Spotify tracks straight from the lock screen · Spotify V9.1.88 + Eevee V7.0.0
+Depiction: https://imkelvindass.github.io/package.html?id=com.brkr1.tweaks.spotilovereborn
+SileoDepiction: https://imkelvindass.github.io/depictions/com.brkr1.tweaks.spotilovereborn.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-brkr1-tweaks-spotilovereborn-icon-1791105579.png
+Filename: debs/com.brkr1.tweaks.spotilovereborn_2.0_iphoneos-arm64.deb
+Size: 19536
+MD5sum: 2936452cdaf298d357e3888d46ff88d9
+SHA256: cb8c145d600b9c4f9c6d0e4da62cf486e12a0b6e626207a4ee8d86bbf3de3ef3
 
-Package: com.kelvindass.capcutjbbypass
-Name: CapCut JB Bypass
-Version: 1.0
+Package: com.brkr1.tweaks.spotiqueue
+Name: SpotiQueue v2.0
+Version: 2.0
 Architecture: iphoneos-arm64
-Section: Bypass
-Author: KiLlErZoN3
+Section: Tweaks
+Author: brkr1
 Maintainer: Kelvin
-Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass · Capcut V19.7.0
-Conflicts: com.kelvindass.capcutcompatibility
-Installed-Size: 172
-Replaces: com.kelvindass.capcutcompatibility
-Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.capcutjbbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.capcutjbbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-capcutjbbypass-icon-1792421058.png
-Filename: debs/CapCutJbBypass_1.0_iphoneos-arm64.deb
-Size: 9908
-MD5sum: df2063ffe0fecd0cb39eb7dcaf02f3f8
-SHA256: a90dde10531bf47dcf6b8bc5cefb7a1b902f35b2c1e0fc76ea4565960ceef015
+Depends: firmware (>= 17.0), firmware (<< 18.0), mobilesubstrate, com.opa334.libsandy, com.brkr1.tweaks.spotilovereborn (= 2.0)
+Description: Manage your Spotify queue from anywhere · Spotify V9.1.88 + Eevee V7.0.0
+Conflicts: local.spotiqueue-compact-controls, local.spotiqueue-reorder-fix
+Replaces: local.spotiqueue-compact-controls, local.spotiqueue-reorder-fix
+Depiction: https://imkelvindass.github.io/package.html?id=com.brkr1.tweaks.spotiqueue
+SileoDepiction: https://imkelvindass.github.io/depictions/com.brkr1.tweaks.spotiqueue.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-brkr1-tweaks-spotiqueue-icon-1791105246.png
+Filename: debs/com.brkr1.tweaks.spotiqueue_2.0_iphoneos-arm64.deb
+Size: 102168
+MD5sum: d86139b7f628f4726005c1ad4c2aded9
+SHA256: 3b8a3868cdfd51a7649691e1d5cdfb4cd222019b694c41a0293be49738d77f04
 
 Package: com.celcomdigi.jbbypass
 Name: CelcomDigi JB BYPASS
@@ -160,10 +104,28 @@ Installed-Size: 168
 Depiction: https://imkelvindass.github.io/package.html?id=com.celcomdigi.jbbypass
 SileoDepiction: https://imkelvindass.github.io/depictions/com.celcomdigi.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-celcomdigi-jbbypass-icon-1788437844.png
-Filename: debs/CelcomDigi_1.0_iphoneos-arm64.deb
+Filename: debs/com.celcomdigi.jbbypass_1.0_iphoneos-arm64.deb
 Size: 3196
 MD5sum: a097af707981ff20a6d208d4d1eccc50
 SHA256: db2d89715443cae5541dd7d0344ed783fed5593fa81184fe39fa024d5ebd4129
+
+Package: com.cimb.jbbypass
+Name: CIMB JB BYPASS
+Description: Jailbreak Detection Bypass · CIMB V1.10.2
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.cimb.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.cimb.jbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-cimb-jbbypass-icon-1788437818.png
+Filename: debs/com.cimb.jbbypass_1.0_iphoneos-arm64.deb
+Size: 3968
+MD5sum: 730494b81945a8978e09fbf2867ee174
+SHA256: 83dacdd2c052e9c534b452f3cc099e488d968db6dae692ca3ac5c38f984241eb
 
 Package: com.cleanpicture.tweak
 Name: Clean Pictures
@@ -180,10 +142,103 @@ Replaces: com.kelvindass.cleanpicture
 Depiction: https://imkelvindass.github.io/package.html?id=com.cleanpicture.tweak
 SileoDepiction: https://imkelvindass.github.io/depictions/com.cleanpicture.tweak.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-cleanpicture-tweak-icon-1788732037.png
-Filename: debs/CleanPicture_1.1_iphoneos-arm64.deb
+Filename: debs/com.cleanpicture.tweak_1.1_iphoneos-arm64.deb
 Size: 2107236
 MD5sum: e2a828292a1d26471df5e55325ee2490
 SHA256: 368231e8a9a0af6fdb723f8baa97b66b977b2fd504ae4f0e7df0edfa9710f65c
+
+Package: com.codex.fr24.goldsessiontest
+Name: Flight Radar Gold
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: IAP
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: ellekit
+Description: Gold Unlocked · Flight Radar V11.13.0
+Conflicts: com.codex.flightradar.protest, com.codex.fr24.referencecompare
+Installed-Size: 84
+Depiction: https://imkelvindass.github.io/package.html?id=com.codex.fr24.goldsessiontest
+SileoDepiction: https://imkelvindass.github.io/depictions/com.codex.fr24.goldsessiontest.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-codex-fr24-goldsessiontest-icon-1792420791.png
+Filename: debs/com.codex.fr24.goldsessiontest_1.0_iphoneos-arm64.deb
+Size: 10084
+MD5sum: 2d74dca91915da4bd5b25de4f63936bd
+SHA256: f513aa37e66647969af707f1453600f87764b376bdb854681838575e3e311f52
+
+Package: com.codex.rainalarm.sk2test
+Name: RainAlarmPro+
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: IAP
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: ellekit
+Description: Pro and Plus Unlocked · Rain Alarm V5.5.0
+Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.codex.rainalarm.sk2test
+SileoDepiction: https://imkelvindass.github.io/depictions/com.codex.rainalarm.sk2test.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-codex-rainalarm-sk2test-icon-1792419156.png
+Filename: debs/com.codex.rainalarm.sk2test_1.0_iphoneos-arm64.deb
+Size: 4096
+MD5sum: cc425769bc19dbec344e99e9ff9dbd1e
+SHA256: 8289ca90cdffae973627bd7002332ba5bceab1a24437c422f013bdce6d8c3421
+
+Package: com.codex.watchapp.protest
+Name: WatchApp Pro
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: IAP
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: ellekit
+Description: Pro Unlocked · Watchapp+ V2.9.0
+Installed-Size: 56
+Depiction: https://imkelvindass.github.io/package.html?id=com.codex.watchapp.protest
+SileoDepiction: https://imkelvindass.github.io/depictions/com.codex.watchapp.protest.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-codex-watchapp-protest-icon-1792420255.png
+Filename: debs/com.codex.watchapp.protest_1.0_iphoneos-arm64.deb
+Size: 3208
+MD5sum: 7d8e689e845a51263349f638a5369c9b
+SHA256: ae5a9a7d915aa1cdcc1ed727db837398f4381059723e918f9f0b26f26c1baff4
+
+Package: com.codex.windy.localtiertest
+Name: Windy Premium 
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: IAP
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: ellekit
+Description: Premium Unlocked · Windy V51.030124.24510302
+Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.codex.windy.localtiertest
+SileoDepiction: https://imkelvindass.github.io/depictions/com.codex.windy.localtiertest.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-codex-windy-localtiertest-icon-1792429017.png
+Filename: debs/com.codex.windy.localtiertest_1.0_iphoneos-arm64.deb
+Size: 3524
+MD5sum: 3ab0f6b44a18098ed8085f2cb730cf66
+SHA256: 971df84381ac8c56c8a57700cfe33a589119ae9cbc2701affa85b8da59daacd1
+
+Package: com.codex.windypro
+Name: windy Pro
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: IAP
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: ellekit
+Description: Pro Unlocked · Windy.app V15.8.4
+Conflicts: com.codex.windyapp.protest
+Installed-Size: 72
+Replaces: com.codex.windyapp.protest
+Depiction: https://imkelvindass.github.io/package.html?id=com.codex.windypro
+SileoDepiction: https://imkelvindass.github.io/depictions/com.codex.windypro.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-codex-windypro-icon-1792420609.png
+Filename: debs/com.codex.windypro_1.0_iphoneos-arm64.deb
+Size: 3288
+MD5sum: 57b9387b60c13df0edb3aa0d65b710fd
+SHA256: 7631ff3d7670bc4993f6fa481ba2f7ae2d28e61e700bd730e51188891c8c9846
 
 Package: com.coopsanjose.jbbypass
 Name: CoopSanJose JB BYPASS
@@ -200,7 +255,7 @@ Installed-Size: 72
 Depiction: https://imkelvindass.github.io/package.html?id=com.coopsanjose.jbbypass
 SileoDepiction: https://imkelvindass.github.io/depictions/com.coopsanjose.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-coopsanjose-jbbypass-icon-1788731499.png
-Filename: debs/CoopSanJose_1.0_iphoneos-arm64.deb
+Filename: debs/com.coopsanjose.jbbypass_1.0_iphoneos-arm64.deb
 Size: 2924
 MD5sum: a08f05584599f8d6a14e8a5e7d64d148
 SHA256: 0ad01f9783ef266cf1e0a983d4d36602c4ba73e8a69d213b9c31a3f7bb9801f6
@@ -220,47 +275,10 @@ Replaces: com.kelvindass.detikcompatibility
 Depiction: https://imkelvindass.github.io/package.html?id=com.detik.jbbypass
 SileoDepiction: https://imkelvindass.github.io/depictions/com.detik.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-detik-jbbypass-icon-1791106084.png
-Filename: debs/DetikBypass_1.0_iphoneos-arm64.deb
+Filename: debs/com.detik.jbbypass_1.0_iphoneos-arm64.deb
 Size: 4276
 MD5sum: c06dec25ee10c829f5bd9c2097385772
 SHA256: 23c77f467a993c13145412cf1dc50ca78b96df8acaa831ebc155bb615235fcb9
-
-Package: com.codex.fr24.goldsessiontest
-Name: Flight Radar Gold
-Version: 1.0
-Architecture: iphoneos-arm64
-Section: IAP
-Author: KiLlErZoN3
-Maintainer: Kelvin
-Depends: ellekit
-Description: Gold Unlocked · Flight Radar V11.13.0
-Conflicts: com.codex.flightradar.protest, com.codex.fr24.referencecompare
-Installed-Size: 84
-Depiction: https://imkelvindass.github.io/package.html?id=com.codex.fr24.goldsessiontest
-SileoDepiction: https://imkelvindass.github.io/depictions/com.codex.fr24.goldsessiontest.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-codex-fr24-goldsessiontest-icon-1792420791.png
-Filename: debs/FR24GoldSessionTest_1.0_iphoneos-arm64.deb
-Size: 10084
-MD5sum: 2d74dca91915da4bd5b25de4f63936bd
-SHA256: f513aa37e66647969af707f1453600f87764b376bdb854681838575e3e311f52
-
-Package: com.kelvindass.gxbankbypass
-Name: GXBank JB Bypass
-Version: 1.0
-Architecture: iphoneos-arm64
-Section: Bypass
-Author: KiLlErZoN3
-Maintainer: Kelvin
-Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass · GXBank V2.37.0
-Installed-Size: 72
-Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.gxbankbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.gxbankbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-gxbankbypass-icon-1790011844.png
-Filename: debs/GXBankBypass_1.0_iphoneos-arm64.deb
-Size: 5232
-MD5sum: 57739db70d4f3e17edefb05ed7a3c337
-SHA256: 69ad082781c1a009298dbf3c4482eedd75da62b0291d99332e16f74a287faf17
 
 Package: com.gmail.jbbypass
 Name: Gmail JB BYPASS
@@ -275,465 +293,10 @@ Installed-Size: 72
 Depiction: https://imkelvindass.github.io/package.html?id=com.gmail.jbbypass
 SileoDepiction: https://imkelvindass.github.io/depictions/com.gmail.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-gmail-jbbypass-icon-1791106416.png
-Filename: debs/Gmail_1.0_iphoneos-arm64.deb
+Filename: debs/com.gmail.jbbypass_1.0_iphoneos-arm64.deb
 Size: 4140
 MD5sum: 5ad497a4f3db7b6fa31cbbc82d132928
 SHA256: c09a5d8cda0bf6167a79b84e2b1a6b7dca451690481ed49a021153c862830bca
-
-Package: com.kelvindass.hsbccompatibility
-Name: HSBC Malaysia JB Bypass
-Version: 2.0
-Architecture: iphoneos-arm64
-Section: Bypass
-Author: KiLlErZoN3
-Maintainer: Kelvin
-Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass · HSBC Malaysia V3.74.31
-Installed-Size: 76
-Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.hsbccompatibility
-SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.hsbccompatibility.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-hsbccompatibility-icon-1789514774.png
-Filename: debs/HSBC_2.0_iphoneos-arm64.deb
-Size: 5712
-MD5sum: 145508ce11a5602d5912f5160a1c566c
-SHA256: ac64adaf3aedb34f1436a7e2c89fe94771321306dfa2417c9bcce4d670a8b8d7
-
-Package: com.kwsp.jbbypass
-Name: KWSP JB BYPASS
-Description: Jailbreak Detection Bypass · KWSP V4.10.2
-Maintainer: Kelvin
-Author: KiLlErZoN3
-Section: Bypass
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm64
-Version: 1.0
-Installed-Size: 72
-Depiction: https://imkelvindass.github.io/package.html?id=com.kwsp.jbbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.kwsp.jbbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-kwsp-jbbypass-icon-1788731742.png
-Filename: debs/KWSP_1.0_iphoneos-arm64.deb
-Size: 2804
-MD5sum: fdda67bc8c8899c9cd5826998af94998
-SHA256: 7382cda7e73f797713abf8ce648c3234a925673abf192a6141b31a71a53c1c1c
-
-Package: xyz.cypwn.lockdroid
-Name: LockDroid
-Version: 1.0
-Architecture: iphoneos-arm64
-Section: Tweaks
-Author: julioverne
-Maintainer: Kelvin
-Depends: mobilesubstrate, preferenceloader
-Description: Android Lockscreen
-Depiction: https://imkelvindass.github.io/package.html?id=xyz.cypwn.lockdroid
-SileoDepiction: https://imkelvindass.github.io/depictions/xyz.cypwn.lockdroid.json
-Icon: https://imkelvindass.github.io/assets/package-icons/xyz-cypwn-lockdroid-icon-1791104533.png
-Filename: debs/LockDroid.deb
-Size: 62232
-MD5sum: b30738282c15818888798ee6c8199485
-SHA256: 7dae0f5bd6f32371ab8a2f2996dbf6407a0a1e673e781aac5038811b24f0e962
-
-Package: com.mywe.jbbypass
-Name: MYWE JB BYPASS
-Description: Jailbreak Detection Bypass · MYWE V8.7
-Maintainer: Kelvin
-Author: KiLlErZoN3
-Section: Bypass
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm64
-Version: 1.0
-Installed-Size: 72
-Depiction: https://imkelvindass.github.io/package.html?id=com.mywe.jbbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.mywe.jbbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-mywe-jbbypass-icon-1788437713.png
-Filename: debs/MYWE_1.0_iphoneos-arm64.deb
-Size: 2822
-MD5sum: 635ec7776e249d5c34300b8971192831
-SHA256: ce13f60d9e11293dc7c9e60d9eab1ed8cfa4226a510a5b2509be1e938d8f4a26
-
-Package: com.mcdonalds.jbbypass
-Name: McDonalds JB BYPASS
-Version: 1.0
-Architecture: iphoneos-arm64
-Section: Bypass
-Author: KiLlErZoN3
-Maintainer: Kelvin
-Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass · McDonalds V3.50.0
-Installed-Size: 72
-Depiction: https://imkelvindass.github.io/package.html?id=com.mcdonalds.jbbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.mcdonalds.jbbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-mcdonalds-jbbypass-icon-1791106269.png
-Filename: debs/McDonalds_1.0_iphoneos-arm64.deb
-Size: 3988
-MD5sum: 1f5c96fdeafac080ffdaa5462ce2990b
-SHA256: 6d3ff65dd39c3feaa8e8d3bb5214aded3e4457b8b00f0ab8e970e9818334845d
-
-Package: com.mobills.jbbypass
-Name: Mobills JB BYPASS
-Description: Jailbreak Detection Bypass · Mobills V6.21.1
-Maintainer: Kelvin
-Author: KiLlErZoN3
-Section: Bypass
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.kelvindass.mobillscompatibility
-Replaces: com.kelvindass.mobillscompatibility
-Architecture: iphoneos-arm64
-Version: 1.0
-Installed-Size: 72
-Depiction: https://imkelvindass.github.io/package.html?id=com.mobills.jbbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.mobills.jbbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-mobills-jbbypass-icon-1788731625.png
-Filename: debs/Mobills_1.0_iphoneos-arm64.deb
-Size: 3972
-MD5sum: a73816b6a1ca1967ef45cc4196289ef3
-SHA256: 12eab3d5ab610c1c545e7ef2c3f48bd4844151e07a45bd07afb69e99e61bce37
-
-Package: com.kelvindass.mydigitalidbypass
-Name: MyDigital Id JB Bypass
-Version: 2.0
-Architecture: iphoneos-arm64
-Section: Bypass
-Author: KiLlErZoN3
-Maintainer: Kelvin
-Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass · MyDigital Id V2.10.0
-Installed-Size: 76
-Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.mydigitalidbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.mydigitalidbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-mydigitalidbypass-icon-1790595022.png
-Filename: debs/MyDigitalIDBypass_2.0_iphoneos-arm64.deb
-Size: 5780
-MD5sum: 128ffe4e506f039ce33caf82558a4ffc
-SHA256: e8a9b417677ceb0eb227b7d89083731d575e7018785b4d805ce486193c17d56c
-
-Package: com.kelvindass.outlooklocaldetectionbypass
-Name: Outlook JB Bypass
-Version: 1.0
-Architecture: iphoneos-arm64
-Section: Bypass
-Author: KiLlErZoN3
-Maintainer: Kelvin
-Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass · Outlook V4.2535.0
-Installed-Size: 72
-Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.outlooklocaldetectionbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.outlooklocaldetectionbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-outlooklocaldetectionbypass-icon-1790021905.png
-Filename: debs/OutlookBypass_1.0_iphoneos-arm64.deb
-Size: 2940
-MD5sum: 5ce012f1b8554bac47de521b1a5782a3
-SHA256: e977c2f208eb1744c27baa33635d12245e9ff0b52eea4c4a7b01f5e545ab3178
-
-Package: com.ptv.jbbypass
-Name: PTV JB BYPASS
-Description: Jailbreak Detection Bypass · PTV V5.6.0
-Maintainer: Kelvin
-Author: KiLlErZoN3
-Section: Bypass
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm64
-Version: 1.0
-Installed-Size: 168
-Depiction: https://imkelvindass.github.io/package.html?id=com.ptv.jbbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.ptv.jbbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-ptv-jbbypass-icon-1788437632.png
-Filename: debs/PTV_1.0_iphoneos-arm64.deb
-Size: 5540
-MD5sum: 11027b73ccc1d916416b03ab3fff3bf0
-SHA256: 43a37f8fe3c4e1d868c3dfad371540621c872910fe4b8e30b89ca053eda4199d
-
-Package: com.pichincha.jbbypass
-Name: Pichincha JB BYPASS
-Description: Jailbreak Detection Bypass · Pichincha V15.0.0
-Maintainer: Kelvin
-Author: KiLlErZoN3
-Section: Bypass
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
-Conflicts: com.kelvindass.pichinchacompatibility
-Replaces: com.kelvindass.pichinchacompatibility
-Architecture: iphoneos-arm64
-Version: 1.0
-Installed-Size: 76
-Depiction: https://imkelvindass.github.io/package.html?id=com.pichincha.jbbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.pichincha.jbbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-pichincha-jbbypass-icon-1793950309.png
-Filename: debs/Pichincha_1.0_iphoneos-arm64.deb
-Size: 5274
-MD5sum: 289187df7ac6a7f0eeba4f100442e005
-SHA256: e5729398f15c947fbb6b720da0e08d597409e035b94f08d88ccc9336f67b26c7
-
-Package: com.codex.rainalarm.sk2test
-Name: RainAlarmPro+
-Version: 1.0
-Architecture: iphoneos-arm64
-Section: IAP
-Author: KiLlErZoN3
-Maintainer: Kelvin
-Depends: ellekit
-Description: Pro and Plus Unlocked · Rain Alarm V5.5.0
-Installed-Size: 72
-Depiction: https://imkelvindass.github.io/package.html?id=com.codex.rainalarm.sk2test
-SileoDepiction: https://imkelvindass.github.io/depictions/com.codex.rainalarm.sk2test.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-codex-rainalarm-sk2test-icon-1792419156.png
-Filename: debs/RainAlarmPro+_1.0_iphoneos-arm64.deb
-Size: 4096
-MD5sum: cc425769bc19dbec344e99e9ff9dbd1e
-SHA256: 8289ca90cdffae973627bd7002332ba5bceab1a24437c422f013bdce6d8c3421
-
-Package: com.ring.jbbypass
-Name: Ring JB BYPASS
-Description: Jailbreak Detection Bypass · Ring V5.112.0
-Maintainer: Kelvin
-Author: KiLlErZoN3
-Section: Bypass
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm64
-Version: 1.0
-Installed-Size: 72
-Depiction: https://imkelvindass.github.io/package.html?id=com.ring.jbbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.ring.jbbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-ring-jbbypass-icon-1788731835.png
-Filename: debs/Ring_1.0_iphoneos-arm64.deb
-Size: 3528
-MD5sum: 8ced1f0b739db49f77897e5d586dc39e
-SHA256: dc97e28c99e34cc498fc2a90f13594b0b0337eefb475d43cc42fac5a26ab2c24
-
-Package: com.brkr1.tweaks.spotilovereborn
-Name: SpotiLoveReborn v2.0
-Version: 2.0
-Architecture: iphoneos-arm64
-Section: Tweaks
-Author: brkr1
-Maintainer: Kelvin
-Depends: firmware (>= 17.0), firmware (<< 18.0), mobilesubstrate
-Description: Like Spotify tracks straight from the lock screen · Spotify V9.1.88 + Eevee V7.0.0
-Depiction: https://imkelvindass.github.io/package.html?id=com.brkr1.tweaks.spotilovereborn
-SileoDepiction: https://imkelvindass.github.io/depictions/com.brkr1.tweaks.spotilovereborn.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-brkr1-tweaks-spotilovereborn-icon-1791105579.png
-Filename: debs/SpotiLoveReborn v2.0.deb
-Size: 19536
-MD5sum: 2936452cdaf298d357e3888d46ff88d9
-SHA256: cb8c145d600b9c4f9c6d0e4da62cf486e12a0b6e626207a4ee8d86bbf3de3ef3
-
-Package: com.brkr1.tweaks.spotiqueue
-Name: SpotiQueue v2.0
-Version: 2.0
-Architecture: iphoneos-arm64
-Section: Tweaks
-Author: brkr1
-Maintainer: Kelvin
-Depends: firmware (>= 17.0), firmware (<< 18.0), mobilesubstrate, com.opa334.libsandy, com.brkr1.tweaks.spotilovereborn (= 2.0)
-Description: Manage your Spotify queue from anywhere · Spotify V9.1.88 + Eevee V7.0.0
-Conflicts: local.spotiqueue-compact-controls, local.spotiqueue-reorder-fix
-Replaces: local.spotiqueue-compact-controls, local.spotiqueue-reorder-fix
-Depiction: https://imkelvindass.github.io/package.html?id=com.brkr1.tweaks.spotiqueue
-SileoDepiction: https://imkelvindass.github.io/depictions/com.brkr1.tweaks.spotiqueue.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-brkr1-tweaks-spotiqueue-icon-1791105246.png
-Filename: debs/SpotiQueue v2.0.deb
-Size: 102168
-MD5sum: d86139b7f628f4726005c1ad4c2aded9
-SHA256: 3b8a3868cdfd51a7649691e1d5cdfb4cd222019b694c41a0293be49738d77f04
-
-Package: local.spotify-open-playlists
-Name: Spotify Opens On Playlists v2.0
-Version: 2.0
-Architecture: iphoneos-arm64
-Section: Tweaks
-Author: KiLlErZoN3
-Maintainer: Kelvin
-Depends: mobilesubstrate, firmware (>= 17.0), firmware (<< 18.0)
-Description: Opens Spotify's library list once per cold launch. Rootless iOS 17. · Spotify V9.1.88 + Eevee V7.0.0
-Conflicts: com.xelahot.spotifyopensonplaylists
-Replaces: com.xelahot.spotifyopensonplaylists
-Depiction: https://imkelvindass.github.io/package.html?id=local.spotify-open-playlists
-SileoDepiction: https://imkelvindass.github.io/depictions/local.spotify-open-playlists.json
-Icon: https://imkelvindass.github.io/assets/package-icons/local-spotify-open-playlists-icon-1791544892.png
-Filename: debs/Spotify Opens On Playlists v2.0.deb
-Size: 7264
-MD5sum: 594deaf6ad494caca342317279b0ef05
-SHA256: bcc132213337e10c1bc22ce1223f60c8b46156a850aa5d9f2b1b17655cf8a417
-
-Package: com.tng.jbbypass
-Name: TNG JB BYPASS
-Version: 2.0
-Architecture: iphoneos-arm64
-Section: Bypass
-Author: KiLlErZoN3
-Maintainer: Kelvin
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
-Description: Jailbreak Detection Bypass · TNG V1.9.22
-Installed-Size: 340
-Depiction: https://imkelvindass.github.io/package.html?id=com.tng.jbbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.tng.jbbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-tng-jbbypass-icon-1788437593.png
-Filename: debs/TNG_1.0_iphoneos-arm64.deb
-Size: 12292
-MD5sum: e6d2a470d7a3a2fb0f842422e40f49d7
-SHA256: 7d8fc97ee5cb697e11ae634262fe8d4afdc818888f4446dd621fea646bdcde33
-
-Package: com.kelvindass.teamslocaldetectionbypass
-Name: Teams JB Bypass
-Version: 1.0
-Architecture: iphoneos-arm64
-Section: Bypass
-Author: KiLlErZoN3
-Maintainer: Kelvin
-Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass · Teams V8.16.3
-Installed-Size: 72
-Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.teamslocaldetectionbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.teamslocaldetectionbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-teamslocaldetectionbypass-icon-1790021800.png
-Filename: debs/TeamsBypass_1.0_iphoneos-arm64.deb
-Size: 2948
-MD5sum: 195f6b6e4a136a2874607d2638401aeb
-SHA256: e3dd2033df23797da98d2170f472a36d05a38b1fba1500dde96fda0765da33fe
-
-Package: com.kelvindass.togglow
-Name: Togglow
-Version: 1.0
-Architecture: iphoneos-arm64
-Section: Tweaks
-Author: smokin1337
-Maintainer: Kelvin
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, oldabi (>= 2.0.1) | com.complications.ios17
-Description: Thin outlines and soft glow for Control Center modules and expanded panels
-Conflicts: togglow
-Replaces: togglow
-Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.togglow
-SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.togglow.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-togglow-icon-1791554073.png
-Filename: debs/Togglow v1.0.deb
-Size: 288020
-MD5sum: 6a164433069cce34d553a5c140f0fa81
-SHA256: d634a046be50d302c915fe746585837b0c1d08234c30dfc6b2e9e6621153e63e
-
-Package: com.kelvindass.ukgprobypass
-Name: UKG JB BYPASS
-Version: 1.0
-Architecture: iphoneos-arm64
-Section: Bypass
-Author: KiLlErZoN3
-Maintainer: Kelvin
-Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass · UKG V5.7.4
-Installed-Size: 168
-Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.ukgprobypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.ukgprobypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-ukgprobypass-icon-1788621121.png
-Filename: debs/UKG_1.0_iphoneos-arm64.deb
-Size: 6488
-MD5sum: f02b885e718d8805a562ecd3385d033f
-SHA256: 2b592bbd2cd19371f679488a5447e14fc8e71f69f36ae752a78509c040b0cc91
-
-Package: com.noisyflake.velvet2
-Name: Velvet 2
-Version: 1.0
-Architecture: iphoneos-arm64
-Section: Tweaks
-Author: NoisyFlake
-Maintainer: Kelvin
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Description: Customizable notification experience
-Depiction: https://imkelvindass.github.io/package.html?id=com.noisyflake.velvet2
-SileoDepiction: https://imkelvindass.github.io/depictions/com.noisyflake.velvet2.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-noisyflake-velvet2-icon-1791104796.png
-Filename: debs/Velvet2.deb
-Size: 105484
-MD5sum: 9ca7786eddfe20e4669bab464590e8e8
-SHA256: dfb511419b9f85174ca52cafe04e74745be9bee4fa86f233e9ad0c2b5fed1980
-
-Package: com.venngo.jbbypass
-Name: Venngo JB BYPASS
-Description: Jailbreak Detection Bypass · Venngo V3.4.6
-Maintainer: Kelvin
-Author: KiLlErZoN3
-Section: Bypass
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.kelvindass.venngobypass
-Replaces: com.kelvindass.venngobypass
-Architecture: iphoneos-arm64
-Version: 1.0
-Installed-Size: 72
-Depiction: https://imkelvindass.github.io/package.html?id=com.venngo.jbbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.venngo.jbbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-venngo-jbbypass-icon-1788731286.png
-Filename: debs/Venngo_1.0_iphoneos-arm64.deb
-Size: 3268
-MD5sum: d47a6f489a7d6a9e3c979a0d2b1816b0
-SHA256: f8b15109401e8ce6fa096eee3fdf5a791cbfce211b7c1baddc5dc1dcf1ffcd34
-
-Package: com.codex.watchapp.protest
-Name: WatchApp Pro
-Version: 1.0
-Architecture: iphoneos-arm64
-Section: IAP
-Author: KiLlErZoN3
-Maintainer: Kelvin
-Depends: ellekit
-Description: Pro Unlocked · Watchapp+ V2.9.0
-Installed-Size: 56
-Depiction: https://imkelvindass.github.io/package.html?id=com.codex.watchapp.protest
-SileoDepiction: https://imkelvindass.github.io/depictions/com.codex.watchapp.protest.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-codex-watchapp-protest-icon-1792420255.png
-Filename: debs/WatchAppPro_1.0_iphoneos-arm64.deb
-Size: 3208
-MD5sum: 7d8e689e845a51263349f638a5369c9b
-SHA256: ae5a9a7d915aa1cdcc1ed727db837398f4381059723e918f9f0b26f26c1baff4
-
-Package: com.whatsup.jbbypass
-Name: What's up JB BYPASS
-Description: Jailbreak Detection Bypass · What's up V4.66.2
-Maintainer: Kelvin
-Author: KiLlErZoN3
-Section: Bypass
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm64
-Version: 1.0
-Installed-Size: 56
-Depiction: https://imkelvindass.github.io/package.html?id=com.whatsup.jbbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.whatsup.jbbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-whatsup-jbbypass-icon-1788446430.png
-Filename: debs/WhatsUp_1.0_iphoneos-arm64.deb
-Size: 2396
-MD5sum: e33975467eb1a7ea7e2a9782735f3121
-SHA256: fb3588ab25cdafa418e7ca6c8b2b2df2dc78a8394d056888f37ee2d68f569ad0
-
-Package: local.youtube-queue
-Name: YouTube Queue
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Section: Tweaks
-Author: KiLlErZoN3
-Maintainer: Kelvin
-Depends: firmware (>= 17.0), firmware (<< 18.0), mobilesubstrate, com.opa334.libsandy (>= 1.1.6)
-Description: Native YouTube playback queue in Control Center and on the Lock Screen · Youtube V21.40.5
-Depiction: https://imkelvindass.github.io/package.html?id=local.youtube-queue
-SileoDepiction: https://imkelvindass.github.io/depictions/local.youtube-queue.json
-Icon: https://imkelvindass.github.io/assets/package-icons/local-youtube-queue-icon-1791545743.png
-Filename: debs/YouTube Queue v1.0.1.deb
-Size: 57964
-MD5sum: 7c9ba3d7b6dc0cfaa6ceb73e7c914c05
-SHA256: 20998f173697f0c901655065352cc456c35ba51c9e18e2d50dee8c5054d38c4a
-
-Package: com.codex.windy.localtiertest
-Name: Windy Premium 
-Version: 1.0
-Architecture: iphoneos-arm64
-Section: IAP
-Author: KiLlErZoN3
-Maintainer: Kelvin
-Depends: ellekit
-Description: Premium Unlocked · Windy V51.030124.24510302
-Installed-Size: 72
-Depiction: https://imkelvindass.github.io/package.html?id=com.codex.windy.localtiertest
-SileoDepiction: https://imkelvindass.github.io/depictions/com.codex.windy.localtiertest.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-codex-windy-localtiertest-icon-1792429017.png
-Filename: debs/com.codex.windy.localtiertest_1.0_iphoneos-arm64.deb
-Size: 3524
-MD5sum: 3ab0f6b44a18098ed8085f2cb730cf66
-SHA256: 971df84381ac8c56c8a57700cfe33a589119ae9cbc2701affa85b8da59daacd1
 
 Package: com.kelvin.365scorespro
 Name: 365Scores Pro
@@ -973,6 +536,430 @@ Size: 5936
 MD5sum: 4bb457105c8ecf88e51ba7e8db2ce418
 SHA256: 06b7715b3174376a1669cc9d54f3e4c10797cae8ccf65ca20ea9d077862e710a
 
+Package: com.kelvindass.aeonwalletbypass
+Name: AEON Wallet JB Bypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass · AEON Wallet V3.19.7
+Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.aeonwalletbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.aeonwalletbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-aeonwalletbypass-icon-1789938481.png
+Filename: debs/com.kelvindass.aeonwalletbypass_1.0_iphoneos-arm64.deb
+Size: 5012
+MD5sum: 7d90b37152f80ad1972dbea819e9e455
+SHA256: 7a6634ed3517cb56e13abe8a46dfd735d51644f4e6dfd74d32cf3aaa2f0be04f
+
+Package: com.kelvindass.affinalwayscompatibility
+Name: AffinAlwaysX JB BYPASS
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass · AffinAlwaysX V1.3.8
+Installed-Size: 172
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.affinalwayscompatibility
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.affinalwayscompatibility.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-affinalwayscompatibility-icon-1789514982.png
+Filename: debs/com.kelvindass.affinalwayscompatibility_1.0_iphoneos-arm64.deb
+Size: 10496
+MD5sum: 201de1ff3738060039aa02ddb204fcb3
+SHA256: 5132f912e8488e1dea1b7fbb65323bfdccd95af451e6e4ea0c48c5faac601997
+
+Package: com.kelvindass.banreservasbypass
+Name: Banreservas JB Bypass
+Version: 3.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass · Banreservas V8.0.0
+Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.banreservasbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.banreservasbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-banreservasbypass-icon-1788958419.png
+Filename: debs/com.kelvindass.banreservasbypass_3.0_iphoneos-arm64.deb
+Size: 5844
+MD5sum: 6562371501357a5c1f37dcd0241071a5
+SHA256: 127e42e0621773acfcacd810eaf2002e1d25ed3d34bfc7adfd0be0b020d113e7
+
+Package: com.kelvindass.capcutjbbypass
+Name: CapCut JB Bypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass · Capcut V19.7.0
+Conflicts: com.kelvindass.capcutcompatibility
+Installed-Size: 172
+Replaces: com.kelvindass.capcutcompatibility
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.capcutjbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.capcutjbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-capcutjbbypass-icon-1792421058.png
+Filename: debs/com.kelvindass.capcutjbbypass_1.0_iphoneos-arm64.deb
+Size: 9908
+MD5sum: df2063ffe0fecd0cb39eb7dcaf02f3f8
+SHA256: a90dde10531bf47dcf6b8bc5cefb7a1b902f35b2c1e0fc76ea4565960ceef015
+
+Package: com.kelvindass.gxbankbypass
+Name: GXBank JB Bypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass · GXBank V2.37.0
+Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.gxbankbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.gxbankbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-gxbankbypass-icon-1790011844.png
+Filename: debs/com.kelvindass.gxbankbypass_1.0_iphoneos-arm64.deb
+Size: 5232
+MD5sum: 57739db70d4f3e17edefb05ed7a3c337
+SHA256: 69ad082781c1a009298dbf3c4482eedd75da62b0291d99332e16f74a287faf17
+
+Package: com.kelvindass.hsbccompatibility
+Name: HSBC Malaysia JB Bypass
+Version: 2.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass · HSBC Malaysia V3.74.31
+Installed-Size: 76
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.hsbccompatibility
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.hsbccompatibility.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-hsbccompatibility-icon-1789514774.png
+Filename: debs/com.kelvindass.hsbccompatibility_2.0_iphoneos-arm64.deb
+Size: 5712
+MD5sum: 145508ce11a5602d5912f5160a1c566c
+SHA256: ac64adaf3aedb34f1436a7e2c89fe94771321306dfa2417c9bcce4d670a8b8d7
+
+Package: com.kelvindass.mydigitalidbypass
+Name: MyDigital Id JB Bypass
+Version: 2.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass · MyDigital Id V2.10.0
+Installed-Size: 76
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.mydigitalidbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.mydigitalidbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-mydigitalidbypass-icon-1790595022.png
+Filename: debs/com.kelvindass.mydigitalidbypass_2.0_iphoneos-arm64.deb
+Size: 5780
+MD5sum: 128ffe4e506f039ce33caf82558a4ffc
+SHA256: e8a9b417677ceb0eb227b7d89083731d575e7018785b4d805ce486193c17d56c
+
+Package: com.kelvindass.outlooklocaldetectionbypass
+Name: Outlook JB Bypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass · Outlook V4.2535.0
+Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.outlooklocaldetectionbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.outlooklocaldetectionbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-outlooklocaldetectionbypass-icon-1790021905.png
+Filename: debs/com.kelvindass.outlooklocaldetectionbypass_1.0_iphoneos-arm64.deb
+Size: 2940
+MD5sum: 5ce012f1b8554bac47de521b1a5782a3
+SHA256: e977c2f208eb1744c27baa33635d12245e9ff0b52eea4c4a7b01f5e545ab3178
+
+Package: com.kelvindass.teamslocaldetectionbypass
+Name: Teams JB Bypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass · Teams V8.16.3
+Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.teamslocaldetectionbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.teamslocaldetectionbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-teamslocaldetectionbypass-icon-1790021800.png
+Filename: debs/com.kelvindass.teamslocaldetectionbypass_1.0_iphoneos-arm64.deb
+Size: 2948
+MD5sum: 195f6b6e4a136a2874607d2638401aeb
+SHA256: e3dd2033df23797da98d2170f472a36d05a38b1fba1500dde96fda0765da33fe
+
+Package: com.kelvindass.togglow
+Name: Togglow
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Tweaks
+Author: smokin1337
+Maintainer: Kelvin
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, oldabi (>= 2.0.1) | com.complications.ios17
+Description: Thin outlines and soft glow for Control Center modules and expanded panels
+Conflicts: togglow
+Replaces: togglow
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.togglow
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.togglow.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-togglow-icon-1791554073.png
+Filename: debs/com.kelvindass.togglow_1.0_iphoneos-arm64.deb
+Size: 288020
+MD5sum: 6a164433069cce34d553a5c140f0fa81
+SHA256: d634a046be50d302c915fe746585837b0c1d08234c30dfc6b2e9e6621153e63e
+
+Package: com.kelvindass.ukgprobypass
+Name: UKG JB BYPASS
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass · UKG V5.7.4
+Installed-Size: 168
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.ukgprobypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.ukgprobypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-ukgprobypass-icon-1788621121.png
+Filename: debs/com.kelvindass.ukgprobypass_1.0_iphoneos-arm64.deb
+Size: 6488
+MD5sum: f02b885e718d8805a562ecd3385d033f
+SHA256: 2b592bbd2cd19371f679488a5447e14fc8e71f69f36ae752a78509c040b0cc91
+
+Package: com.kwsp.jbbypass
+Name: KWSP JB BYPASS
+Description: Jailbreak Detection Bypass · KWSP V4.10.2
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.kwsp.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kwsp.jbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kwsp-jbbypass-icon-1788731742.png
+Filename: debs/com.kwsp.jbbypass_1.0_iphoneos-arm64.deb
+Size: 2804
+MD5sum: fdda67bc8c8899c9cd5826998af94998
+SHA256: 7382cda7e73f797713abf8ce648c3234a925673abf192a6141b31a71a53c1c1c
+
+Package: com.mae.jbbypass
+Name: MAE JB Bypass
+Version: 2.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
+Description: Jailbreak Detection Bypass · MAE V0.9.52
+Conflicts: com.mae.jbbypass.candidate
+Installed-Size: 236
+Replaces: com.mae.jbbypass.candidate
+Depiction: https://imkelvindass.github.io/package.html?id=com.mae.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.mae.jbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-mae-jbbypass-icon-1788437779.png
+Filename: debs/com.mae.jbbypass_2.0_iphoneos-arm64.deb
+Size: 12920
+MD5sum: 068d6e277e634f18c4f26a68de3ae72f
+SHA256: 2602ddbb429d1f6df323e5034f07121eb9aa658b9e1eba609896a97ffaf61775
+
+Package: com.mcdonalds.jbbypass
+Name: McDonalds JB BYPASS
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass · McDonalds V3.50.0
+Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.mcdonalds.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.mcdonalds.jbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-mcdonalds-jbbypass-icon-1791106269.png
+Filename: debs/com.mcdonalds.jbbypass_1.0_iphoneos-arm64.deb
+Size: 3988
+MD5sum: 1f5c96fdeafac080ffdaa5462ce2990b
+SHA256: 6d3ff65dd39c3feaa8e8d3bb5214aded3e4457b8b00f0ab8e970e9818334845d
+
+Package: com.mobills.jbbypass
+Name: Mobills JB BYPASS
+Description: Jailbreak Detection Bypass · Mobills V6.21.1
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.kelvindass.mobillscompatibility
+Replaces: com.kelvindass.mobillscompatibility
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.mobills.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.mobills.jbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-mobills-jbbypass-icon-1788731625.png
+Filename: debs/com.mobills.jbbypass_1.0_iphoneos-arm64.deb
+Size: 3972
+MD5sum: a73816b6a1ca1967ef45cc4196289ef3
+SHA256: 12eab3d5ab610c1c545e7ef2c3f48bd4844151e07a45bd07afb69e99e61bce37
+
+Package: com.mywe.jbbypass
+Name: MYWE JB BYPASS
+Description: Jailbreak Detection Bypass · MYWE V8.7
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.mywe.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.mywe.jbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-mywe-jbbypass-icon-1788437713.png
+Filename: debs/com.mywe.jbbypass_1.0_iphoneos-arm64.deb
+Size: 2822
+MD5sum: 635ec7776e249d5c34300b8971192831
+SHA256: ce13f60d9e11293dc7c9e60d9eab1ed8cfa4226a510a5b2509be1e938d8f4a26
+
+Package: com.noisyflake.velvet2
+Name: Velvet 2
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Tweaks
+Author: NoisyFlake
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Description: Customizable notification experience
+Depiction: https://imkelvindass.github.io/package.html?id=com.noisyflake.velvet2
+SileoDepiction: https://imkelvindass.github.io/depictions/com.noisyflake.velvet2.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-noisyflake-velvet2-icon-1791104796.png
+Filename: debs/com.noisyflake.velvet2_1.0_iphoneos-arm64.deb
+Size: 105484
+MD5sum: 9ca7786eddfe20e4669bab464590e8e8
+SHA256: dfb511419b9f85174ca52cafe04e74745be9bee4fa86f233e9ad0c2b5fed1980
+
+Package: com.pichincha.jbbypass
+Name: Pichincha JB BYPASS
+Description: Jailbreak Detection Bypass · Pichincha V15.0.0
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Conflicts: com.kelvindass.pichinchacompatibility
+Replaces: com.kelvindass.pichinchacompatibility
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 76
+Depiction: https://imkelvindass.github.io/package.html?id=com.pichincha.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.pichincha.jbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-pichincha-jbbypass-icon-1793950309.png
+Filename: debs/com.pichincha.jbbypass_1.0_iphoneos-arm64.deb
+Size: 5274
+MD5sum: 289187df7ac6a7f0eeba4f100442e005
+SHA256: e5729398f15c947fbb6b720da0e08d597409e035b94f08d88ccc9336f67b26c7
+
+Package: com.ptv.jbbypass
+Name: PTV JB BYPASS
+Description: Jailbreak Detection Bypass · PTV V5.6.0
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 168
+Depiction: https://imkelvindass.github.io/package.html?id=com.ptv.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.ptv.jbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-ptv-jbbypass-icon-1788437632.png
+Filename: debs/com.ptv.jbbypass_1.0_iphoneos-arm64.deb
+Size: 5540
+MD5sum: 11027b73ccc1d916416b03ab3fff3bf0
+SHA256: 43a37f8fe3c4e1d868c3dfad371540621c872910fe4b8e30b89ca053eda4199d
+
+Package: com.ring.jbbypass
+Name: Ring JB BYPASS
+Description: Jailbreak Detection Bypass · Ring V5.112.0
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.ring.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.ring.jbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-ring-jbbypass-icon-1788731835.png
+Filename: debs/com.ring.jbbypass_1.0_iphoneos-arm64.deb
+Size: 3528
+MD5sum: 8ced1f0b739db49f77897e5d586dc39e
+SHA256: dc97e28c99e34cc498fc2a90f13594b0b0337eefb475d43cc42fac5a26ab2c24
+
+Package: com.tng.jbbypass
+Name: TNG JB BYPASS
+Version: 2.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
+Description: Jailbreak Detection Bypass · TNG V1.9.22
+Installed-Size: 340
+Depiction: https://imkelvindass.github.io/package.html?id=com.tng.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.tng.jbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-tng-jbbypass-icon-1788437593.png
+Filename: debs/com.tng.jbbypass_2.0_iphoneos-arm64.deb
+Size: 12292
+MD5sum: e6d2a470d7a3a2fb0f842422e40f49d7
+SHA256: 7d8fc97ee5cb697e11ae634262fe8d4afdc818888f4446dd621fea646bdcde33
+
+Package: com.venngo.jbbypass
+Name: Venngo JB BYPASS
+Description: Jailbreak Detection Bypass · Venngo V3.4.6
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.kelvindass.venngobypass
+Replaces: com.kelvindass.venngobypass
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.venngo.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.venngo.jbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-venngo-jbbypass-icon-1788731286.png
+Filename: debs/com.venngo.jbbypass_1.0_iphoneos-arm64.deb
+Size: 3268
+MD5sum: d47a6f489a7d6a9e3c979a0d2b1816b0
+SHA256: f8b15109401e8ce6fa096eee3fdf5a791cbfce211b7c1baddc5dc1dcf1ffcd34
+
+Package: com.whatsup.jbbypass
+Name: What's up JB BYPASS
+Description: Jailbreak Detection Bypass · What's up V4.66.2
+Maintainer: Kelvin
+Author: KiLlErZoN3
+Section: Bypass
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64
+Version: 1.0
+Installed-Size: 56
+Depiction: https://imkelvindass.github.io/package.html?id=com.whatsup.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.whatsup.jbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-whatsup-jbbypass-icon-1788446430.png
+Filename: debs/com.whatsup.jbbypass_1.0_iphoneos-arm64.deb
+Size: 2396
+MD5sum: e33975467eb1a7ea7e2a9782735f3121
+SHA256: fb3588ab25cdafa418e7ca6c8b2b2df2dc78a8394d056888f37ee2d68f569ad0
+
 Package: hideavcontrols
 Name: HideAVControls
 Version: 1.0
@@ -991,42 +978,55 @@ Size: 4712
 MD5sum: f50981cdb8c1a9c7ada8802bcdbe46cd
 SHA256: 820a65913abb02d84cd7d88a84b395b7c710fd34229b4b4f9000fc0952d2df65
 
-Package: com.mae.jbbypass
-Name: MAE JB Bypass
+Package: local.spotify-open-playlists
+Name: Spotify Opens On Playlists v2.0
 Version: 2.0
 Architecture: iphoneos-arm64
-Section: Bypass
+Section: Tweaks
 Author: KiLlErZoN3
 Maintainer: Kelvin
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
-Description: Jailbreak Detection Bypass · MAE V0.9.52
-Conflicts: com.mae.jbbypass.candidate
-Installed-Size: 236
-Replaces: com.mae.jbbypass.candidate
-Depiction: https://imkelvindass.github.io/package.html?id=com.mae.jbbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.mae.jbbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-mae-jbbypass-icon-1788437779.png
-Filename: debs/maejbbypass_2.0_iphoneos-arm64.deb
-Size: 12920
-MD5sum: 068d6e277e634f18c4f26a68de3ae72f
-SHA256: 2602ddbb429d1f6df323e5034f07121eb9aa658b9e1eba609896a97ffaf61775
+Depends: mobilesubstrate, firmware (>= 17.0), firmware (<< 18.0)
+Description: Opens Spotify's library list once per cold launch. Rootless iOS 17. · Spotify V9.1.88 + Eevee V7.0.0
+Conflicts: com.xelahot.spotifyopensonplaylists
+Replaces: com.xelahot.spotifyopensonplaylists
+Depiction: https://imkelvindass.github.io/package.html?id=local.spotify-open-playlists
+SileoDepiction: https://imkelvindass.github.io/depictions/local.spotify-open-playlists.json
+Icon: https://imkelvindass.github.io/assets/package-icons/local-spotify-open-playlists-icon-1791544892.png
+Filename: debs/local.spotify-open-playlists_2.0_iphoneos-arm64.deb
+Size: 7264
+MD5sum: 594deaf6ad494caca342317279b0ef05
+SHA256: bcc132213337e10c1bc22ce1223f60c8b46156a850aa5d9f2b1b17655cf8a417
 
-Package: com.codex.windypro
-Name: windy Pro
+Package: local.youtube-queue
+Name: YouTube Queue
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Section: Tweaks
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: firmware (>= 17.0), firmware (<< 18.0), mobilesubstrate, com.opa334.libsandy (>= 1.1.6)
+Description: Native YouTube playback queue in Control Center and on the Lock Screen · Youtube V21.40.5
+Depiction: https://imkelvindass.github.io/package.html?id=local.youtube-queue
+SileoDepiction: https://imkelvindass.github.io/depictions/local.youtube-queue.json
+Icon: https://imkelvindass.github.io/assets/package-icons/local-youtube-queue-icon-1791545743.png
+Filename: debs/local.youtube-queue_1.0.1_iphoneos-arm64.deb
+Size: 57964
+MD5sum: 7c9ba3d7b6dc0cfaa6ceb73e7c914c05
+SHA256: 20998f173697f0c901655065352cc456c35ba51c9e18e2d50dee8c5054d38c4a
+
+Package: xyz.cypwn.lockdroid
+Name: LockDroid
 Version: 1.0
 Architecture: iphoneos-arm64
-Section: IAP
-Author: KiLlErZoN3
+Section: Tweaks
+Author: julioverne
 Maintainer: Kelvin
-Depends: ellekit
-Description: Pro Unlocked · Windy.app V15.8.4
-Conflicts: com.codex.windyapp.protest
-Installed-Size: 72
-Replaces: com.codex.windyapp.protest
-Depiction: https://imkelvindass.github.io/package.html?id=com.codex.windypro
-SileoDepiction: https://imkelvindass.github.io/depictions/com.codex.windypro.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-codex-windypro-icon-1792420609.png
-Filename: debs/windyPro_1.0_iphoneos-arm64.deb
-Size: 3288
-MD5sum: 57b9387b60c13df0edb3aa0d65b710fd
-SHA256: 7631ff3d7670bc4993f6fa481ba2f7ae2d28e61e700bd730e51188891c8c9846
+Depends: mobilesubstrate, preferenceloader
+Description: Android Lockscreen
+Depiction: https://imkelvindass.github.io/package.html?id=xyz.cypwn.lockdroid
+SileoDepiction: https://imkelvindass.github.io/depictions/xyz.cypwn.lockdroid.json
+Icon: https://imkelvindass.github.io/assets/package-icons/xyz-cypwn-lockdroid-icon-1791104533.png
+Filename: debs/xyz.cypwn.lockdroid_1.0_iphoneos-arm64.deb
+Size: 62232
+MD5sum: b30738282c15818888798ee6c8199485
+SHA256: 7dae0f5bd6f32371ab8a2f2996dbf6407a0a1e673e781aac5038811b24f0e962
