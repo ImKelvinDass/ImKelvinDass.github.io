@@ -1,0 +1,90 @@
+{
+ "minVersion": "0.1",
+ "class": "DepictionTabView",
+ "tintColor": "#45dcff",
+ "tabs": [
+  {
+   "tabname": "Details",
+   "class": "DepictionStackView",
+   "views": [
+    {
+     "class": "DepictionSubheaderView",
+     "title": "Premium Unlocked",
+     "useBoldText": true,
+     "useBottomMargin": true
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "App version",
+     "text": "Wingman V1.8.8"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Compatibility",
+     "text": "IOS 17"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Version",
+     "text": "1.0"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Developer",
+     "text": "KiLlErZoN3"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Category",
+     "text": "IAP"
+    },
+    {
+     "class": "DepictionSeparatorView"
+    },
+    {
+     "class": "DepictionHeaderView",
+     "title": "About this tweak"
+    },
+    {
+     "class": "DepictionMarkdownView",
+     "markdown": "Tested and Working",
+     "useSpacing": true
+    },
+    {
+     "class": "DepictionSeparatorView"
+    },
+    {
+     "class": "DepictionTableButtonView",
+     "title": "Open in App Store",
+     "action": "https://apps.apple.com/app/wingman-crew-roster/id6742027238",
+     "openExternal": true
+    },
+    {
+     "class": "DepictionTableButtonView",
+     "title": "View on website",
+     "action": "https://imkelvindass.github.io/package.html?id=com.kelvin.wingmanpro",
+     "openExternal": true
+    }
+   ]
+  },
+  {
+   "tabname": "Changelog",
+   "class": "DepictionStackView",
+   "views": [
+    {
+     "class": "DepictionHeaderView",
+     "title": "v1.0"
+    },
+    {
+     "class": "DepictionSubheaderView",
+     "title": "23 Oct 2026"
+    },
+    {
+     "class": "DepictionMarkdownView",
+     "markdown": "Wingman V1.8.8",
+     "useSpacing": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "minVersion": "0.1",
+ "class": "DepictionTabView",
+ "tintColor": "#45dcff",
+ "tabs": [
+  {
+   "tabname": "Details",
+   "class": "DepictionStackView",
+   "views": [
+    {
+     "class": "DepictionSubheaderView",
+     "title": "Jailbreak Detection Bypass",
+     "useBoldText": true,
+     "useBottomMargin": true
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "App version",
+     "text": "CIMB V1.10.2"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Compatibility",
+     "text": "IOS 17"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Version",
+     "text": "1.0"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Developer",
+     "text": "KiLlErZoN3"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Category",
+     "text": "Bypass"
+    },
+    {
+     "class": "DepictionSeparatorView"
+    },
+    {
+     "class": "DepictionHeaderView",
+     "title": "About this tweak"
+    },
+    {
+     "class": "DepictionMarkdownView",
+     "markdown": "Tested and Working",
+     "useSpacing": true
+    },
+    {
+     "class": "DepictionSeparatorView"
+    },
+    {
+     "class": "DepictionTableButtonView",
+     "title": "Open in App Store",
+     "action": "https://apps.apple.com/app/cimb-octo-my/id1591184221",
+     "openExternal": true
+    },
+    {
+     "class": "DepictionTableButtonView",
+     "title": "View on website",
+     "action": "https://imkelvindass.github.io/package.html?id=com.cimb.jbbypass",
+     "openExternal": true
+    }
+   ]
+  },
+  {
+   "tabname": "Changelog",
+   "class": "DepictionStackView",
+   "views": [
+    {
+     "class": "DepictionHeaderView",
+     "title": "v1.0"
+    },
+    {
+     "class": "DepictionSubheaderView",
+     "title": "21 Oct 2026"
+    },
+    {
+     "class": "DepictionMarkdownView",
+     "markdown": "Version 1.10.2",
+     "useSpacing": true
+    }
+   ]
+  }
+ ],
+ "headerImage": "https://imkelvindass.github.io/assets/package-banners/com-cimb-jbbypass-banner-1788768892.jpg"
+}

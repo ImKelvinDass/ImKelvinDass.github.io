@@ -1,0 +1,91 @@
+{
+ "minVersion": "0.1",
+ "class": "DepictionTabView",
+ "tintColor": "#45dcff",
+ "tabs": [
+  {
+   "tabname": "Details",
+   "class": "DepictionStackView",
+   "views": [
+    {
+     "class": "DepictionSubheaderView",
+     "title": "CCmodule + JB BYPASS",
+     "useBoldText": true,
+     "useBottomMargin": true
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "App version",
+     "text": "MAE CC V0.9.50"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Compatibility",
+     "text": "IOS 17"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Version",
+     "text": "1.0"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Developer",
+     "text": "KiLlErZoN3"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Category",
+     "text": "Bypass"
+    },
+    {
+     "class": "DepictionSeparatorView"
+    },
+    {
+     "class": "DepictionHeaderView",
+     "title": "About this tweak"
+    },
+    {
+     "class": "DepictionMarkdownView",
+     "markdown": "Tested and Working",
+     "useSpacing": true
+    },
+    {
+     "class": "DepictionSeparatorView"
+    },
+    {
+     "class": "DepictionTableButtonView",
+     "title": "Open in App Store",
+     "action": "https://apps.apple.com/app/mae-by-maybank2u/id1481028763",
+     "openExternal": true
+    },
+    {
+     "class": "DepictionTableButtonView",
+     "title": "View on website",
+     "action": "https://imkelvindass.github.io/package.html?id=com.mae.ccjbbypass",
+     "openExternal": true
+    }
+   ]
+  },
+  {
+   "tabname": "Changelog",
+   "class": "DepictionStackView",
+   "views": [
+    {
+     "class": "DepictionHeaderView",
+     "title": "v1.0"
+    },
+    {
+     "class": "DepictionSubheaderView",
+     "title": "21 Oct 2026"
+    },
+    {
+     "class": "DepictionMarkdownView",
+     "markdown": "Version 0.9.50",
+     "useSpacing": true
+    }
+   ]
+  }
+ ],
+ "headerImage": "https://imkelvindass.github.io/assets/package-banners/com-mae-ccjbbypass-banner-1788768844.jpg"
+}

@@ -1,0 +1,103 @@
+{
+ "minVersion": "0.1",
+ "class": "DepictionTabView",
+ "tintColor": "#45dcff",
+ "tabs": [
+  {
+   "tabname": "Details",
+   "class": "DepictionStackView",
+   "views": [
+    {
+     "class": "DepictionSubheaderView",
+     "title": "Manage your Spotify queue from anywhere",
+     "useBoldText": true,
+     "useBottomMargin": true
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "App version",
+     "text": "Spotify V9.1.88 + Eevee V7.0.0"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Compatibility",
+     "text": "IOS 17"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Version",
+     "text": "2.0"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Developer",
+     "text": "brkr1"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Category",
+     "text": "Tweaks"
+    },
+    {
+     "class": "DepictionSeparatorView"
+    },
+    {
+     "class": "DepictionHeaderView",
+     "title": "About this tweak"
+    },
+    {
+     "class": "DepictionMarkdownView",
+     "markdown": "Brkr1's Fork SpotiQueue",
+     "useSpacing": true
+    },
+    {
+     "class": "DepictionSeparatorView"
+    },
+    {
+     "class": "DepictionTableButtonView",
+     "title": "Open in App Store",
+     "action": "https://apps.apple.com/app/spotify-music-and-podcasts/id324684580",
+     "openExternal": true
+    },
+    {
+     "class": "DepictionTableButtonView",
+     "title": "View on website",
+     "action": "https://imkelvindass.github.io/package.html?id=com.brkr1.tweaks.spotiqueue",
+     "openExternal": true
+    }
+   ]
+  },
+  {
+   "tabname": "Changelog",
+   "class": "DepictionStackView",
+   "views": [
+    {
+     "class": "DepictionHeaderView",
+     "title": "v2.0"
+    },
+    {
+     "class": "DepictionSubheaderView",
+     "title": "23 Oct 2026"
+    },
+    {
+     "class": "DepictionMarkdownView",
+     "markdown": "Spotify V9.1.88 + Eevee V7.0.0",
+     "useSpacing": true
+    },
+    {
+     "class": "DepictionHeaderView",
+     "title": "v1.0"
+    },
+    {
+     "class": "DepictionSubheaderView",
+     "title": "4 Oct 2026"
+    },
+    {
+     "class": "DepictionMarkdownView",
+     "markdown": "Fixed support with Nextup3 / Spotify V9.1.74 + Eevee V6.6.8",
+     "useSpacing": true
+    }
+   ]
+  }
+ ]
+}

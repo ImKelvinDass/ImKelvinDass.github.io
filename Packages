@@ -6,8 +6,10 @@ Section: Bypass
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · AEON Wallet V3.19.7
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.aeonwalletbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.aeonwalletbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-aeonwalletbypass-icon-1789938481.png
 Filename: debs/AEONWalletBypass_1.0_iphoneos-arm64.deb
 Size: 5012
@@ -22,8 +24,10 @@ Section: Bypass
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · AffinAlwaysX V1.3.8
 Installed-Size: 172
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.affinalwayscompatibility
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.affinalwayscompatibility.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-affinalwayscompatibility-icon-1789514982.png
 Filename: debs/AffinAlwaysX_1.0_iphoneos-arm64.deb
 Size: 10496
@@ -40,9 +44,9 @@ Maintainer: Kelvin
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Description: Home Screen layout customization for iOS 17.
 Conflicts: com.irepo.boxy4, me.kritanta.homepluspro, acreson.rootless.cj.atria, byg.iosios.net.atria.rootless, local.atria22.english
-Depiction: https://imkelvindass.github.io/package.html?id=com.atria.ios17
 Replaces: acreson.rootless.cj.atria, byg.iosios.net.atria.rootless
-SileoDepiction: https://imkelvindass.github.io/package.html?id=com.atria.ios17
+Depiction: https://imkelvindass.github.io/package.html?id=com.atria.ios17
+SileoDepiction: https://imkelvindass.github.io/depictions/com.atria.ios17.json
 Icon: https://imkelvindass.github.io/assets/kz3-mark.png
 Filename: debs/AtriaIOS17_1.0_iphoneos-arm64.deb
 Size: 214192
@@ -57,8 +61,10 @@ Section: Bypass
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · Banreservas V8.0.0
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.banreservasbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.banreservasbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-banreservasbypass-icon-1788958419.png
 Filename: debs/BanreservasBypass_v3.0_iphoneos-arm64.deb
 Size: 5844
@@ -73,10 +79,12 @@ Section: Bypass
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · BookDoc V3.55.17
 Conflicts: com.aizzat.competition.bookdoclevel1
 Installed-Size: 272
 Replaces: com.aizzat.competition.bookdoclevel1
+Depiction: https://imkelvindass.github.io/package.html?id=com.bookdoc.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.bookdoc.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-bookdoc-jbbypass-icon-1793960354.png
 Filename: debs/BookDocJbBypass_1.0_iphoneos-arm64.deb
 Size: 21016
@@ -85,16 +93,16 @@ SHA256: 78a4dd0e690933b9b38ba16b35b8e4c47430854034916f0fb06a37f3430a4d58
 
 Package: com.briorhr.jbbypass
 Name: BriorHR JB BYPASS
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · BriorHR V2.10.0
 Maintainer: Kelvin
 Author: KiLlErZoN3
 Section: Bypass
 Depends: mobilesubstrate (>= 0.9.5000)
-SileoDepiction: https://imkelvindass.github.io/package.html?id=com.briorhr.jbbypass
-Depiction: https://imkelvindass.github.io/package.html?id=com.briorhr.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.briorhr.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.briorhr.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-briorhr-jbbypass-icon-1788437867.png
 Filename: debs/BriorHR_1.0_iphoneos-arm64.deb
 Size: 2488
@@ -103,16 +111,16 @@ SHA256: 524c133c19da5f98bd86ecc96b1b7edb7266bd11a69fb76801388e4284013ba7
 
 Package: com.cimb.jbbypass
 Name: CIMB JB BYPASS
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · CIMB V1.10.2
 Maintainer: Kelvin
 Author: KiLlErZoN3
 Section: Bypass
 Depends: mobilesubstrate (>= 0.9.5000)
-SileoDepiction: https://imkelvindass.github.io/package.html?id=com.cimb.jbbypass
-Depiction: https://imkelvindass.github.io/package.html?id=com.cimb.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.cimb.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.cimb.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-cimb-jbbypass-icon-1788437818.png
 Filename: debs/CIMB_1.0_iphoneos-arm64.deb
 Size: 3968
@@ -127,10 +135,12 @@ Section: Bypass
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · Capcut V19.7.0
 Conflicts: com.kelvindass.capcutcompatibility
 Installed-Size: 172
 Replaces: com.kelvindass.capcutcompatibility
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.capcutjbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.capcutjbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-capcutjbbypass-icon-1792421058.png
 Filename: debs/CapCutJbBypass_1.0_iphoneos-arm64.deb
 Size: 9908
@@ -139,16 +149,16 @@ SHA256: a90dde10531bf47dcf6b8bc5cefb7a1b902f35b2c1e0fc76ea4565960ceef015
 
 Package: com.celcomdigi.jbbypass
 Name: CelcomDigi JB BYPASS
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · CelcomDigi V1.1.5
 Maintainer: Kelvin
 Author: KiLlErZoN3
 Section: Bypass
 Depends: mobilesubstrate (>= 0.9.5000)
-SileoDepiction: https://imkelvindass.github.io/package.html?id=com.celcomdigi.jbbypass
-Depiction: https://imkelvindass.github.io/package.html?id=com.celcomdigi.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 168
+Depiction: https://imkelvindass.github.io/package.html?id=com.celcomdigi.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.celcomdigi.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-celcomdigi-jbbypass-icon-1788437844.png
 Filename: debs/CelcomDigi_1.0_iphoneos-arm64.deb
 Size: 3196
@@ -165,10 +175,10 @@ Maintainer: Kelvin
 Depends: mobilesubstrate
 Description: Select clean pictures and use them as camera captures in supported apps
 Conflicts: com.kelvindass.cleanpicture
-Depiction: https://imkelvindass.github.io/package.html?id=com.cleanpicture.tweak
 Installed-Size: 2680
 Replaces: com.kelvindass.cleanpicture
-SileoDepiction: https://imkelvindass.github.io/package.html?id=com.cleanpicture.tweak
+Depiction: https://imkelvindass.github.io/package.html?id=com.cleanpicture.tweak
+SileoDepiction: https://imkelvindass.github.io/depictions/com.cleanpicture.tweak.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-cleanpicture-tweak-icon-1788732037.png
 Filename: debs/CleanPicture_1.1_iphoneos-arm64.deb
 Size: 2107236
@@ -177,18 +187,18 @@ SHA256: 368231e8a9a0af6fdb723f8baa97b66b977b2fd504ae4f0e7df0edfa9710f65c
 
 Package: com.coopsanjose.jbbypass
 Name: CoopSanJose JB BYPASS
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · CoopSanJose V4.7.1
 Maintainer: Kelvin
 Author: KiLlErZoN3
 Section: Bypass
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.kelvindass.coopsanjosebypass
 Replaces: com.kelvindass.coopsanjosebypass
-SileoDepiction: https://imkelvindass.github.io/package.html?id=com.coopsanjose.jbbypass
-Depiction: https://imkelvindass.github.io/package.html?id=com.coopsanjose.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.coopsanjose.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.coopsanjose.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-coopsanjose-jbbypass-icon-1788731499.png
 Filename: debs/CoopSanJose_1.0_iphoneos-arm64.deb
 Size: 2924
@@ -203,10 +213,12 @@ Section: Bypass
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · Detik V7.12.0
 Conflicts: com.kelvindass.detikcompatibility
 Installed-Size: 72
 Replaces: com.kelvindass.detikcompatibility
+Depiction: https://imkelvindass.github.io/package.html?id=com.detik.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.detik.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-detik-jbbypass-icon-1791106084.png
 Filename: debs/DetikBypass_1.0_iphoneos-arm64.deb
 Size: 4276
@@ -221,9 +233,11 @@ Section: IAP
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: ellekit
-Description: Gold Unlocked
+Description: Gold Unlocked · Flight Radar V11.13.0
 Conflicts: com.codex.flightradar.protest, com.codex.fr24.referencecompare
 Installed-Size: 84
+Depiction: https://imkelvindass.github.io/package.html?id=com.codex.fr24.goldsessiontest
+SileoDepiction: https://imkelvindass.github.io/depictions/com.codex.fr24.goldsessiontest.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-codex-fr24-goldsessiontest-icon-1792420791.png
 Filename: debs/FR24GoldSessionTest_1.0_iphoneos-arm64.deb
 Size: 10084
@@ -238,8 +252,10 @@ Section: Bypass
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · GXBank V2.37.0
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.gxbankbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.gxbankbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-gxbankbypass-icon-1790011844.png
 Filename: debs/GXBankBypass_1.0_iphoneos-arm64.deb
 Size: 5232
@@ -254,8 +270,10 @@ Section: Bypass
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · Gmail V6.0.260330
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.gmail.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.gmail.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-gmail-jbbypass-icon-1791106416.png
 Filename: debs/Gmail_1.0_iphoneos-arm64.deb
 Size: 4140
@@ -270,8 +288,10 @@ Section: Bypass
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · HSBC Malaysia V3.74.31
 Installed-Size: 76
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.hsbccompatibility
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.hsbccompatibility.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-hsbccompatibility-icon-1789514774.png
 Filename: debs/HSBC_2.0_iphoneos-arm64.deb
 Size: 5712
@@ -280,16 +300,16 @@ SHA256: ac64adaf3aedb34f1436a7e2c89fe94771321306dfa2417c9bcce4d670a8b8d7
 
 Package: com.kwsp.jbbypass
 Name: KWSP JB BYPASS
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · KWSP V4.10.2
 Maintainer: Kelvin
 Author: KiLlErZoN3
 Section: Bypass
 Depends: mobilesubstrate (>= 0.9.5000)
-SileoDepiction: https://imkelvindass.github.io/package.html?id=com.kwsp.jbbypass
-Depiction: https://imkelvindass.github.io/package.html?id=com.kwsp.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.kwsp.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kwsp.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kwsp-jbbypass-icon-1788731742.png
 Filename: debs/KWSP_1.0_iphoneos-arm64.deb
 Size: 2804
@@ -305,6 +325,8 @@ Author: julioverne
 Maintainer: Kelvin
 Depends: mobilesubstrate, preferenceloader
 Description: Android Lockscreen
+Depiction: https://imkelvindass.github.io/package.html?id=xyz.cypwn.lockdroid
+SileoDepiction: https://imkelvindass.github.io/depictions/xyz.cypwn.lockdroid.json
 Icon: https://imkelvindass.github.io/assets/package-icons/xyz-cypwn-lockdroid-icon-1791104533.png
 Filename: debs/LockDroid.deb
 Size: 62232
@@ -313,16 +335,16 @@ SHA256: 7dae0f5bd6f32371ab8a2f2996dbf6407a0a1e673e781aac5038811b24f0e962
 
 Package: com.mae.ccjbbypass
 Name: MAE CC + JB BYPASS
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · MAE CC V0.9.50
 Maintainer: Kelvin
 Author: KiLlErZoN3
 Section: Bypass
 Depends: mobilesubstrate, com.opa334.ccsupport
-SileoDepiction: https://imkelvindass.github.io/package.html?id=com.mae.ccjbbypass
-Depiction: https://imkelvindass.github.io/package.html?id=com.mae.ccjbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 344
+Depiction: https://imkelvindass.github.io/package.html?id=com.mae.ccjbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.mae.ccjbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-mae-ccjbbypass-icon-1788437787.png
 Filename: debs/MAECCJB_1.0_iphoneos-arm64.deb
 Size: 17006
@@ -331,16 +353,16 @@ SHA256: ad0d7974630f1e9c38c1d3dc4b896d034017981fca3cea3ad3c488f1171edfc1
 
 Package: com.mae.jbbypass
 Name: MAE JB BYPASS
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · MAE V0.9.50
 Maintainer: Kelvin
 Author: KiLlErZoN3
 Section: Bypass
 Depends: mobilesubstrate (>= 0.9.5000)
-SileoDepiction: https://imkelvindass.github.io/package.html?id=com.mae.jbbypass
-Depiction: https://imkelvindass.github.io/package.html?id=com.mae.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.mae.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.mae.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-mae-jbbypass-icon-1788437779.png
 Filename: debs/MAE_1.0_iphoneos-arm64.deb
 Size: 2338
@@ -349,16 +371,16 @@ SHA256: 37b33c0d5be0b171eb4170aa84eeb5ffaaa33c9b60bc63883bc1a62457c83c00
 
 Package: com.mywe.jbbypass
 Name: MYWE JB BYPASS
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · MYWE V8.7
 Maintainer: Kelvin
 Author: KiLlErZoN3
 Section: Bypass
 Depends: mobilesubstrate (>= 0.9.5000)
-SileoDepiction: https://imkelvindass.github.io/package.html?id=com.mywe.jbbypass
-Depiction: https://imkelvindass.github.io/package.html?id=com.mywe.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.mywe.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.mywe.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-mywe-jbbypass-icon-1788437713.png
 Filename: debs/MYWE_1.0_iphoneos-arm64.deb
 Size: 2822
@@ -373,8 +395,10 @@ Section: Bypass
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · McDonalds V3.50.0
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.mcdonalds.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.mcdonalds.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-mcdonalds-jbbypass-icon-1791106269.png
 Filename: debs/McDonalds_1.0_iphoneos-arm64.deb
 Size: 3988
@@ -383,18 +407,18 @@ SHA256: 6d3ff65dd39c3feaa8e8d3bb5214aded3e4457b8b00f0ab8e970e9818334845d
 
 Package: com.mobills.jbbypass
 Name: Mobills JB BYPASS
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · Mobills V6.21.1
 Maintainer: Kelvin
 Author: KiLlErZoN3
 Section: Bypass
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.kelvindass.mobillscompatibility
 Replaces: com.kelvindass.mobillscompatibility
-SileoDepiction: https://imkelvindass.github.io/package.html?id=com.mobills.jbbypass
-Depiction: https://imkelvindass.github.io/package.html?id=com.mobills.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.mobills.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.mobills.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-mobills-jbbypass-icon-1788731625.png
 Filename: debs/Mobills_1.0_iphoneos-arm64.deb
 Size: 3972
@@ -409,8 +433,10 @@ Section: Bypass
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · MyDigital Id V2.10.0
 Installed-Size: 76
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.mydigitalidbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.mydigitalidbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-mydigitalidbypass-icon-1790595022.png
 Filename: debs/MyDigitalIDBypass_2.0_iphoneos-arm64.deb
 Size: 5780
@@ -425,8 +451,10 @@ Section: Bypass
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · Outlook V4.2535.0
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.outlooklocaldetectionbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.outlooklocaldetectionbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-outlooklocaldetectionbypass-icon-1790021905.png
 Filename: debs/OutlookBypass_1.0_iphoneos-arm64.deb
 Size: 2940
@@ -435,16 +463,16 @@ SHA256: e977c2f208eb1744c27baa33635d12245e9ff0b52eea4c4a7b01f5e545ab3178
 
 Package: com.ptv.jbbypass
 Name: PTV JB BYPASS
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · PTV V5.6.0
 Maintainer: Kelvin
 Author: KiLlErZoN3
 Section: Bypass
 Depends: mobilesubstrate (>= 0.9.5000)
-SileoDepiction: https://imkelvindass.github.io/package.html?id=com.ptv.jbbypass
-Depiction: https://imkelvindass.github.io/package.html?id=com.ptv.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 168
+Depiction: https://imkelvindass.github.io/package.html?id=com.ptv.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.ptv.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-ptv-jbbypass-icon-1788437632.png
 Filename: debs/PTV_1.0_iphoneos-arm64.deb
 Size: 5540
@@ -453,18 +481,18 @@ SHA256: 43a37f8fe3c4e1d868c3dfad371540621c872910fe4b8e30b89ca053eda4199d
 
 Package: com.pichincha.jbbypass
 Name: Pichincha JB BYPASS
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · Pichincha V15.0.0
 Maintainer: Kelvin
 Author: KiLlErZoN3
 Section: Bypass
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
 Conflicts: com.kelvindass.pichinchacompatibility
 Replaces: com.kelvindass.pichinchacompatibility
-SileoDepiction: https://imkelvindass.github.io/package.html?id=com.pichincha.jbbypass
-Depiction: https://imkelvindass.github.io/package.html?id=com.pichincha.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 76
+Depiction: https://imkelvindass.github.io/package.html?id=com.pichincha.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.pichincha.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-pichincha-jbbypass-icon-1793950309.png
 Filename: debs/Pichincha_1.0_iphoneos-arm64.deb
 Size: 5274
@@ -479,8 +507,10 @@ Section: IAP
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: ellekit
-Description: Pro and Plus Unlocked
+Description: Pro and Plus Unlocked · Rain Alarm V5.5.0
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.codex.rainalarm.sk2test
+SileoDepiction: https://imkelvindass.github.io/depictions/com.codex.rainalarm.sk2test.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-codex-rainalarm-sk2test-icon-1792419156.png
 Filename: debs/RainAlarmPro+_1.0_iphoneos-arm64.deb
 Size: 4096
@@ -489,16 +519,16 @@ SHA256: 8289ca90cdffae973627bd7002332ba5bceab1a24437c422f013bdce6d8c3421
 
 Package: com.ring.jbbypass
 Name: Ring JB BYPASS
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · Ring V5.112.0
 Maintainer: Kelvin
 Author: KiLlErZoN3
 Section: Bypass
 Depends: mobilesubstrate (>= 0.9.5000)
-SileoDepiction: https://imkelvindass.github.io/package.html?id=com.ring.jbbypass
-Depiction: https://imkelvindass.github.io/package.html?id=com.ring.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.ring.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.ring.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-ring-jbbypass-icon-1788731835.png
 Filename: debs/Ring_1.0_iphoneos-arm64.deb
 Size: 3528
@@ -513,7 +543,9 @@ Section: Tweaks
 Author: brkr1
 Maintainer: Kelvin
 Depends: firmware (>= 17.0), firmware (<< 18.0), mobilesubstrate
-Description: Like Spotify tracks straight from the lock screen
+Description: Like Spotify tracks straight from the lock screen · Spotify V9.1.88 + Eevee V7.0.0
+Depiction: https://imkelvindass.github.io/package.html?id=com.brkr1.tweaks.spotilovereborn
+SileoDepiction: https://imkelvindass.github.io/depictions/com.brkr1.tweaks.spotilovereborn.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-brkr1-tweaks-spotilovereborn-icon-1791105579.png
 Filename: debs/SpotiLoveReborn v2.0.deb
 Size: 19536
@@ -528,9 +560,11 @@ Section: Tweaks
 Author: brkr1
 Maintainer: Kelvin
 Depends: firmware (>= 17.0), firmware (<< 18.0), mobilesubstrate, com.opa334.libsandy, com.brkr1.tweaks.spotilovereborn (= 2.0)
-Description: Manage your Spotify queue from anywhere
+Description: Manage your Spotify queue from anywhere · Spotify V9.1.88 + Eevee V7.0.0
 Conflicts: local.spotiqueue-compact-controls, local.spotiqueue-reorder-fix
 Replaces: local.spotiqueue-compact-controls, local.spotiqueue-reorder-fix
+Depiction: https://imkelvindass.github.io/package.html?id=com.brkr1.tweaks.spotiqueue
+SileoDepiction: https://imkelvindass.github.io/depictions/com.brkr1.tweaks.spotiqueue.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-brkr1-tweaks-spotiqueue-icon-1791105246.png
 Filename: debs/SpotiQueue v2.0.deb
 Size: 102168
@@ -545,9 +579,11 @@ Section: Tweaks
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: mobilesubstrate, firmware (>= 17.0), firmware (<< 18.0)
-Description: Opens Spotify's library list once per cold launch. Rootless iOS 17.
+Description: Opens Spotify's library list once per cold launch. Rootless iOS 17. · Spotify V9.1.88 + Eevee V7.0.0
 Conflicts: com.xelahot.spotifyopensonplaylists
 Replaces: com.xelahot.spotifyopensonplaylists
+Depiction: https://imkelvindass.github.io/package.html?id=local.spotify-open-playlists
+SileoDepiction: https://imkelvindass.github.io/depictions/local.spotify-open-playlists.json
 Icon: https://imkelvindass.github.io/assets/package-icons/local-spotify-open-playlists-icon-1791544892.png
 Filename: debs/Spotify Opens On Playlists v2.0.deb
 Size: 7264
@@ -556,16 +592,16 @@ SHA256: bcc132213337e10c1bc22ce1223f60c8b46156a850aa5d9f2b1b17655cf8a417
 
 Package: com.tng.jbbypass
 Name: TNG JB BYPASS
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · TNG V1.9.18
 Maintainer: Kelvin
 Author: KiLlErZoN3
 Section: Bypass
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
-SileoDepiction: https://imkelvindass.github.io/package.html?id=com.tng.jbbypass
-Depiction: https://imkelvindass.github.io/package.html?id=com.tng.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 340
+Depiction: https://imkelvindass.github.io/package.html?id=com.tng.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.tng.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-tng-jbbypass-icon-1788437593.png
 Filename: debs/TNG_1.0_iphoneos-arm64.deb
 Size: 12230
@@ -580,8 +616,10 @@ Section: Bypass
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · Teams V8.16.3
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.teamslocaldetectionbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.teamslocaldetectionbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-teamslocaldetectionbypass-icon-1790021800.png
 Filename: debs/TeamsBypass_1.0_iphoneos-arm64.deb
 Size: 2948
@@ -599,6 +637,8 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, oldabi (>= 2.0.1) 
 Description: Thin outlines and soft glow for Control Center modules and expanded panels
 Conflicts: togglow
 Replaces: togglow
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.togglow
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.togglow.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-togglow-icon-1791554073.png
 Filename: debs/Togglow v1.0.deb
 Size: 288020
@@ -613,8 +653,10 @@ Section: Bypass
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · UKG V5.7.4
 Installed-Size: 168
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.ukgprobypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.ukgprobypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-ukgprobypass-icon-1788621121.png
 Filename: debs/UKG_1.0_iphoneos-arm64.deb
 Size: 6488
@@ -630,6 +672,8 @@ Author: NoisyFlake
 Maintainer: Kelvin
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Description: Customizable notification experience
+Depiction: https://imkelvindass.github.io/package.html?id=com.noisyflake.velvet2
+SileoDepiction: https://imkelvindass.github.io/depictions/com.noisyflake.velvet2.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-noisyflake-velvet2-icon-1791104796.png
 Filename: debs/Velvet2.deb
 Size: 105484
@@ -638,18 +682,18 @@ SHA256: dfb511419b9f85174ca52cafe04e74745be9bee4fa86f233e9ad0c2b5fed1980
 
 Package: com.venngo.jbbypass
 Name: Venngo JB BYPASS
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · Venngo V3.4.6
 Maintainer: Kelvin
 Author: KiLlErZoN3
 Section: Bypass
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.kelvindass.venngobypass
 Replaces: com.kelvindass.venngobypass
-SileoDepiction: https://imkelvindass.github.io/package.html?id=com.venngo.jbbypass
-Depiction: https://imkelvindass.github.io/package.html?id=com.venngo.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.venngo.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.venngo.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-venngo-jbbypass-icon-1788731286.png
 Filename: debs/Venngo_1.0_iphoneos-arm64.deb
 Size: 3268
@@ -664,8 +708,10 @@ Section: IAP
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: ellekit
-Description: Pro Unlocked
+Description: Pro Unlocked · Watchapp+ V2.9.0
 Installed-Size: 56
+Depiction: https://imkelvindass.github.io/package.html?id=com.codex.watchapp.protest
+SileoDepiction: https://imkelvindass.github.io/depictions/com.codex.watchapp.protest.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-codex-watchapp-protest-icon-1792420255.png
 Filename: debs/WatchAppPro_1.0_iphoneos-arm64.deb
 Size: 3208
@@ -674,16 +720,16 @@ SHA256: ae5a9a7d915aa1cdcc1ed727db837398f4381059723e918f9f0b26f26c1baff4
 
 Package: com.whatsup.jbbypass
 Name: What's up JB BYPASS
-Description: Jailbreak Detection Bypass
+Description: Jailbreak Detection Bypass · What's up V4.66.2
 Maintainer: Kelvin
 Author: KiLlErZoN3
 Section: Bypass
 Depends: mobilesubstrate (>= 0.9.5000)
-SileoDepiction: https://imkelvindass.github.io/package.html?id=com.whatsup.jbbypass
-Depiction: https://imkelvindass.github.io/package.html?id=com.whatsup.jbbypass
 Architecture: iphoneos-arm64
 Version: 1.0
 Installed-Size: 56
+Depiction: https://imkelvindass.github.io/package.html?id=com.whatsup.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.whatsup.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-whatsup-jbbypass-icon-1788446430.png
 Filename: debs/WhatsUp_1.0_iphoneos-arm64.deb
 Size: 2396
@@ -698,7 +744,9 @@ Section: Tweaks
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: firmware (>= 17.0), firmware (<< 18.0), mobilesubstrate, com.opa334.libsandy (>= 1.1.6)
-Description: Native YouTube playback queue in Control Center and on the Lock Screen
+Description: Native YouTube playback queue in Control Center and on the Lock Screen · Youtube V21.40.5
+Depiction: https://imkelvindass.github.io/package.html?id=local.youtube-queue
+SileoDepiction: https://imkelvindass.github.io/depictions/local.youtube-queue.json
 Icon: https://imkelvindass.github.io/assets/package-icons/local-youtube-queue-icon-1791545743.png
 Filename: debs/YouTube Queue v1.0.1.deb
 Size: 57964
@@ -713,8 +761,10 @@ Section: IAP
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: ellekit
-Description: Premium Unlocked
+Description: Premium Unlocked · Windy V51.030124.24510302
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.codex.windy.localtiertest
+SileoDepiction: https://imkelvindass.github.io/depictions/com.codex.windy.localtiertest.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-codex-windy-localtiertest-icon-1792429017.png
 Filename: debs/com.codex.windy.localtiertest_1.0_iphoneos-arm64.deb
 Size: 3524
@@ -729,8 +779,10 @@ Section: IAP
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: firmware (>= 16.4), ellekit
-Description: Ad-Removed
+Description: Ad-Removed · 365Scores V6.7.0
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvin.365scorespro
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvin.365scorespro.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-365scorespro-icon-1792760085.png
 Filename: debs/com.kelvin.365scorespro_1.0_iphoneos-arm64.deb
 Size: 3464
@@ -745,8 +797,10 @@ Section: IAP
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: firmware (>= 16.0), ellekit
-Description: Captain Unlocked
+Description: Captain Unlocked · Aeroweather V3.16.2
 Installed-Size: 76
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvin.aeroweathercaptain
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvin.aeroweathercaptain.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-aeroweathercaptain-icon-1792421210.png
 Filename: debs/com.kelvin.aeroweathercaptain_1.0_iphoneos-arm64.deb
 Size: 5092
@@ -761,8 +815,10 @@ Section: IAP
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: firmware (>= 15.6), ellekit
-Description: VIP Unlocked
+Description: VIP Unlocked · Audio Editor - Music Mixer V5.86
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvin.audioeditorpro
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvin.audioeditorpro.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-audioeditorpro-icon-1792430011.png
 Filename: debs/com.kelvin.audioeditorpro_1.0_iphoneos-arm64.deb
 Size: 3196
@@ -777,10 +833,12 @@ Section: IAP
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: firmware (>= 15.0), ellekit
-Description: Pro Max Unlocked
+Description: Pro Max Unlocked · Carrot V6.9.2
 Conflicts: com.codex.carrot.localtest
 Installed-Size: 72
 Replaces: com.codex.carrot.localtest
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvin.carrotpromax
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvin.carrotpromax.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-carrotpromax-icon-1792540426.png
 Filename: debs/com.kelvin.carrotpromax_1.0_iphoneos-arm64.deb
 Size: 3444
@@ -795,8 +853,10 @@ Section: IAP
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: firmware (>= 17.0), ellekit
-Description: All Unlocked
+Description: All Unlocked · Dirty Game V6.0.2
 Installed-Size: 76
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvin.dirtygamepro
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvin.dirtygamepro.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-dirtygamepro-icon-1792760823.png
 Filename: debs/com.kelvin.dirtygamepro_1.0_iphoneos-arm64.deb
 Size: 4800
@@ -811,8 +871,10 @@ Section: IAP
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: firmware (>= 15.0), ellekit
-Description: Unlmited Gems, Passes and Gumball Tokens
+Description: Unlmited Gems, Passes and Gumball Tokens · Episode V27.10
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvin.episodevip
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvin.episodevip.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-episodevip-icon-1792759781.png
 Filename: debs/com.kelvin.episodevip_1.0_iphoneos-arm64.deb
 Size: 4280
@@ -831,6 +893,8 @@ Description: Beautiful Lockscreen Notifications
 Conflicts: de.janis.glance
 Installed-Size: 1500
 Replaces: de.janis.glance
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvin.glancereborn
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvin.glancereborn.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-glancereborn-icon-1792418922.png
 Filename: debs/com.kelvin.glancereborn_1.0_iphoneos-arm64.deb
 Size: 293752
@@ -845,8 +909,10 @@ Section: IAP
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: firmware (>= 15.0), ellekit
-Description: Pro Unlocked
+Description: Pro Unlocked · LogTen V2026.3.3
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvin.logtenpro
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvin.logtenpro.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-logtenpro-icon-1792759349.png
 Filename: debs/com.kelvin.logtenpro_1.0_iphoneos-arm64.deb
 Size: 3360
@@ -861,8 +927,10 @@ Section: IAP
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: firmware (>= 17.0), ellekit
-Description: MUTV Unlocked
+Description: MUTV Unlocked · Man Utd V27.1.0
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvin.manutdpro
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvin.manutdpro.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-manutdpro-icon-1792760679.png
 Filename: debs/com.kelvin.manutdpro_1.0_iphoneos-arm64.deb
 Size: 5164
@@ -877,8 +945,10 @@ Section: IAP
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: firmware (>= 15.0), ellekit
-Description: Premium Unlocked
+Description: Premium Unlocked · SwipeWipe V3.2.45
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvin.swipewipepro
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvin.swipewipepro.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-swipewipepro-icon-1792760246.png
 Filename: debs/com.kelvin.swipewipepro_1.0_iphoneos-arm64.deb
 Size: 3460
@@ -893,8 +963,10 @@ Section: IAP
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: firmware (>= 15.6), ellekit
-Description: Unlimited Gold and All Parks Unlocked
+Description: Unlimited Gold and All Parks Unlocked · TrueSkate V1.6.11
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvin.trueskatepro
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvin.trueskatepro.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-trueskatepro-icon-1792760410.png
 Filename: debs/com.kelvin.trueskatepro_1.0_iphoneos-arm64.deb
 Size: 3996
@@ -909,8 +981,10 @@ Section: IAP
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: firmware (>= 15.0), ellekit
-Description: Premium Unlocked
+Description: Premium Unlocked · Truth Or Dare V6.9.3
 Installed-Size: 72
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvin.truthordarepro
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvin.truthordarepro.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-truthordarepro-icon-1792539989.png
 Filename: debs/com.kelvin.truthordarepro_1.0_iphoneos-arm64.deb
 Size: 3320
@@ -925,8 +999,10 @@ Section: IAP
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: firmware (>= 15.1), ellekit
-Description: Premium Unlocked
+Description: Premium Unlocked · Wingman V1.8.8
 Installed-Size: 76
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvin.wingmanpro
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvin.wingmanpro.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-wingmanpro-icon-1792421756.png
 Filename: debs/com.kelvin.wingmanpro_1.0_iphoneos-arm64.deb
 Size: 5936
@@ -943,6 +1019,8 @@ Maintainer: Kelvin
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
 Description: Hides the Microphone Mode and Video Effects modules in Control Center on rootless jailbreaks
 Installed-Size: 168
+Depiction: https://imkelvindass.github.io/package.html?id=hideavcontrols
+SileoDepiction: https://imkelvindass.github.io/depictions/hideavcontrols.json
 Icon: https://imkelvindass.github.io/assets/package-icons/hideavcontrols-icon-1792417758.png
 Filename: debs/hideavcontrols_1.0_iphoneos-arm64.deb
 Size: 4712
@@ -957,10 +1035,12 @@ Section: IAP
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: ellekit
-Description: Pro Unlocked
+Description: Pro Unlocked · Windy.app V15.8.4
 Conflicts: com.codex.windyapp.protest
 Installed-Size: 72
 Replaces: com.codex.windyapp.protest
+Depiction: https://imkelvindass.github.io/package.html?id=com.codex.windypro
+SileoDepiction: https://imkelvindass.github.io/depictions/com.codex.windypro.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-codex-windypro-icon-1792420609.png
 Filename: debs/windyPro_1.0_iphoneos-arm64.deb
 Size: 3288

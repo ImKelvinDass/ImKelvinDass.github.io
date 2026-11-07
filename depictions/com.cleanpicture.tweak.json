@@ -1,0 +1,76 @@
+{
+ "minVersion": "0.1",
+ "class": "DepictionTabView",
+ "tintColor": "#45dcff",
+ "tabs": [
+  {
+   "tabname": "Details",
+   "class": "DepictionStackView",
+   "views": [
+    {
+     "class": "DepictionSubheaderView",
+     "title": "Select clean pictures and use them as camera captures in supported apps",
+     "useBoldText": true,
+     "useBottomMargin": true
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Compatibility",
+     "text": "IOS 17"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Version",
+     "text": "1.1"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Developer",
+     "text": "KiLlErZoN3"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Category",
+     "text": "Tweaks"
+    },
+    {
+     "class": "DepictionSeparatorView"
+    },
+    {
+     "class": "DepictionHeaderView",
+     "title": "About this tweak"
+    },
+    {
+     "class": "DepictionMarkdownView",
+     "markdown": "FakePictures alternative. Request for apps",
+     "useSpacing": true
+    },
+    {
+     "class": "DepictionTableButtonView",
+     "title": "View on website",
+     "action": "https://imkelvindass.github.io/package.html?id=com.cleanpicture.tweak",
+     "openExternal": true
+    }
+   ]
+  },
+  {
+   "tabname": "Changelog",
+   "class": "DepictionStackView",
+   "views": [
+    {
+     "class": "DepictionHeaderView",
+     "title": "v1.1"
+    },
+    {
+     "class": "DepictionSubheaderView",
+     "title": "10 Sep 2026"
+    },
+    {
+     "class": "DepictionMarkdownView",
+     "markdown": "Supported all picture size",
+     "useSpacing": true
+    }
+   ]
+  }
+ ]
+}

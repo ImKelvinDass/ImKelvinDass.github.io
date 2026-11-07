@@ -35,6 +35,7 @@
     },
     "com.bookdoc.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/bookdoc-ai-health-companion/id1037726744",
+      "appVersion" : "BookDoc V3.55.17",
       "changelog" : "Version 3.55.17",
       "changelogHistory" : [
         {
@@ -55,6 +56,7 @@
     },
     "com.briorhr.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/briohr/id1484448446",
+      "appVersion" : "BriorHR V2.10.0",
       "changelog" : "Version 2.10.0 ",
       "changelogHistory" : [
         {
@@ -76,6 +78,7 @@
     },
     "com.brkr1.tweaks.spotilovereborn" : {
       "appStoreURL" : "https://apps.apple.com/app/spotify-music-and-podcasts/id324684580",
+      "appVersion" : "Spotify V9.1.88 + Eevee V7.0.0",
       "changelog" : "Spotify V9.1.88 + Eevee V7.0.0",
       "changelogHistory" : [
         {
@@ -101,6 +104,7 @@
     },
     "com.brkr1.tweaks.spotiqueue" : {
       "appStoreURL" : "https://apps.apple.com/app/spotify-music-and-podcasts/id324684580",
+      "appVersion" : "Spotify V9.1.88 + Eevee V7.0.0",
       "changelog" : "Spotify V9.1.88 + Eevee V7.0.0",
       "changelogHistory" : [
         {
@@ -126,6 +130,7 @@
     },
     "com.celcomdigi.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/celcomdigi/id6482219793",
+      "appVersion" : "CelcomDigi V1.1.5",
       "changelog" : "Version 1.1.5",
       "changelogHistory" : [
         {
@@ -146,6 +151,7 @@
     },
     "com.cimb.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/cimb-octo-my/id1591184221",
+      "appVersion" : "CIMB V1.10.2",
       "bannerImage" : "assets/package-banners/com-cimb-jbbypass-banner-1788768892.jpg",
       "changelog" : "Version 1.10.2",
       "changelogHistory" : [
@@ -188,6 +194,7 @@
     },
     "com.codex.fr24.goldsessiontest" : {
       "appStoreURL" : "https://apps.apple.com/app/flightradar24-flight-tracker/id382233851",
+      "appVersion" : "Flight Radar V11.13.0",
       "changelog" : "Flight Radar V11.13.0",
       "changelogHistory" : [
         {
@@ -208,6 +215,7 @@
     },
     "com.codex.rainalarm.sk2test" : {
       "appStoreURL" : "https://apps.apple.com/app/rain-alarm/id397676100",
+      "appVersion" : "Rain Alarm V5.5.0",
       "changelog" : "Rain Alarm V5.5.0",
       "changelogHistory" : [
         {
@@ -228,6 +236,7 @@
     },
     "com.codex.watchapp.protest" : {
       "appStoreURL" : "https://apps.apple.com/app/watchapp-for-whatsapp/id1530602007",
+      "appVersion" : "Watchapp+ V2.9.0",
       "changelog" : "Watchapp+ V2.9.0",
       "changelogHistory" : [
         {
@@ -248,6 +257,7 @@
     },
     "com.codex.windy.localtiertest" : {
       "appStoreURL" : "https://apps.apple.com/app/windy-com/id1161387262",
+      "appVersion" : "Windy V51.030124.24510302",
       "changelog" : "Windy V51.030124.24510302",
       "changelogHistory" : [
         {
@@ -268,6 +278,7 @@
     },
     "com.codex.windypro" : {
       "appStoreURL" : "https://apps.apple.com/app/windy-app-wind-tides-radar/id997079492",
+      "appVersion" : "Windy.app V15.8.4",
       "changelog" : "Windy.app V15.8.4",
       "changelogHistory" : [
         {
@@ -288,6 +299,7 @@
     },
     "com.coopsanjose.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/coopsanjos%C3%A9-en-l%C3%ADnea/id1671844443",
+      "appVersion" : "CoopSanJose V4.7.1",
       "bannerImage" : "assets/package-banners/com-coopsanjose-jbbypass-banner-1788768962.jpg",
       "changelog" : "Version 4.7.1",
       "changelogHistory" : [
@@ -311,6 +323,7 @@
     },
     "com.detik.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/detikcom-berita-terlengkap/id442914988",
+      "appVersion" : "Detik V7.12.0",
       "changelog" : "Version 7.12.0",
       "changelogHistory" : [
         {
@@ -331,6 +344,7 @@
     },
     "com.gmail.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/gmail-email-by-google/id422689480",
+      "appVersion" : "Gmail V6.0.260330",
       "changelog" : "Version 6.0.260330",
       "changelogHistory" : [
         {
@@ -351,6 +365,7 @@
     },
     "com.kelvin.365scorespro" : {
       "appStoreURL" : "https://apps.apple.com/app/365scores-live-scores-data/id571801488",
+      "appVersion" : "365Scores V6.7.0",
       "changelog" : "365Scores V6.7.0",
       "changelogHistory" : [
         {
@@ -371,6 +386,7 @@
     },
     "com.kelvin.aeroweathercaptain" : {
       "appStoreURL" : "https://apps.apple.com/app/aeroweather-pro/id378120971",
+      "appVersion" : "Aeroweather V3.16.2",
       "changelog" : "Aeroweather V3.16.2",
       "changelogHistory" : [
         {
@@ -391,6 +407,7 @@
     },
     "com.kelvin.audioeditorpro" : {
       "appStoreURL" : " https://apps.apple.com/app/audio-editor-music-mixer/id1345937284",
+      "appVersion" : "Audio Editor - Music Mixer V5.86",
       "changelog" : "Audio Editor - Music Mixer V5.86",
       "changelogHistory" : [
         {
@@ -411,6 +428,7 @@
     },
     "com.kelvin.carrotpromax" : {
       "appStoreURL" : "https://apps.apple.com/app/carrot-weather-alerts-radar/id961390574",
+      "appVersion" : "Carrot V6.9.2",
       "changelog" : "Carrot V6.9.2",
       "changelogHistory" : [
         {
@@ -432,6 +450,7 @@
     },
     "com.kelvin.dirtygamepro" : {
       "appStoreURL" : "https://apps.apple.com/app/dirty-game-hot-truth-or-dare/id468667433",
+      "appVersion" : "Dirty Game V6.0.2",
       "changelog" : "Dirty Game V6.0.2",
       "changelogHistory" : [
         {
@@ -452,6 +471,7 @@
     },
     "com.kelvin.episodevip" : {
       "appStoreURL" : "https://apps.apple.com/app/episode-choose-your-story/id656971078",
+      "appVersion" : "Episode V27.10",
       "changelog" : "Episode V27.10",
       "changelogHistory" : [
         {
@@ -491,6 +511,7 @@
     },
     "com.kelvin.logtenpro" : {
       "appStoreURL" : "https://apps.apple.com/app/logten-pilot-logbook/id837274884",
+      "appVersion" : "LogTen V2026.3.3",
       "changelog" : "LogTen V2026.3.3",
       "changelogHistory" : [
         {
@@ -529,6 +550,7 @@
     },
     "com.kelvin.manutdpro" : {
       "appStoreURL" : "https://apps.apple.com/app/manchester-united-official-app/id785339538",
+      "appVersion" : "Man Utd V27.1.0",
       "changelog" : "Man Utd V27.1.0",
       "changelogHistory" : [
         {
@@ -549,6 +571,7 @@
     },
     "com.kelvin.swipewipepro" : {
       "appStoreURL" : "https://apps.apple.com/app/swipewipe-photo-cleaner/id1583884012",
+      "appVersion" : "SwipeWipe V3.2.45",
       "changelog" : "SwipeWipe V3.2.45",
       "changelogHistory" : [
         {
@@ -569,6 +592,7 @@
     },
     "com.kelvin.trueskatepro" : {
       "appStoreURL" : "https://apps.apple.com/app/true-skate/id549105915",
+      "appVersion" : "TrueSkate V1.6.11",
       "changelog" : "TrueSkate V1.6.11",
       "changelogHistory" : [
         {
@@ -589,6 +613,7 @@
     },
     "com.kelvin.truthordarepro" : {
       "appStoreURL" : "https://apps.apple.com/app/truth-or-dare-group-game/id1548928674",
+      "appVersion" : "Truth Or Dare V6.9.3",
       "changelog" : "Truth Or Dare V6.9.3",
       "changelogHistory" : [
         {
@@ -609,6 +634,7 @@
     },
     "com.kelvin.wingmanpro" : {
       "appStoreURL" : "https://apps.apple.com/app/wingman-crew-roster/id6742027238",
+      "appVersion" : "Wingman V1.8.8",
       "changelog" : "Wingman V1.8.8",
       "changelogHistory" : [
         {
@@ -629,6 +655,7 @@
     },
     "com.kelvindass.aeonwalletbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/aeon-wallet-malaysia/id1371474291",
+      "appVersion" : "AEON Wallet V3.19.7",
       "changelog" : "Version  3.19.7",
       "changelogHistory" : [
         {
@@ -650,6 +677,7 @@
     },
     "com.kelvindass.affinalwayscompatibility" : {
       "appStoreURL" : "https://apps.apple.com/app/affinalwaysx/id6736671432",
+      "appVersion" : "AffinAlwaysX V1.3.8",
       "changelog" : "Version 1.3.8",
       "changelogHistory" : [
         {
@@ -670,6 +698,7 @@
     },
     "com.kelvindass.banreservasbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/banreservas/id1170610154",
+      "appVersion" : "Banreservas V8.0.0",
       "changelog" : "Version 8.0.0",
       "changelogHistory" : [
         {
@@ -696,6 +725,7 @@
     },
     "com.kelvindass.capcutjbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/capcut-photo-video-editor/id1500855883",
+      "appVersion" : "Capcut V19.7.0",
       "changelog" : "Capcut V19.7.0",
       "changelogHistory" : [
         {
@@ -734,6 +764,7 @@
     },
     "com.kelvindass.gxbankbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/gxbank/id6454673510",
+      "appVersion" : "GXBank V2.37.0",
       "changelog" : "Version 2.37.0",
       "changelogHistory" : [
         {
@@ -754,6 +785,7 @@
     },
     "com.kelvindass.hsbccompatibility" : {
       "appStoreURL" : "https://apps.apple.com/app/hsbc-malaysia/id1437876264",
+      "appVersion" : "HSBC Malaysia V3.74.31",
       "changelog" : "Version 3.74.31",
       "changelogHistory" : [
         {
@@ -775,6 +807,7 @@
     },
     "com.kelvindass.mydigitalidbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/mydigital-id/id1435289143",
+      "appVersion" : "MyDigital Id V2.10.0",
       "changelog" : "Version 2.10.0",
       "changelogHistory" : [
         {
@@ -795,6 +828,7 @@
     },
     "com.kelvindass.outlooklocaldetectionbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/microsoft-outlook/id951937596",
+      "appVersion" : "Outlook V4.2535.0",
       "changelog" : "Version 4.2535.0",
       "changelogHistory" : [
         {
@@ -815,6 +849,7 @@
     },
     "com.kelvindass.teamslocaldetectionbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/microsoft-teams/id1113153706",
+      "appVersion" : "Teams V8.16.3",
       "changelog" : "Version 8.16.3 ",
       "changelogHistory" : [
         {
@@ -854,6 +889,7 @@
     },
     "com.kelvindass.ukgprobypass" : {
       "appStoreURL" : "https://apps.apple.com/app/ukg-pro/id6445849909",
+      "appVersion" : "UKG V5.7.4",
       "bannerImage" : "assets/package-banners/com-kelvindass-ukgprobypass-banner-1788768864.jpg",
       "changelog" : "Version 5.7.4",
       "changelogHistory" : [
@@ -877,6 +913,7 @@
     },
     "com.kwsp.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/kwsp-i-akaun/id1660153573",
+      "appVersion" : "KWSP V4.10.2",
       "bannerImage" : "assets/package-banners/com-kwsp-jbbypass-banner-1788768489.jpg",
       "changelog" : "Version 4.10.2",
       "changelogHistory" : [
@@ -900,6 +937,7 @@
     },
     "com.mae.ccjbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/mae-by-maybank2u/id1481028763",
+      "appVersion" : "MAE CC V0.9.50",
       "bannerImage" : "assets/package-banners/com-mae-ccjbbypass-banner-1788768844.jpg",
       "changelog" : "Version 0.9.50",
       "changelogHistory" : [
@@ -923,6 +961,7 @@
     },
     "com.mae.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/mae-by-maybank2u/id1481028763",
+      "appVersion" : "MAE V0.9.50",
       "bannerImage" : "assets/package-banners/com-mae-jbbypass-banner-1788768761.jpg",
       "changelog" : "Version 0.9.50",
       "changelogHistory" : [
@@ -946,6 +985,7 @@
     },
     "com.mcdonalds.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/mcdonalds/id1217507712",
+      "appVersion" : "McDonalds V3.50.0",
       "changelog" : "Version 3.50.0",
       "changelogHistory" : [
         {
@@ -966,6 +1006,7 @@
     },
     "com.mobills.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/mobills-budget-planner/id921838244",
+      "appVersion" : "Mobills V6.21.1",
       "changelog" : "Version 6.21.1",
       "changelogHistory" : [
         {
@@ -986,6 +1027,7 @@
     },
     "com.mywe.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/my-we/id1413151505",
+      "appVersion" : "MYWE V8.7",
       "bannerImage" : "assets/package-banners/com-mywe-jbbypass-banner-1788768721.jpg",
       "changelog" : "Version 8.7",
       "changelogHistory" : [
@@ -1028,6 +1070,7 @@
     },
     "com.pichincha.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/pichincha-banca-movil/id999191728",
+      "appVersion" : "Pichincha V15.0.0",
       "changelog" : "Version 15.0.0",
       "changelogHistory" : [
         {
@@ -1048,6 +1091,7 @@
     },
     "com.ptv.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/public-transport-victoria-app/id318696180",
+      "appVersion" : "PTV V5.6.0",
       "changelog" : "Version 5.6.0",
       "changelogHistory" : [
         {
@@ -1068,6 +1112,7 @@
     },
     "com.ring.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/ring-always-home/id926252661",
+      "appVersion" : "Ring V5.112.0",
       "changelog" : "Version 5.112.0",
       "changelogHistory" : [
         {
@@ -1088,6 +1133,7 @@
     },
     "com.tng.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/touch-n-go-ewallet/id1344696702",
+      "appVersion" : "TNG V1.9.18",
       "bannerImage" : "assets/package-banners/com-tng-jbbypass-banner-1788768919.jpg",
       "changelog" : "Version 1.9.18",
       "changelogHistory" : [
@@ -1112,6 +1158,7 @@
     },
     "com.venngo.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/venngo/id522452356",
+      "appVersion" : "Venngo V3.4.6",
       "changelog" : "Version 3.4.6",
       "changelogHistory" : [
         {
@@ -1132,6 +1179,7 @@
     },
     "com.whatsup.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/whats-up/id535247768",
+      "appVersion" : "What's up V4.66.2",
       "changelog" : "Version 4.66.2",
       "changelogHistory" : [
         {
@@ -1198,6 +1246,7 @@
     },
     "local.spotify-open-playlists" : {
       "appStoreURL" : "https://apps.apple.com/app/spotify-music-and-podcasts/id324684580",
+      "appVersion" : "Spotify V9.1.88 + Eevee V7.0.0",
       "changelog" : "Spotify V9.1.88 + Eevee V7.0.0",
       "changelogHistory" : [
         {
@@ -1218,6 +1267,7 @@
     },
     "local.youtube-queue" : {
       "appStoreURL" : "https://apps.apple.com/app/youtube/id544007664",
+      "appVersion" : "Youtube V21.40.5",
       "changelog" : "Youtube V21.40.5",
       "changelogHistory" : [
         {

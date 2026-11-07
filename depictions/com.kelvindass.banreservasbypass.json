@@ -1,0 +1,103 @@
+{
+ "minVersion": "0.1",
+ "class": "DepictionTabView",
+ "tintColor": "#45dcff",
+ "tabs": [
+  {
+   "tabname": "Details",
+   "class": "DepictionStackView",
+   "views": [
+    {
+     "class": "DepictionSubheaderView",
+     "title": "Jailbreak Detection Bypass",
+     "useBoldText": true,
+     "useBottomMargin": true
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "App version",
+     "text": "Banreservas V8.0.0"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Compatibility",
+     "text": "IOS 17"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Version",
+     "text": "3.0"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Developer",
+     "text": "KiLlErZoN3"
+    },
+    {
+     "class": "DepictionTableTextView",
+     "title": "Category",
+     "text": "Bypass"
+    },
+    {
+     "class": "DepictionSeparatorView"
+    },
+    {
+     "class": "DepictionHeaderView",
+     "title": "About this tweak"
+    },
+    {
+     "class": "DepictionMarkdownView",
+     "markdown": "Tested and Working",
+     "useSpacing": true
+    },
+    {
+     "class": "DepictionSeparatorView"
+    },
+    {
+     "class": "DepictionTableButtonView",
+     "title": "Open in App Store",
+     "action": "https://apps.apple.com/app/banreservas/id1170610154",
+     "openExternal": true
+    },
+    {
+     "class": "DepictionTableButtonView",
+     "title": "View on website",
+     "action": "https://imkelvindass.github.io/package.html?id=com.kelvindass.banreservasbypass",
+     "openExternal": true
+    }
+   ]
+  },
+  {
+   "tabname": "Changelog",
+   "class": "DepictionStackView",
+   "views": [
+    {
+     "class": "DepictionHeaderView",
+     "title": "v3.0"
+    },
+    {
+     "class": "DepictionSubheaderView",
+     "title": "31 Oct 2026"
+    },
+    {
+     "class": "DepictionMarkdownView",
+     "markdown": "Version 8.0.0",
+     "useSpacing": true
+    },
+    {
+     "class": "DepictionHeaderView",
+     "title": "v2.0"
+    },
+    {
+     "class": "DepictionSubheaderView",
+     "title": "21 Oct 2026"
+    },
+    {
+     "class": "DepictionMarkdownView",
+     "markdown": "Version 7.1.0",
+     "useSpacing": true
+    }
+   ]
+  }
+ ]
+}
