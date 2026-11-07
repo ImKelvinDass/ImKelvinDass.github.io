@@ -16,7 +16,7 @@
     {
      "class": "DepictionTableTextView",
      "title": "App version",
-     "text": "TNG V1.9.18"
+     "text": "TNG V1.9.22"
     },
     {
      "class": "DepictionTableTextView",
@@ -26,7 +26,7 @@
     {
      "class": "DepictionTableTextView",
      "title": "Version",
-     "text": "1.0"
+     "text": "2.0"
     },
     {
      "class": "DepictionTableTextView",
@@ -71,6 +71,19 @@
    "tabname": "Changelog",
    "class": "DepictionStackView",
    "views": [
+    {
+     "class": "DepictionHeaderView",
+     "title": "v2.0"
+    },
+    {
+     "class": "DepictionSubheaderView",
+     "title": "8 Nov 2026"
+    },
+    {
+     "class": "DepictionMarkdownView",
+     "markdown": "Version 1.9.22",
+     "useSpacing": true
+    },
     {
      "class": "DepictionHeaderView",
      "title": "v1.0"

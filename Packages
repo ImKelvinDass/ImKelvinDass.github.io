@@ -556,21 +556,21 @@ SHA256: bcc132213337e10c1bc22ce1223f60c8b46156a850aa5d9f2b1b17655cf8a417
 
 Package: com.tng.jbbypass
 Name: TNG JB BYPASS
-Description: Jailbreak Detection Bypass · TNG V1.9.18
-Maintainer: Kelvin
-Author: KiLlErZoN3
-Section: Bypass
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
+Version: 2.0
 Architecture: iphoneos-arm64
-Version: 1.0
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport
+Description: Jailbreak Detection Bypass · TNG V1.9.22
 Installed-Size: 340
 Depiction: https://imkelvindass.github.io/package.html?id=com.tng.jbbypass
 SileoDepiction: https://imkelvindass.github.io/depictions/com.tng.jbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-tng-jbbypass-icon-1788437593.png
 Filename: debs/TNG_1.0_iphoneos-arm64.deb
-Size: 12230
-MD5sum: 6043a31ad74c7328c9b9fba6c7139e5d
-SHA256: a68828ab234e3fcbd999ef1fbdca1784d65ff2211cac89e392e9274668016b61
+Size: 12292
+MD5sum: e6d2a470d7a3a2fb0f842422e40f49d7
+SHA256: 7d8fc97ee5cb697e11ae634262fe8d4afdc818888f4446dd621fea646bdcde33
 
 Package: com.kelvindass.teamslocaldetectionbypass
 Name: Teams JB Bypass

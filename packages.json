@@ -1403,19 +1403,24 @@
   {
     "id": "com.tng.jbbypass",
     "name": "TNG JB BYPASS",
-    "version": "1.0",
+    "version": "2.0",
     "architecture": "iphoneos-arm64",
     "author": "KiLlErZoN3",
     "section": "Bypass",
     "depends": "mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/TNG_1.0_iphoneos-arm64.deb",
-    "size": 12230,
-    "uploadedAt": "2026-09-02T21:13:06+00:00",
+    "size": 12292,
+    "uploadedAt": "2026-11-07T20:29:57.610574+00:00",
     "appStoreURL": "https://apps.apple.com/app/touch-n-go-ewallet/id1344696702",
-    "appVersion": "TNG V1.9.18",
-    "changelog": "Version 1.9.18",
+    "appVersion": "TNG V1.9.22",
+    "changelog": "Version 1.9.22",
     "changelogHistory": [
+      {
+        "date": "8 Nov 2026",
+        "notes": "Version 1.9.22",
+        "version": "2.0"
+      },
       {
         "date": "21 Oct 2026",
         "notes": "Version 1.9.18",

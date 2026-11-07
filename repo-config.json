@@ -1138,10 +1138,15 @@
     },
     "com.tng.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/touch-n-go-ewallet/id1344696702",
-      "appVersion" : "TNG V1.9.18",
+      "appVersion" : "TNG V1.9.22",
       "bannerImage" : "assets/package-banners/com-tng-jbbypass-banner-1788768919.jpg",
-      "changelog" : "Version 1.9.18",
+      "changelog" : "Version 1.9.22",
       "changelogHistory" : [
+        {
+          "date" : "8 Nov 2026",
+          "notes" : "Version 1.9.22",
+          "version" : "2.0"
+        },
         {
           "date" : "21 Oct 2026",
           "notes" : "Version 1.9.18",
