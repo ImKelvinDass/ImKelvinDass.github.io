@@ -961,10 +961,15 @@
     },
     "com.mae.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/mae-by-maybank2u/id1481028763",
-      "appVersion" : "MAE V0.9.50",
+      "appVersion" : "MAE V0.9.52",
       "bannerImage" : "assets/package-banners/com-mae-jbbypass-banner-1788768761.jpg",
-      "changelog" : "Version 0.9.50",
+      "changelog" : "Version 0.9.52",
       "changelogHistory" : [
+        {
+          "date" : "7 Nov 2026",
+          "notes" : "Version 0.9.52",
+          "version" : "2.0"
+        },
         {
           "date" : "21 Oct 2026",
           "notes" : "Version 0.9.50",

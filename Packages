@@ -333,42 +333,6 @@ Size: 62232
 MD5sum: b30738282c15818888798ee6c8199485
 SHA256: 7dae0f5bd6f32371ab8a2f2996dbf6407a0a1e673e781aac5038811b24f0e962
 
-Package: com.mae.ccjbbypass
-Name: MAE CC + JB BYPASS
-Description: Jailbreak Detection Bypass · MAE CC V0.9.50
-Maintainer: Kelvin
-Author: KiLlErZoN3
-Section: Bypass
-Depends: mobilesubstrate, com.opa334.ccsupport
-Architecture: iphoneos-arm64
-Version: 1.0
-Installed-Size: 344
-Depiction: https://imkelvindass.github.io/package.html?id=com.mae.ccjbbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.mae.ccjbbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-mae-ccjbbypass-icon-1788437787.png
-Filename: debs/MAECCJB_1.0_iphoneos-arm64.deb
-Size: 17006
-MD5sum: 4a18325f64f2ddbcf9ae4f114637a5ab
-SHA256: ad0d7974630f1e9c38c1d3dc4b896d034017981fca3cea3ad3c488f1171edfc1
-
-Package: com.mae.jbbypass
-Name: MAE JB BYPASS
-Description: Jailbreak Detection Bypass · MAE V0.9.50
-Maintainer: Kelvin
-Author: KiLlErZoN3
-Section: Bypass
-Depends: mobilesubstrate (>= 0.9.5000)
-Architecture: iphoneos-arm64
-Version: 1.0
-Installed-Size: 72
-Depiction: https://imkelvindass.github.io/package.html?id=com.mae.jbbypass
-SileoDepiction: https://imkelvindass.github.io/depictions/com.mae.jbbypass.json
-Icon: https://imkelvindass.github.io/assets/package-icons/com-mae-jbbypass-icon-1788437779.png
-Filename: debs/MAE_1.0_iphoneos-arm64.deb
-Size: 2338
-MD5sum: 51b718e49e626a64616943cfab2b96ee
-SHA256: 37b33c0d5be0b171eb4170aa84eeb5ffaaa33c9b60bc63883bc1a62457c83c00
-
 Package: com.mywe.jbbypass
 Name: MYWE JB BYPASS
 Description: Jailbreak Detection Bypass · MYWE V8.7
@@ -1026,6 +990,26 @@ Filename: debs/hideavcontrols_1.0_iphoneos-arm64.deb
 Size: 4712
 MD5sum: f50981cdb8c1a9c7ada8802bcdbe46cd
 SHA256: 820a65913abb02d84cd7d88a84b395b7c710fd34229b4b4f9000fc0952d2df65
+
+Package: com.mae.jbbypass
+Name: MAE JB Bypass
+Version: 2.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
+Description: Jailbreak Detection Bypass · MAE V0.9.52
+Conflicts: com.mae.jbbypass.candidate
+Installed-Size: 236
+Replaces: com.mae.jbbypass.candidate
+Depiction: https://imkelvindass.github.io/package.html?id=com.mae.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.mae.jbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-mae-jbbypass-icon-1788437779.png
+Filename: debs/maejbbypass_2.0_iphoneos-arm64.deb
+Size: 12920
+MD5sum: 068d6e277e634f18c4f26a68de3ae72f
+SHA256: 2602ddbb429d1f6df323e5034f07121eb9aa658b9e1eba609896a97ffaf61775
 
 Package: com.codex.windypro
 Name: windy Pro
