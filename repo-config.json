@@ -33,6 +33,27 @@
       "showBannerSileo" : false,
       "tagline" : "Working home Screen layout customization for iOS 17"
     },
+    "com.bancoguayaquil.jbbypass" : {
+      "appStoreURL" : "https://apps.apple.com/app/banco-guayaquil-banca-m%C3%B3vil/id624963066",
+      "appVersion" : "Banco Guayaquil V9.99.47",
+      "changelog" : "Version 9.99.47",
+      "changelogHistory" : [
+        {
+          "date" : "8 Nov 2026",
+          "notes" : "Version 9.99.47",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-bancoguayaquil-jbbypass-icon-1794119230.png",
+      "iconText" : "BA",
+      "longDescription" : "To the guy who requested this tweak.\nPlease send another request with your Telegram contact to discuss about the Deuna App. 🔥🔥🔥\n\nTested and Working",
+      "showBannerSileo" : false,
+      "tagline" : "Jailbreak Detection Bypass"
+    },
     "com.bookdoc.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/bookdoc-ai-health-companion/id1037726744",
       "appVersion" : "BookDoc V3.55.17",

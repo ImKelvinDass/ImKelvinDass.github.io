@@ -61,12 +61,6 @@
     },
     {
      "class": "DepictionTableButtonView",
-     "title": "★ Rate this tweak",
-     "action": "https://imkelvindass.github.io/package.html?id=com.briorhr.jbbypass#rate",
-     "openExternal": true
-    },
-    {
-     "class": "DepictionTableButtonView",
      "title": "View on website",
      "action": "https://imkelvindass.github.io/package.html?id=com.briorhr.jbbypass",
      "openExternal": true
