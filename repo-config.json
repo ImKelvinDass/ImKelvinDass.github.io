@@ -363,6 +363,26 @@
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
+    "com.deuna.jbbypass" : {
+      "appVersion" : "Deuna V5.2.134",
+      "changelog" : "Version 5.2.134",
+      "changelogHistory" : [
+        {
+          "date" : "11 Nov 2026",
+          "notes" : "Version 5.2.134",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-deuna-jbbypass-icon-1794385353.png",
+      "iconText" : "DE",
+      "longDescription" : "Tested and Working",
+      "showBannerSileo" : false,
+      "tagline" : "Jailbreak Detection Bypass"
+    },
     "com.gmail.jbbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/gmail-email-by-google/id422689480",
       "appVersion" : "Gmail V6.0.260330",
@@ -782,6 +802,26 @@
       "iconText" : "CE",
       "longDescription" : "An English, rootless-compatible build of Complications with modern compatibility hooks, corrected preference paths, and respring support for newer jailbreaks including iOS 17.",
       "tagline" : "watchOS-style Lock Screen widgets in English."
+    },
+    "com.kelvindass.deunacompatibility" : {
+      "appVersion" : "Deuna V5.2.134",
+      "changelog" : "Version 5.2.134",
+      "changelogHistory" : [
+        {
+          "date" : "11 Nov 2026",
+          "notes" : "Version 5.2.134",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-kelvindass-deunacompatibility-icon-1794384998.png",
+      "iconText" : "DE",
+      "longDescription" : "Tested and Working",
+      "showBannerSileo" : false,
+      "tagline" : "Jailbreak Detection Bypass"
     },
     "com.kelvindass.gxbankbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/gxbank/id6454673510",

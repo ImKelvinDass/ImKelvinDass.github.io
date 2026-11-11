@@ -298,6 +298,26 @@ Size: 4276
 MD5sum: c06dec25ee10c829f5bd9c2097385772
 SHA256: 23c77f467a993c13145412cf1dc50ca78b96df8acaa831ebc155bb615235fcb9
 
+Package: com.deuna.jbbypass
+Name: Deuna JB Bypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.5)
+Description: Jailbreak Detection Bypass · Deuna V5.2.134
+Conflicts: com.kelvindass.deunacompatibility
+Installed-Size: 168
+Replaces: com.kelvindass.deunacompatibility
+Depiction: https://imkelvindass.github.io/package.html?id=com.deuna.jbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.deuna.jbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-deuna-jbbypass-icon-1794385353.png
+Filename: debs/com.deuna.jbbypass_1.0_iphoneos-arm64.deb
+Size: 6096
+MD5sum: 0cd78fe6c16130dcaa49ceb3318a527f
+SHA256: f1635a59fa781bba2603360e23c2e05bf66157548e274b7ee67158b381cba542
+
 Package: com.gmail.jbbypass
 Name: Gmail JB BYPASS
 Version: 1.0

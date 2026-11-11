@@ -552,6 +552,37 @@
     "tagline": "Jailbreak Detection Bypass"
   },
   {
+    "id": "com.deuna.jbbypass",
+    "name": "Deuna JB Bypass",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "Bypass",
+    "depends": "mobilesubstrate (>= 0.9.5000), firmware (>= 15.5)",
+    "summary": "Jailbreak Detection Bypass",
+    "filename": "debs/com.deuna.jbbypass_1.0_iphoneos-arm64.deb",
+    "size": 6096,
+    "uploadedAt": "2026-11-11T08:21:47.230772+00:00",
+    "appVersion": "Deuna V5.2.134",
+    "changelog": "Version 5.2.134",
+    "changelogHistory": [
+      {
+        "date": "11 Nov 2026",
+        "notes": "Version 5.2.134",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-deuna-jbbypass-icon-1794385353.png",
+    "iconText": "DE",
+    "longDescription": "Tested and Working",
+    "showBannerSileo": false,
+    "tagline": "Jailbreak Detection Bypass"
+  },
+  {
     "id": "com.kelvin.dirtygamepro",
     "name": "Dirty Game Pro",
     "version": "1.0",
