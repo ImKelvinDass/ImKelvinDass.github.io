@@ -21,8 +21,22 @@ document.querySelectorAll('.req-stat').forEach(b=>b.onclick=()=>setFilter(b.data
 const loadIcons=()=>{const need={};for(const r of all){const a=appStore(r.appUrl);if(a&&!icons[a.id])(need[a.country]=need[a.country]||[]).push(a.id)}
 Object.entries(need).forEach(([country,ids],n)=>{const cb=`kz3Icons${n}_${Date.now()}`;window[cb]=data=>{for(const x of data.results||[])icons[x.trackId]=x.artworkUrl100||x.artworkUrl60;try{localStorage.setItem('kz3-req-icons',JSON.stringify(icons))}catch{}render();delete window[cb]};
 const s=document.createElement('script');s.src=`https://itunes.apple.com/lookup?id=${ids.slice(0,150).join(',')}&country=${country}&entity=software&callback=${cb}`;s.onerror=()=>delete window[cb];document.head.appendChild(s)})};
-fetch('repo-config.json').then(r=>r.json()).then(cfg=>{const api=(cfg.site.analyticsAPIURL||'').replace(/\/$/,'');
+fetch('repo-config.json').then(r=>r.json()).then(cfg=>{const api=(cfg.site.analyticsAPIURL||'').replace(/\/$/,'');setupForm(cfg.site,api,()=>fetch(`${api}/requests?t=${Date.now()}`).then(r=>r.json()).then(d=>{all=d.requests||[];const n=s=>all.filter(r=>r.status===s).length;$('n-queue').textContent=n('Requested');$('n-done').textContent=n('Completed');$('n-unable').textContent=n('Unable');render();loadIcons()}).catch(()=>{}));
 return Promise.all([fetch(`${api}/requests`).then(r=>r.json()),fetch('packages.json').then(r=>r.json()).catch(()=>[])])}).then(([data,pk])=>{
 pk.forEach(p=>tweaks[p.id]=p);all=data.requests||[];const n=s=>all.filter(r=>r.status===s).length;
 $('n-queue').textContent=n('Requested');$('n-done').textContent=n('Completed');$('n-unable').textContent=n('Unable');render();loadIcons()})
 .catch(()=>{$('requests').innerHTML='<p class="updates-empty">Couldn’t load the board. Try again in a moment.</p>'})})();
+
+// "Request an app": same form as the homepage, opened right here as a dropdown.
+function setupForm(s,analytics,reload){const $=id=>document.getElementById(id),btn=$('open-request'),panel=$('request-panel'),form=$('request-form');if(!btn||!form)return;
+btn.onclick=()=>{const open=panel.hidden;panel.hidden=!open;btn.setAttribute('aria-expanded',String(open));btn.classList.toggle('is-open',open);if(open)setTimeout(()=>panel.scrollIntoView({behavior:'smooth',block:'start'}),60)};
+const submit=$('request-submit'),status=$('request-status'),endpoint=(s.requestFormURL||'').trim(),inbox=(s.requestInboxEmail||'').trim(),otherRequest=form.elements.request_type_other,otherJailbreak=form.elements.jailbreak_other,publicListing=form.elements.public_listing,appURL=form.elements.app_url;
+const syncFields=()=>{otherRequest.required=form.elements.request_type.value==='Other';otherJailbreak.required=form.elements.jailbreak.value==='Other';appURL.required=publicListing.checked;[otherRequest,otherJailbreak,appURL].forEach(x=>x.classList.toggle('required-other',x.required))};
+form.addEventListener('change',syncFields);syncFields();if(!endpoint&&!inbox){submit.disabled=true;status.textContent='Private request inbox is being configured. Please check back soon.'}
+form.onsubmit=async event=>{event.preventDefault();syncFields();if(!form.reportValidity())return;const data=new FormData(form);if(data.get('website')){status.textContent='Request received.';form.reset();return}
+submit.disabled=true;submit.textContent='Sending…';status.textContent='';const kind=data.get('request_type')==='Other'?data.get('request_type_other'):data.get('request_type');data.append('_subject',`New ${kind} request: ${data.get('app_name')}`);
+try{if(endpoint){const r=await fetch(endpoint,{method:'POST',body:data,headers:{Accept:'application/json'}});if(!r.ok)throw Error('Request service unavailable')}else{const lines=[...data.entries()].filter(([k])=>!['website','consent','_subject'].includes(k)).map(([k,v])=>`${k.replaceAll('_',' ')}: ${v}`);location.href=`mailto:${encodeURIComponent(inbox)}?subject=${encodeURIComponent(data.get('_subject'))}&body=${encodeURIComponent(lines.join('\n'))}`}
+ const listed=publicListing.checked;if(listed&&analytics){const r=await fetch(`${analytics}/requests`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({appName:data.get('app_name'),appUrl:data.get('app_url')})});if(!r.ok){const x=await r.json().catch(()=>({}));throw Error(x.error||'Public board unavailable')}}
+ status.textContent=listed?'✓ Request sent — it’s now on the board above.':'✓ Request sent privately to Kelvin.';form.reset();syncFields();if(listed)reload()}
+catch(error){status.textContent=error.message==='Duplicate request'?'Your private request was sent, but that app is already on the board.':`Could not finish sending: ${error.message||'please try again.'}`}
+finally{submit.disabled=!endpoint&&!inbox;submit.textContent='Send request'}}}

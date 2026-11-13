@@ -40,3 +40,12 @@
 .req-link{white-space:nowrap}
 .req-meta{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px}
 .req-meta .req-dates{gap:4px 12px}
+
+/* Request an app dropdown */
+.req-cta button{display:inline-flex;align-items:center;gap:8px;border:0;cursor:pointer;padding:12px 20px;border-radius:14px;background:linear-gradient(100deg,#9cff00,#dfffaa);color:#070707;font:inherit;font-weight:900;transition:transform .18s}
+.req-cta button:hover{transform:translateY(-2px)}
+.req-cta .chev{display:inline-block;transition:transform .25s}
+.req-cta button.is-open .chev{transform:rotate(180deg)}
+.req-form-panel{margin-top:16px;padding:0;animation:reqDrop .28s ease}
+.req-form-panel .request-shell{max-width:none}
+@keyframes reqDrop{from{opacity:0;transform:translateY(-8px)}to{opacity:1;transform:none}}
