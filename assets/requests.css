@@ -1,0 +1,42 @@
+.req-stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;max-width:620px;margin:0 auto 22px}
+.req-stat{border:1px solid #ffffff17;background:linear-gradient(180deg,#ffffff0b,#ffffff04);border-radius:20px;padding:18px 10px;cursor:pointer;color:inherit;font:inherit;transition:transform .18s,border-color .18s}
+.req-stat:hover{transform:translateY(-2px)}
+.req-stat b{display:block;font-size:40px;letter-spacing:-.04em;line-height:1}
+.req-stat span{display:block;margin-top:6px;color:#8f8f9a;font-size:12px;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
+.req-stat.s-queue b{color:#45dcff;text-shadow:0 0 24px #45dcff66}.req-stat.s-queue:hover{border-color:#45dcff77}
+.req-stat.s-done b{color:#9cff00;text-shadow:0 0 24px #9cff0066}.req-stat.s-done:hover{border-color:#9cff0077}
+.req-stat.s-unable b{color:#8f8f9a}.req-stat.s-unable:hover{border-color:#ffffff40}
+.req-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px;margin-top:8px}
+.req-card{display:flex;flex-direction:column;gap:12px;padding:18px;border-radius:20px;border:1px solid #ffffff14;background:linear-gradient(180deg,#ffffff0a,#ffffff04);transition:transform .18s,border-color .18s}
+.req-card:hover{transform:translateY(-2px)}
+.req-card.s-queue:hover{border-color:#45dcff55}.req-card.s-done{border-color:#9cff0030}.req-card.s-done:hover{border-color:#9cff0077}
+.req-card.s-unable{opacity:.62}
+.req-head{display:flex;align-items:center;gap:12px}
+.req-icon{width:52px;height:52px;border-radius:13px;flex:none;object-fit:cover;box-shadow:0 6px 18px -8px #000}
+.req-initials{display:grid;place-items:center;font-weight:900;font-size:18px;color:#06060a;background:linear-gradient(135deg,#45dcff,#b48cff)}
+.req-title{flex:1;min-width:0}
+.req-title h3{margin:0;font-size:17px;color:#fff;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.req-link{display:inline-block;margin-top:3px;color:#8f8f9a;font-size:12px;font-weight:700;text-decoration:none}.req-link:hover{color:#45dcff}
+.req-pill{flex:none;display:inline-flex;align-items:center;gap:6px;font-size:10px;font-weight:900;letter-spacing:.08em;text-transform:uppercase;padding:6px 10px;border-radius:99px}
+.req-pill.s-queue{color:#45dcff;background:#45dcff17;border:1px solid #45dcff44}
+.req-pill.s-queue i{width:7px;height:7px;border-radius:50%;background:#45dcff;box-shadow:0 0 10px #45dcff;animation:reqPulse 1.4s ease-in-out infinite}
+.req-pill.s-done{color:#06060a;background:linear-gradient(120deg,#9cff00,#d8ff8a);box-shadow:0 0 16px -4px #9cff00aa}
+.req-pill.s-unable{color:#a0a0aa;background:#ffffff0d;border:1px solid #ffffff22}
+@keyframes reqPulse{50%{opacity:.25;transform:scale(.7)}}
+.req-dates{display:flex;flex-wrap:wrap;gap:6px 14px;color:#70707c;font-size:12px;font-weight:700}
+.req-get{display:flex;align-items:center;gap:10px;margin-top:auto;padding:10px 12px;border-radius:14px;text-decoration:none;color:#fff;background:linear-gradient(120deg,#9cff0018,#45dcff12);border:1px solid #9cff0040;transition:background .18s,border-color .18s}
+.req-get:hover{border-color:#9cff00aa;background:linear-gradient(120deg,#9cff0028,#45dcff1c)}
+.req-get img{width:30px;height:30px;border-radius:8px}
+.req-get span{flex:1;min-width:0}.req-get small{display:block;color:#9cff00;font-size:10px;font-weight:900;letter-spacing:.1em;text-transform:uppercase}
+.req-get b{display:block;font-size:14px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.req-get em{font-style:normal;color:#9cff00;font-weight:900}
+.req-cta{margin:40px auto 0;text-align:center;padding:26px;border-radius:22px;border:1px dashed #ffffff22}
+.req-cta p{margin:0 0 12px;color:#8f8f9a}
+.req-cta a{display:inline-block;padding:12px 20px;border-radius:14px;background:linear-gradient(100deg,#9cff00,#dfffaa);color:#070707;font-weight:900;text-decoration:none}
+@media(max-width:600px){.req-stat b{font-size:30px}.req-stats{gap:8px}}
+
+/* roomier card: full name, pill + dates on their own row */
+.req-title h3{white-space:normal;overflow:visible;line-height:1.25;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.req-link{white-space:nowrap}
+.req-meta{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px}
+.req-meta .req-dates{gap:4px 12px}
