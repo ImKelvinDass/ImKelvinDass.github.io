@@ -448,23 +448,23 @@ SHA256: 5a14952e7b00fb89fa45c8086ee27e01440c256f444505fb0ab184312f7abb09
 
 Package: com.kelvin.glancereborn
 Name: Glance Reborn
-Version: 1.0
-Architecture: iphoneos-arm64
 Section: Tweaks
-Author: Janisbtw
+Author: Kelvin
 Maintainer: Kelvin
+Description: Big, beautiful notifications on your lock screen, readable from across the room.
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0), preferenceloader
-Description: Beautiful Lockscreen Notifications
 Conflicts: de.janis.glance
-Installed-Size: 1500
 Replaces: de.janis.glance
+Architecture: iphoneos-arm64
+Version: 3.0
+Installed-Size: 1532
 Depiction: https://imkelvindass.github.io/package.html?id=com.kelvin.glancereborn
 SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvin.glancereborn.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-glancereborn-icon-1792418922.png
-Filename: debs/com.kelvin.glancereborn_1.0_iphoneos-arm64.deb
-Size: 293752
-MD5sum: d0f09dd5a348e4051459635f4d9a1056
-SHA256: 50b6d90bf9e9dd7d223cbaeb6e4c2dede708541ff6d49f607fed58c4ed26ecc0
+Filename: debs/com.kelvin.glancereborn_3.0_iphoneos-arm64.deb
+Size: 297468
+MD5sum: 201cb3bd89c693405aac16c71895c89a
+SHA256: 8890096127364a57e2741b74402ef03ebe8a99e3f564d615ef42ddf3c7ada9f6
 
 Package: com.kelvin.logtenpro
 Name: LogTen Pro
@@ -593,22 +593,22 @@ MD5sum: 7d90b37152f80ad1972dbea819e9e455
 SHA256: 7a6634ed3517cb56e13abe8a46dfd735d51644f4e6dfd74d32cf3aaa2f0be04f
 
 Package: com.kelvindass.affinalwayscompatibility
-Name: AffinAlwaysX JB BYPASS
-Version: 1.0
+Name: AffinAlwaysCompatibility
+Version: 2.0
 Architecture: iphoneos-arm64
 Section: Bypass
 Author: KiLlErZoN3
 Maintainer: Kelvin
 Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass · AffinAlwaysX V1.3.8
+Description: Jailbreak Detection Bypass · AffinAlwaysX V1.3.13
 Installed-Size: 172
 Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.affinalwayscompatibility
 SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.affinalwayscompatibility.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-affinalwayscompatibility-icon-1789514982.png
-Filename: debs/com.kelvindass.affinalwayscompatibility_1.0_iphoneos-arm64.deb
-Size: 10496
-MD5sum: 201de1ff3738060039aa02ddb204fcb3
-SHA256: 5132f912e8488e1dea1b7fbb65323bfdccd95af451e6e4ea0c48c5faac601997
+Filename: debs/com.kelvindass.affinalwayscompatibility_2.0_iphoneos-arm64.deb
+Size: 11068
+MD5sum: ffe01dd158adeb21e5aff8120ff5e710
+SHA256: a9e0cd95de15ed6f6b7a03761a1a45c3c8089cdad2de1a080fedeb4ff8236a50
 
 Package: com.kelvindass.banreservasbypass
 Name: Banreservas JB Bypass
@@ -683,6 +683,24 @@ Filename: debs/com.kelvindass.hsbccompatibility_2.0_iphoneos-arm64.deb
 Size: 5712
 MD5sum: 145508ce11a5602d5912f5160a1c566c
 SHA256: ac64adaf3aedb34f1436a7e2c89fe94771321306dfa2417c9bcce4d670a8b8d7
+
+Package: com.kelvindass.irakyatjbbypass
+Name: iRakyatJbBypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass · iRakyat V2.5.8
+Installed-Size: 168
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.irakyatjbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.irakyatjbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-irakyatjbbypass-icon-1794633186.png
+Filename: debs/com.kelvindass.irakyatjbbypass_1.0_iphoneos-arm64.deb
+Size: 5252
+MD5sum: 94bed42e94d29c6c93aa858cfa433625
+SHA256: c530bb0c6b8fc54562163d1e2055ef23feee60f49548a67e19b29529eaf60676
 
 Package: com.kelvindass.mydigitalidbypass
 Name: MyDigital Id JB Bypass

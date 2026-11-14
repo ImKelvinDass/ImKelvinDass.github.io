@@ -98,20 +98,25 @@
   },
   {
     "id": "com.kelvindass.affinalwayscompatibility",
-    "name": "AffinAlwaysX JB BYPASS",
-    "version": "1.0",
+    "name": "AffinAlwaysCompatibility",
+    "version": "2.0",
     "architecture": "iphoneos-arm64",
     "author": "KiLlErZoN3",
     "section": "Bypass",
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
-    "filename": "debs/com.kelvindass.affinalwayscompatibility_1.0_iphoneos-arm64.deb",
-    "size": 10496,
-    "uploadedAt": "2026-09-15T23:33:06+00:00",
+    "filename": "debs/com.kelvindass.affinalwayscompatibility_2.0_iphoneos-arm64.deb",
+    "size": 11068,
+    "uploadedAt": "2026-11-14T05:04:19.025916+00:00",
     "appStoreURL": "https://apps.apple.com/app/affinalwaysx/id6736671432",
-    "appVersion": "AffinAlwaysX V1.3.8",
-    "changelog": "Version 1.3.8",
+    "appVersion": "AffinAlwaysX V1.3.13",
+    "changelog": "Version 1.3.13",
     "changelogHistory": [
+      {
+        "date": "14 Nov 2026",
+        "notes": "Version 1.3.13",
+        "version": "2.0"
+      },
       {
         "date": "21 Oct 2026",
         "notes": "Version 1.3.8",
@@ -681,17 +686,22 @@
   {
     "id": "com.kelvin.glancereborn",
     "name": "Glance Reborn",
-    "version": "1.0",
+    "version": "3.0",
     "architecture": "iphoneos-arm64",
-    "author": "Janisbtw",
+    "author": "Kelvin",
     "section": "Tweaks",
     "depends": "dev.theos.orion (>= 1.0.0), firmware (>= 15.0), preferenceloader",
-    "summary": "Beautiful Lockscreen Notifications",
-    "filename": "debs/com.kelvin.glancereborn_1.0_iphoneos-arm64.deb",
-    "size": 293752,
-    "uploadedAt": "2026-10-19T15:14:11+00:00",
-    "changelog": "Tested and Working",
+    "summary": "Big, beautiful notifications on your lock screen, readable from across the room.",
+    "filename": "debs/com.kelvin.glancereborn_3.0_iphoneos-arm64.deb",
+    "size": 297468,
+    "uploadedAt": "2026-11-14T05:16:06.933470+00:00",
+    "changelog": "Bug fixed",
     "changelogHistory": [
+      {
+        "date": "14 Nov 2026",
+        "notes": "Bug fixed",
+        "version": "3.0"
+      },
       {
         "date": "23 Oct 2026",
         "notes": "Tested and Working",
@@ -833,6 +843,38 @@
     "longDescription": "Tested and Working",
     "showBannerSileo": false,
     "showBannerWebsite": false,
+    "tagline": "Jailbreak Detection Bypass"
+  },
+  {
+    "id": "com.kelvindass.irakyatjbbypass",
+    "name": "iRakyatJbBypass",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "Bypass",
+    "depends": "mobilesubstrate (>= 0.9.5000)",
+    "summary": "Jailbreak Detection Bypass",
+    "filename": "debs/com.kelvindass.irakyatjbbypass_1.0_iphoneos-arm64.deb",
+    "size": 5252,
+    "uploadedAt": "2026-11-14T05:11:53.860070+00:00",
+    "appStoreURL": "https://apps.apple.com/app/irakyat-mobile-banking/id1585944651",
+    "appVersion": "iRakyat V2.5.8 ",
+    "changelog": "Version 2.5.8 ",
+    "changelogHistory": [
+      {
+        "date": "14 Nov 2026",
+        "notes": "Version 2.5.8 ",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-kelvindass-irakyatjbbypass-icon-1794633186.png",
+    "iconText": "IR",
+    "longDescription": "Credits : Aizzat \ud83d\udd25\nTested and Working",
+    "showBannerSileo": false,
     "tagline": "Jailbreak Detection Bypass"
   },
   {

@@ -532,8 +532,13 @@
       "tagline" : "Unlmited Gems, Passes and Gumball Tokens"
     },
     "com.kelvin.glancereborn" : {
-      "changelog" : "Tested and Working",
+      "changelog" : "Bug fixed",
       "changelogHistory" : [
+        {
+          "date" : "14 Nov 2026",
+          "notes" : "Bug fixed",
+          "version" : "3.0"
+        },
         {
           "date" : "23 Oct 2026",
           "notes" : "Tested and Working",
@@ -718,9 +723,14 @@
     },
     "com.kelvindass.affinalwayscompatibility" : {
       "appStoreURL" : "https://apps.apple.com/app/affinalwaysx/id6736671432",
-      "appVersion" : "AffinAlwaysX V1.3.8",
-      "changelog" : "Version 1.3.8",
+      "appVersion" : "AffinAlwaysX V1.3.13",
+      "changelog" : "Version 1.3.13",
       "changelogHistory" : [
+        {
+          "date" : "14 Nov 2026",
+          "notes" : "Version 1.3.13",
+          "version" : "2.0"
+        },
         {
           "date" : "21 Oct 2026",
           "notes" : "Version 1.3.8",
@@ -736,6 +746,16 @@
       "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
+    },
+    "com.kelvindass.affinalwaysx" : {
+      "changelog" : "Latest release.",
+      "compatibility" : "iphoneos-arm64",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconText" : "AF",
+      "longDescription" : "Version-guarded jailbreak bypass tweak for AffinAlwaysX 1.3.7/1.3.8/1.3.13",
+      "tagline" : "Version-guarded jailbreak bypass tweak for AffinAlwaysX 1.3.7/1.3.8/1.3.13"
     },
     "com.kelvindass.banreservasbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/banreservas/id1170610154",
@@ -864,6 +884,27 @@
       "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "showBannerWebsite" : false,
+      "tagline" : "Jailbreak Detection Bypass"
+    },
+    "com.kelvindass.irakyatjbbypass" : {
+      "appStoreURL" : "https://apps.apple.com/app/irakyat-mobile-banking/id1585944651",
+      "appVersion" : "iRakyat V2.5.8 ",
+      "changelog" : "Version 2.5.8 ",
+      "changelogHistory" : [
+        {
+          "date" : "14 Nov 2026",
+          "notes" : "Version 2.5.8 ",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-kelvindass-irakyatjbbypass-icon-1794633186.png",
+      "iconText" : "IR",
+      "longDescription" : "Credits : Aizzat 🔥\nTested and Working",
+      "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
     "com.kelvindass.mydigitalidbypass" : {

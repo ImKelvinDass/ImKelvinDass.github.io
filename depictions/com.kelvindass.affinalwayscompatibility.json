@@ -16,7 +16,7 @@
     {
      "class": "DepictionTableTextView",
      "title": "App version",
-     "text": "AffinAlwaysX V1.3.8"
+     "text": "AffinAlwaysX V1.3.13"
     },
     {
      "class": "DepictionTableTextView",
@@ -26,7 +26,7 @@
     {
      "class": "DepictionTableTextView",
      "title": "Version",
-     "text": "1.0"
+     "text": "2.0"
     },
     {
      "class": "DepictionTableTextView",
@@ -71,6 +71,19 @@
    "tabname": "Changelog",
    "class": "DepictionStackView",
    "views": [
+    {
+     "class": "DepictionHeaderView",
+     "title": "v2.0"
+    },
+    {
+     "class": "DepictionSubheaderView",
+     "title": "14 Nov 2026"
+    },
+    {
+     "class": "DepictionMarkdownView",
+     "markdown": "Version 1.3.13",
+     "useSpacing": true
+    },
     {
      "class": "DepictionHeaderView",
      "title": "v1.0"

@@ -1,5 +1,38 @@
 [
  {
+  "date": "2026-11-14T00:00:00+00:00",
+  "id": "com.kelvin.glancereborn",
+  "name": "Glance Reborn",
+  "version": "3.0",
+  "notes": "Bug fixed",
+  "appVersion": null,
+  "section": "Tweaks",
+  "icon": "assets/package-icons/com-kelvin-glancereborn-icon-1792418922.png",
+  "first": false
+ },
+ {
+  "date": "2026-11-14T00:00:00+00:00",
+  "id": "com.kelvindass.affinalwayscompatibility",
+  "name": "AffinAlwaysCompatibility",
+  "version": "2.0",
+  "notes": "Version 1.3.13",
+  "appVersion": "AffinAlwaysX V1.3.13",
+  "section": "Bypass",
+  "icon": "assets/package-icons/com-kelvindass-affinalwayscompatibility-icon-1789514982.png",
+  "first": false
+ },
+ {
+  "date": "2026-11-14T00:00:00+00:00",
+  "id": "com.kelvindass.irakyatjbbypass",
+  "name": "iRakyatJbBypass",
+  "version": "1.0",
+  "notes": "Version 2.5.8 ",
+  "appVersion": "iRakyat V2.5.8 ",
+  "section": "Bypass",
+  "icon": "assets/package-icons/com-kelvindass-irakyatjbbypass-icon-1794633186.png",
+  "first": true
+ },
+ {
   "date": "2026-11-11T00:00:00+00:00",
   "id": "com.deuna.jbbypass",
   "name": "Deuna JB Bypass",
@@ -258,7 +291,7 @@
   "name": "Glance Reborn",
   "version": "1.0",
   "notes": "Tested and Working",
-  "appVersion": null,
+  "appVersion": "",
   "section": "Tweaks",
   "icon": "assets/package-icons/com-kelvin-glancereborn-icon-1792418922.png",
   "first": true
@@ -486,10 +519,10 @@
  {
   "date": "2026-10-21T00:00:00+00:00",
   "id": "com.kelvindass.affinalwayscompatibility",
-  "name": "AffinAlwaysX JB BYPASS",
+  "name": "AffinAlwaysCompatibility",
   "version": "1.0",
   "notes": "Version 1.3.8",
-  "appVersion": "AffinAlwaysX V1.3.8",
+  "appVersion": "",
   "section": "Bypass",
   "icon": "assets/package-icons/com-kelvindass-affinalwayscompatibility-icon-1789514982.png",
   "first": true
