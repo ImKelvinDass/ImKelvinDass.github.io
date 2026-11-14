@@ -574,6 +574,24 @@ Size: 5936
 MD5sum: 4bb457105c8ecf88e51ba7e8db2ce418
 SHA256: 06b7715b3174376a1669cc9d54f3e4c10797cae8ccf65ca20ea9d077862e710a
 
+Package: com.kelvindass.absabankjbbypass
+Name: Absa Bank JB Bypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass · Absa Banking V26.0.1
+Installed-Size: 204
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.absabankjbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.absabankjbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-absabankjbbypass-icon-1794681054.png
+Filename: debs/com.kelvindass.absabankjbbypass_1.0_iphoneos-arm64.deb
+Size: 5860
+MD5sum: 50911e52daaf916168f61a1875a1cb72
+SHA256: b5ceac5632b5b46f58f0e0875b916a4bdba0f7c0fff2abd2eb642ee268336229
+
 Package: com.kelvindass.aeonwalletbypass
 Name: AEON Wallet JB Bypass
 Version: 1.0
@@ -648,6 +666,24 @@ Size: 9908
 MD5sum: df2063ffe0fecd0cb39eb7dcaf02f3f8
 SHA256: a90dde10531bf47dcf6b8bc5cefb7a1b902f35b2c1e0fc76ea4565960ceef015
 
+Package: com.kelvindass.govbrjbbypass
+Name: GovBr JB Bypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass · Gov.br V3.9.0
+Installed-Size: 168
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.govbrjbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.govbrjbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-govbrjbbypass-icon-1794652174.png
+Filename: debs/com.kelvindass.govbrjbbypass_1.0_iphoneos-arm64.deb
+Size: 4700
+MD5sum: 22eefd1f84d79fe2b134cfbe8d51f7f0
+SHA256: 888d947d9fad935e3ebfaf08a63662715decf3efc584a71290de3e1820cd02ad
+
 Package: com.kelvindass.gxbankbypass
 Name: GXBank JB Bypass
 Version: 1.0
@@ -685,7 +721,7 @@ MD5sum: 145508ce11a5602d5912f5160a1c566c
 SHA256: ac64adaf3aedb34f1436a7e2c89fe94771321306dfa2417c9bcce4d670a8b8d7
 
 Package: com.kelvindass.irakyatjbbypass
-Name: iRakyatJbBypass
+Name: iRakyat JB Bypass
 Version: 1.0
 Architecture: iphoneos-arm64
 Section: Bypass
@@ -698,9 +734,9 @@ Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.irakyat
 SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.irakyatjbbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-irakyatjbbypass-icon-1794633186.png
 Filename: debs/com.kelvindass.irakyatjbbypass_1.0_iphoneos-arm64.deb
-Size: 5252
-MD5sum: 94bed42e94d29c6c93aa858cfa433625
-SHA256: c530bb0c6b8fc54562163d1e2055ef23feee60f49548a67e19b29529eaf60676
+Size: 5256
+MD5sum: 8957d7319b17e43e9541a86bb3eebd27
+SHA256: 002fabaa3fee71700d8532d55e7c2b768ed73a6017d07dad0fa2b8590682a71f
 
 Package: com.kelvindass.mydigitalidbypass
 Name: MyDigital Id JB Bypass
@@ -737,6 +773,24 @@ Filename: debs/com.kelvindass.outlooklocaldetectionbypass_1.0_iphoneos-arm64.deb
 Size: 2940
 MD5sum: 5ce012f1b8554bac47de521b1a5782a3
 SHA256: e977c2f208eb1744c27baa33635d12245e9ff0b52eea4c4a7b01f5e545ab3178
+
+Package: com.kelvindass.schlagehomejbbypass
+Name: Schlage Home JB Bypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass · Schlage Home V9.1.0
+Installed-Size: 204
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.schlagehomejbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.schlagehomejbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-schlagehomejbbypass-icon-1794675494.png
+Filename: debs/com.kelvindass.schlagehomejbbypass_1.0_iphoneos-arm64.deb
+Size: 6456
+MD5sum: 4cad323edf540b0ce81215fc6bd77124
+SHA256: 63a2fdfb4aed2193c0aea4a3e633e8e9d27368c26fb8a123f4b6ce182b9d7c3e
 
 Package: com.kelvindass.teamslocaldetectionbypass
 Name: Teams JB Bypass

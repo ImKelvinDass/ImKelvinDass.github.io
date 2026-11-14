@@ -699,6 +699,27 @@
       "showBannerSileo" : false,
       "tagline" : "Premium Unlocked"
     },
+    "com.kelvindass.absabankjbbypass" : {
+      "appStoreURL" : "https://apps.apple.com/app/absa-banking/id1085620596",
+      "appVersion" : "Absa Banking V26.0.1",
+      "changelog" : "Version 26.0.1",
+      "changelogHistory" : [
+        {
+          "date" : "15 Nov 2026",
+          "notes" : "Version 26.0.1",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-kelvindass-absabankjbbypass-icon-1794681054.png",
+      "iconText" : "AB",
+      "longDescription" : "Tested and Working",
+      "showBannerSileo" : false,
+      "tagline" : "Jailbreak Detection Bypass"
+    },
     "com.kelvindass.aeonwalletbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/aeon-wallet-malaysia/id1371474291",
       "appVersion" : "AEON Wallet V3.19.7",
@@ -843,6 +864,27 @@
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"
     },
+    "com.kelvindass.govbrjbbypass" : {
+      "appStoreURL" : "https://apps.apple.com/app/gov-br/id1506827551",
+      "appVersion" : "Gov.br V3.9.0",
+      "changelog" : "Version 3.9.0",
+      "changelogHistory" : [
+        {
+          "date" : "14 Nov 2026",
+          "notes" : "Version 3.9.0",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-kelvindass-govbrjbbypass-icon-1794652174.png",
+      "iconText" : "GO",
+      "longDescription" : "Tested and Working",
+      "showBannerSileo" : false,
+      "tagline" : "Jailbreak Detection Bypass"
+    },
     "com.kelvindass.gxbankbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/gxbank/id6454673510",
       "appVersion" : "GXBank V2.37.0",
@@ -945,6 +987,27 @@
       "iconColor" : "#9cff00",
       "iconImage" : "assets/package-icons/com-kelvindass-outlooklocaldetectionbypass-icon-1790021905.png",
       "iconText" : "OU",
+      "longDescription" : "Tested and Working",
+      "showBannerSileo" : false,
+      "tagline" : "Jailbreak Detection Bypass"
+    },
+    "com.kelvindass.schlagehomejbbypass" : {
+      "appStoreURL" : "https://apps.apple.com/app/schlage-home/id1038212933",
+      "appVersion" : "Schlage Home V9.1.0",
+      "changelog" : "Version 9.1.0",
+      "changelogHistory" : [
+        {
+          "date" : "15 Nov 2026",
+          "notes" : "Version 9.1.0",
+          "version" : "1.0"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-kelvindass-schlagehomejbbypass-icon-1794675494.png",
+      "iconText" : "SC",
       "longDescription" : "Tested and Working",
       "showBannerSileo" : false,
       "tagline" : "Jailbreak Detection Bypass"

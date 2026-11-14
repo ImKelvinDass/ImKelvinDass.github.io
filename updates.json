@@ -1,5 +1,27 @@
 [
  {
+  "date": "2026-11-15T00:00:00+00:00",
+  "id": "com.kelvindass.absabankjbbypass",
+  "name": "Absa Bank JB Bypass",
+  "version": "1.0",
+  "notes": "Version 26.0.1",
+  "appVersion": "Absa Banking V26.0.1",
+  "section": "Bypass",
+  "icon": "assets/package-icons/com-kelvindass-absabankjbbypass-icon-1794681054.png",
+  "first": true
+ },
+ {
+  "date": "2026-11-15T00:00:00+00:00",
+  "id": "com.kelvindass.schlagehomejbbypass",
+  "name": "Schlage Home JB Bypass",
+  "version": "1.0",
+  "notes": "Version 9.1.0",
+  "appVersion": "Schlage Home V9.1.0",
+  "section": "Bypass",
+  "icon": "assets/package-icons/com-kelvindass-schlagehomejbbypass-icon-1794675494.png",
+  "first": true
+ },
+ {
   "date": "2026-11-14T00:00:00+00:00",
   "id": "com.kelvin.glancereborn",
   "name": "Glance Reborn",
@@ -23,8 +45,19 @@
  },
  {
   "date": "2026-11-14T00:00:00+00:00",
+  "id": "com.kelvindass.govbrjbbypass",
+  "name": "GovBr JB Bypass",
+  "version": "1.0",
+  "notes": "Version 3.9.0",
+  "appVersion": "Gov.br V3.9.0",
+  "section": "Bypass",
+  "icon": "assets/package-icons/com-kelvindass-govbrjbbypass-icon-1794652174.png",
+  "first": true
+ },
+ {
+  "date": "2026-11-14T00:00:00+00:00",
   "id": "com.kelvindass.irakyatjbbypass",
-  "name": "iRakyatJbBypass",
+  "name": "iRakyat JB Bypass",
   "version": "1.0",
   "notes": "Version 2.5.8 ",
   "appVersion": "iRakyat V2.5.8 ",

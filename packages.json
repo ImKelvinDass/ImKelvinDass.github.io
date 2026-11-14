@@ -32,6 +32,38 @@
     "tagline": "Ad-Removed"
   },
   {
+    "id": "com.kelvindass.absabankjbbypass",
+    "name": "Absa Bank JB Bypass",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "Bypass",
+    "depends": "mobilesubstrate (>= 0.9.5000)",
+    "summary": "Jailbreak Detection Bypass",
+    "filename": "debs/com.kelvindass.absabankjbbypass_1.0_iphoneos-arm64.deb",
+    "size": 5860,
+    "uploadedAt": "2026-11-14T18:29:23.883256+00:00",
+    "appStoreURL": "https://apps.apple.com/app/absa-banking/id1085620596",
+    "appVersion": "Absa Banking V26.0.1",
+    "changelog": "Version 26.0.1",
+    "changelogHistory": [
+      {
+        "date": "15 Nov 2026",
+        "notes": "Version 26.0.1",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-kelvindass-absabankjbbypass-icon-1794681054.png",
+    "iconText": "AB",
+    "longDescription": "Tested and Working",
+    "showBannerSileo": false,
+    "tagline": "Jailbreak Detection Bypass"
+  },
+  {
     "id": "com.kelvindass.aeonwalletbypass",
     "name": "AEON Wallet JB Bypass",
     "version": "1.0",
@@ -751,6 +783,38 @@
     "tagline": "Jailbreak Detection Bypass"
   },
   {
+    "id": "com.kelvindass.govbrjbbypass",
+    "name": "GovBr JB Bypass",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "Bypass",
+    "depends": "mobilesubstrate (>= 0.9.5000)",
+    "summary": "Jailbreak Detection Bypass",
+    "filename": "debs/com.kelvindass.govbrjbbypass_1.0_iphoneos-arm64.deb",
+    "size": 4700,
+    "uploadedAt": "2026-11-14T10:29:27.894883+00:00",
+    "appStoreURL": "https://apps.apple.com/app/gov-br/id1506827551",
+    "appVersion": "Gov.br V3.9.0",
+    "changelog": "Version 3.9.0",
+    "changelogHistory": [
+      {
+        "date": "14 Nov 2026",
+        "notes": "Version 3.9.0",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-kelvindass-govbrjbbypass-icon-1794652174.png",
+    "iconText": "GO",
+    "longDescription": "Tested and Working",
+    "showBannerSileo": false,
+    "tagline": "Jailbreak Detection Bypass"
+  },
+  {
     "id": "com.kelvindass.gxbankbypass",
     "name": "GXBank JB Bypass",
     "version": "1.0",
@@ -847,7 +911,7 @@
   },
   {
     "id": "com.kelvindass.irakyatjbbypass",
-    "name": "iRakyatJbBypass",
+    "name": "iRakyat JB Bypass",
     "version": "1.0",
     "architecture": "iphoneos-arm64",
     "author": "KiLlErZoN3",
@@ -855,7 +919,7 @@
     "depends": "mobilesubstrate (>= 0.9.5000)",
     "summary": "Jailbreak Detection Bypass",
     "filename": "debs/com.kelvindass.irakyatjbbypass_1.0_iphoneos-arm64.deb",
-    "size": 5252,
+    "size": 5256,
     "uploadedAt": "2026-11-14T05:11:53.860070+00:00",
     "appStoreURL": "https://apps.apple.com/app/irakyat-mobile-banking/id1585944651",
     "appVersion": "iRakyat V2.5.8 ",
@@ -1331,6 +1395,38 @@
     "iconColor": "#9cff00",
     "iconImage": "assets/package-icons/com-ring-jbbypass-icon-1788731835.png",
     "iconText": "RI",
+    "longDescription": "Tested and Working",
+    "showBannerSileo": false,
+    "tagline": "Jailbreak Detection Bypass"
+  },
+  {
+    "id": "com.kelvindass.schlagehomejbbypass",
+    "name": "Schlage Home JB Bypass",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "Bypass",
+    "depends": "mobilesubstrate (>= 0.9.5000)",
+    "summary": "Jailbreak Detection Bypass",
+    "filename": "debs/com.kelvindass.schlagehomejbbypass_1.0_iphoneos-arm64.deb",
+    "size": 6456,
+    "uploadedAt": "2026-11-14T16:56:34.352425+00:00",
+    "appStoreURL": "https://apps.apple.com/app/schlage-home/id1038212933",
+    "appVersion": "Schlage Home V9.1.0",
+    "changelog": "Version 9.1.0",
+    "changelogHistory": [
+      {
+        "date": "15 Nov 2026",
+        "notes": "Version 9.1.0",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-kelvindass-schlagehomejbbypass-icon-1794675494.png",
+    "iconText": "SC",
     "longDescription": "Tested and Working",
     "showBannerSileo": false,
     "tagline": "Jailbreak Detection Bypass"
