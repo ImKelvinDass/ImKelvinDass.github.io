@@ -666,6 +666,24 @@ Size: 9908
 MD5sum: df2063ffe0fecd0cb39eb7dcaf02f3f8
 SHA256: a90dde10531bf47dcf6b8bc5cefb7a1b902f35b2c1e0fc76ea4565960ceef015
 
+Package: com.kelvindass.gopayjbbypass
+Name: GoPay JB Bypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: Bypass
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Jailbreak Detection Bypass · GoPay V2.23.1
+Installed-Size: 204
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.gopayjbbypass
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.gopayjbbypass.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-gopayjbbypass-icon-1794733820.png
+Filename: debs/com.kelvindass.gopayjbbypass_1.0_iphoneos-arm64.deb
+Size: 6332
+MD5sum: 9658826ad8fe25d1d009aa61af1866d7
+SHA256: 905f3c9b902d1c3fcec80af76232560629857e4fc5b9ce581eebbcf01d842ec0
+
 Package: com.kelvindass.govbrjbbypass
 Name: GovBr JB Bypass
 Version: 1.0

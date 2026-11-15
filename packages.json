@@ -783,6 +783,38 @@
     "tagline": "Jailbreak Detection Bypass"
   },
   {
+    "id": "com.kelvindass.gopayjbbypass",
+    "name": "GoPay JB Bypass",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "Bypass",
+    "depends": "mobilesubstrate (>= 0.9.5000)",
+    "summary": "Jailbreak Detection Bypass",
+    "filename": "debs/com.kelvindass.gopayjbbypass_1.0_iphoneos-arm64.deb",
+    "size": 6332,
+    "uploadedAt": "2026-11-15T09:10:07.803387+00:00",
+    "appStoreURL": "https://apps.apple.com/app/gopay-transfer-payment-qris/id6446321594",
+    "appVersion": "GoPay V2.23.1",
+    "changelog": "Version 2.23.1",
+    "changelogHistory": [
+      {
+        "date": "15 Nov 2026",
+        "notes": "Version 2.23.1",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-kelvindass-gopayjbbypass-icon-1794733820.png",
+    "iconText": "GO",
+    "longDescription": "Tested and Working",
+    "showBannerSileo": false,
+    "tagline": "Jailbreak Detection Bypass"
+  },
+  {
     "id": "com.kelvindass.govbrjbbypass",
     "name": "GovBr JB Bypass",
     "version": "1.0",
