@@ -722,10 +722,10 @@
     "architecture": "iphoneos-arm64",
     "author": "Kelvin",
     "section": "Tweaks",
-    "depends": "dev.theos.orion (>= 1.0.0), firmware (>= 15.0), preferenceloader",
+    "depends": "ellekit, dev.theos.orion14 | dev.theos.orion (>= 1.0.0), firmware (>= 15.0), preferenceloader",
     "summary": "Big, beautiful notifications on your lock screen, readable from across the room.",
     "filename": "debs/com.kelvin.glancereborn_3.0_iphoneos-arm64.deb",
-    "size": 297468,
+    "size": 297496,
     "uploadedAt": "2026-11-14T05:16:06.933470+00:00",
     "changelog": "Bug fixed",
     "changelogHistory": [

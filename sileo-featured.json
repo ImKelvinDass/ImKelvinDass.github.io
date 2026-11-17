@@ -1,35 +1,109 @@
 {
-  "class": "FeaturedBannersView",
-  "itemSize": "{296, 148}",
-  "itemCornerRadius": 12,
-  "banners": [
+  "class": "FeaturedStackView",
+  "views": [
     {
-      "url": "https://imkelvindass.github.io/assets/package-banners/com-cimb-jbbypass-banner-1788768892.jpg",
-      "title": "CIMB JB BYPASS",
-      "package": "com.cimb.jbbypass",
-      "repoName": "KiLlErZoN3",
-      "hideShadow": false
+      "class": "FeaturedBannersView",
+      "itemSize": "{296, 148}",
+      "itemCornerRadius": 12,
+      "banners": [
+        {
+          "url": "https://imkelvindass.github.io/assets/package-banners/com-cimb-jbbypass-banner-1788768892.jpg",
+          "title": "CIMB JB BYPASS",
+          "package": "com.cimb.jbbypass",
+          "repoName": "KiLlErZoN3",
+          "hideShadow": false
+        },
+        {
+          "url": "https://imkelvindass.github.io/assets/package-banners/com-kwsp-jbbypass-banner-1788768489.jpg",
+          "title": "KWSP JB BYPASS",
+          "package": "com.kwsp.jbbypass",
+          "repoName": "KiLlErZoN3",
+          "hideShadow": false
+        },
+        {
+          "url": "https://imkelvindass.github.io/assets/package-banners/com-mae-jbbypass-banner-1788768761.jpg",
+          "title": "MAE JB Bypass",
+          "package": "com.mae.jbbypass",
+          "repoName": "KiLlErZoN3",
+          "hideShadow": false
+        },
+        {
+          "url": "https://imkelvindass.github.io/assets/package-banners/com-tng-jbbypass-banner-1788768919.jpg",
+          "title": "TNG JB BYPASS",
+          "package": "com.tng.jbbypass",
+          "repoName": "KiLlErZoN3",
+          "hideShadow": false
+        }
+      ]
     },
     {
-      "url": "https://imkelvindass.github.io/assets/package-banners/com-kwsp-jbbypass-banner-1788768489.jpg",
-      "title": "KWSP JB BYPASS",
-      "package": "com.kwsp.jbbypass",
-      "repoName": "KiLlErZoN3",
-      "hideShadow": false
+      "class": "DepictionHeaderView",
+      "title": "New",
+      "useBottomMargin": false
     },
     {
-      "url": "https://imkelvindass.github.io/assets/package-banners/com-mae-jbbypass-banner-1788768761.jpg",
-      "title": "MAE JB Bypass",
-      "package": "com.mae.jbbypass",
-      "repoName": "KiLlErZoN3",
-      "hideShadow": false
+      "class": "FeaturedPackageView",
+      "package": "com.kelvindass.gopayjbbypass",
+      "packageName": "GoPay JB Bypass",
+      "packageIcon": "https://imkelvindass.github.io/assets/package-icons/com-kelvindass-gopayjbbypass-icon-1794733820.png",
+      "packageAuthor": "GoPay V2.23.1",
+      "repoName": "KiLlErZoN3"
     },
     {
-      "url": "https://imkelvindass.github.io/assets/package-banners/com-tng-jbbypass-banner-1788768919.jpg",
-      "title": "TNG JB BYPASS",
-      "package": "com.tng.jbbypass",
-      "repoName": "KiLlErZoN3",
-      "hideShadow": false
+      "class": "FeaturedPackageView",
+      "package": "com.kelvindass.absabankjbbypass",
+      "packageName": "Absa Bank JB Bypass",
+      "packageIcon": "https://imkelvindass.github.io/assets/package-icons/com-kelvindass-absabankjbbypass-icon-1794681054.png",
+      "packageAuthor": "Absa Banking V26.0.1",
+      "repoName": "KiLlErZoN3"
+    },
+    {
+      "class": "FeaturedPackageView",
+      "package": "com.kelvindass.schlagehomejbbypass",
+      "packageName": "Schlage Home JB Bypass",
+      "packageIcon": "https://imkelvindass.github.io/assets/package-icons/com-kelvindass-schlagehomejbbypass-icon-1794675494.png",
+      "packageAuthor": "Schlage Home V9.1.0",
+      "repoName": "KiLlErZoN3"
+    },
+    {
+      "class": "FeaturedPackageView",
+      "package": "com.kelvindass.govbrjbbypass",
+      "packageName": "GovBr JB Bypass",
+      "packageIcon": "https://imkelvindass.github.io/assets/package-icons/com-kelvindass-govbrjbbypass-icon-1794652174.png",
+      "packageAuthor": "Gov.br V3.9.0",
+      "repoName": "KiLlErZoN3"
+    },
+    {
+      "class": "FeaturedPackageView",
+      "package": "com.kelvin.glancereborn",
+      "packageName": "Glance Reborn",
+      "packageIcon": "https://imkelvindass.github.io/assets/package-icons/com-kelvin-glancereborn-icon-1792418922.png",
+      "packageAuthor": "Beautiful Lockscreen Notifications",
+      "repoName": "KiLlErZoN3"
+    },
+    {
+      "class": "FeaturedPackageView",
+      "package": "com.kelvindass.irakyatjbbypass",
+      "packageName": "iRakyat JB Bypass",
+      "packageIcon": "https://imkelvindass.github.io/assets/package-icons/com-kelvindass-irakyatjbbypass-icon-1794633186.png",
+      "packageAuthor": "iRakyat V2.5.8 ",
+      "repoName": "KiLlErZoN3"
+    },
+    {
+      "class": "FeaturedPackageView",
+      "package": "com.kelvindass.affinalwayscompatibility",
+      "packageName": "AffinAlwaysCompatibility",
+      "packageIcon": "https://imkelvindass.github.io/assets/package-icons/com-kelvindass-affinalwayscompatibility-icon-1789514982.png",
+      "packageAuthor": "AffinAlwaysX V1.3.13",
+      "repoName": "KiLlErZoN3"
+    },
+    {
+      "class": "FeaturedPackageView",
+      "package": "com.deuna.jbbypass",
+      "packageName": "Deuna JB Bypass",
+      "packageIcon": "https://imkelvindass.github.io/assets/package-icons/com-deuna-jbbypass-icon-1794385353.png",
+      "packageAuthor": "Deuna V5.2.134",
+      "repoName": "KiLlErZoN3"
     }
   ]
 }

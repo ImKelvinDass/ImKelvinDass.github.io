@@ -452,7 +452,7 @@ Section: Tweaks
 Author: Kelvin
 Maintainer: Kelvin
 Description: Big, beautiful notifications on your lock screen, readable from across the room.
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0), preferenceloader
+Depends: ellekit, dev.theos.orion14 | dev.theos.orion (>= 1.0.0), firmware (>= 15.0), preferenceloader
 Conflicts: de.janis.glance
 Replaces: de.janis.glance
 Architecture: iphoneos-arm64
@@ -462,9 +462,9 @@ Depiction: https://imkelvindass.github.io/package.html?id=com.kelvin.glancerebor
 SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvin.glancereborn.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-glancereborn-icon-1792418922.png
 Filename: debs/com.kelvin.glancereborn_3.0_iphoneos-arm64.deb
-Size: 297468
-MD5sum: 201cb3bd89c693405aac16c71895c89a
-SHA256: 8890096127364a57e2741b74402ef03ebe8a99e3f564d615ef42ddf3c7ada9f6
+Size: 297496
+MD5sum: 448f78dba59a56174eea7a36474d5c9e
+SHA256: 7467991fb468aa44fe75bd764ce4d9aaadc17f69953e9796ed7bd964ba86b3fb
 
 Package: com.kelvin.logtenpro
 Name: LogTen Pro

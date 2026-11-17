@@ -25,3 +25,11 @@ if(location.hash==='#rate'){let n=0;const t=setInterval(()=>{const e=document.ge
 // Share button: shares the special link that shows this tweak's own preview card.
 document.addEventListener('click',async e=>{const b=e.target.closest('[data-share]');if(!b)return;const url=b.dataset.share,title=b.dataset.title;
 try{if(navigator.share){await navigator.share({title,url});return}await navigator.clipboard.writeText(url);const old=b.textContent;b.textContent='Link copied ✓';setTimeout(()=>b.textContent=old,1600)}catch{}});
+
+// Download .deb: Safari tends to open .deb files instead of saving them. Fetch it and hand Safari a
+// file it must save. Falls back to the normal link if anything fails.
+document.addEventListener('click',async e=>{const a=e.target.closest('a[download][href$=".deb"]');if(!a||e.metaKey||e.ctrlKey)return;e.preventDefault();
+const label=a.textContent,name=decodeURIComponent(a.getAttribute('href').split('/').pop());a.textContent='Downloading…';a.style.pointerEvents='none';
+try{const r=await fetch(a.href,{cache:'no-store'});if(!r.ok)throw Error(r.status);const url=URL.createObjectURL(new Blob([await r.arrayBuffer()],{type:'application/octet-stream'}));
+const t=document.createElement('a');t.href=url;t.download=name;t.rel='noopener';document.body.appendChild(t);t.click();t.remove();setTimeout(()=>URL.revokeObjectURL(url),60000);a.textContent='Downloaded ✓'}
+catch{location.href=a.href}finally{setTimeout(()=>{a.textContent=label;a.style.pointerEvents=''},2200)}});
