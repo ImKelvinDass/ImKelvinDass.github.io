@@ -1,5 +1,16 @@
 [
  {
+  "date": "2026-11-19T00:00:00+00:00",
+  "id": "com.kelvindass.banreservasbypass",
+  "name": "Banreservas Bypass",
+  "version": "4.0",
+  "notes": "Version 9.0.0",
+  "appVersion": "Banreservas V9.0.0",
+  "section": "Tweaks",
+  "icon": "assets/package-icons/com-kelvindass-banreservasbypass-icon-1788958419.png",
+  "first": false
+ },
+ {
   "date": "2026-11-15T00:00:00+00:00",
   "id": "com.kelvindass.absabankjbbypass",
   "name": "Absa Bank JB Bypass",
@@ -156,11 +167,11 @@
  {
   "date": "2026-10-31T00:00:00+00:00",
   "id": "com.kelvindass.banreservasbypass",
-  "name": "Banreservas JB Bypass",
+  "name": "Banreservas Bypass",
   "version": "3.0",
   "notes": "Version 8.0.0",
-  "appVersion": "Banreservas V8.0.0",
-  "section": "Bypass",
+  "appVersion": "",
+  "section": "Tweaks",
   "icon": "assets/package-icons/com-kelvindass-banreservasbypass-icon-1788958419.png",
   "first": false
  },
@@ -574,11 +585,11 @@
  {
   "date": "2026-10-21T00:00:00+00:00",
   "id": "com.kelvindass.banreservasbypass",
-  "name": "Banreservas JB Bypass",
+  "name": "Banreservas Bypass",
   "version": "2.0",
   "notes": "Version 7.1.0",
   "appVersion": "",
-  "section": "Bypass",
+  "section": "Tweaks",
   "icon": "assets/package-icons/com-kelvindass-banreservasbypass-icon-1788958419.png",
   "first": true
  },

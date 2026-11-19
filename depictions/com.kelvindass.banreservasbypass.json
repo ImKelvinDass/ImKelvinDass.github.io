@@ -16,7 +16,7 @@
     {
      "class": "DepictionTableTextView",
      "title": "App version",
-     "text": "Banreservas V8.0.0"
+     "text": "Banreservas V9.0.0"
     },
     {
      "class": "DepictionTableTextView",
@@ -26,17 +26,17 @@
     {
      "class": "DepictionTableTextView",
      "title": "Version",
-     "text": "3.0"
+     "text": "4.0"
     },
     {
      "class": "DepictionTableTextView",
      "title": "Developer",
-     "text": "KiLlErZoN3"
+     "text": "Kelvin"
     },
     {
      "class": "DepictionTableTextView",
      "title": "Category",
-     "text": "Bypass"
+     "text": "Tweaks"
     },
     {
      "class": "DepictionSeparatorView"
@@ -71,6 +71,19 @@
    "tabname": "Changelog",
    "class": "DepictionStackView",
    "views": [
+    {
+     "class": "DepictionHeaderView",
+     "title": "v4.0"
+    },
+    {
+     "class": "DepictionSubheaderView",
+     "title": "19 Nov 2026"
+    },
+    {
+     "class": "DepictionMarkdownView",
+     "markdown": "Version 9.0.0",
+     "useSpacing": true
+    },
     {
      "class": "DepictionHeaderView",
      "title": "v3.0"

@@ -629,22 +629,22 @@ MD5sum: ffe01dd158adeb21e5aff8120ff5e710
 SHA256: a9e0cd95de15ed6f6b7a03761a1a45c3c8089cdad2de1a080fedeb4ff8236a50
 
 Package: com.kelvindass.banreservasbypass
-Name: Banreservas JB Bypass
-Version: 3.0
+Name: Banreservas Bypass
+Version: 4.0
 Architecture: iphoneos-arm64
-Section: Bypass
-Author: KiLlErZoN3
+Section: Tweaks
+Author: Kelvin
 Maintainer: Kelvin
 Depends: mobilesubstrate (>= 0.9.5000)
-Description: Jailbreak Detection Bypass · Banreservas V8.0.0
+Description: Jailbreak Detection Bypass · Banreservas V9.0.0
 Installed-Size: 72
 Depiction: https://imkelvindass.github.io/package.html?id=com.kelvindass.banreservasbypass
 SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvindass.banreservasbypass.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvindass-banreservasbypass-icon-1788958419.png
-Filename: debs/com.kelvindass.banreservasbypass_3.0_iphoneos-arm64.deb
-Size: 5844
-MD5sum: 6562371501357a5c1f37dcd0241071a5
-SHA256: 127e42e0621773acfcacd810eaf2002e1d25ed3d34bfc7adfd0be0b020d113e7
+Filename: debs/com.kelvindass.banreservasbypass_4.0_iphoneos-arm64.deb
+Size: 5972
+MD5sum: 8837c6788915f60c72849b7991f3371d
+SHA256: fd2cdcaa1e34b7d5e831de31b70a3857bf719b8c5b4d0529260c3e0cac932fb9
 
 Package: com.kelvindass.capcutjbbypass
 Name: CapCut JB Bypass

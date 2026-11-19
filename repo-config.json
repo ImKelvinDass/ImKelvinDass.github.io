@@ -780,9 +780,14 @@
     },
     "com.kelvindass.banreservasbypass" : {
       "appStoreURL" : "https://apps.apple.com/app/banreservas/id1170610154",
-      "appVersion" : "Banreservas V8.0.0",
-      "changelog" : "Version 8.0.0",
+      "appVersion" : "Banreservas V9.0.0",
+      "changelog" : "Version 9.0.0",
       "changelogHistory" : [
+        {
+          "date" : "19 Nov 2026",
+          "notes" : "Version 9.0.0",
+          "version" : "4.0"
+        },
         {
           "date" : "31 Oct 2026",
           "notes" : "Version 8.0.0",

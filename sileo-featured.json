@@ -43,6 +43,14 @@
     },
     {
       "class": "FeaturedPackageView",
+      "package": "com.kelvindass.banreservasbypass",
+      "packageName": "Banreservas Bypass",
+      "packageIcon": "https://imkelvindass.github.io/assets/package-icons/com-kelvindass-banreservasbypass-icon-1788958419.png",
+      "packageAuthor": "Banreservas V9.0.0",
+      "repoName": "KiLlErZoN3"
+    },
+    {
+      "class": "FeaturedPackageView",
       "package": "com.kelvindass.gopayjbbypass",
       "packageName": "GoPay JB Bypass",
       "packageIcon": "https://imkelvindass.github.io/assets/package-icons/com-kelvindass-gopayjbbypass-icon-1794733820.png",
@@ -95,14 +103,6 @@
       "packageName": "AffinAlwaysCompatibility",
       "packageIcon": "https://imkelvindass.github.io/assets/package-icons/com-kelvindass-affinalwayscompatibility-icon-1789514982.png",
       "packageAuthor": "AffinAlwaysX V1.3.13",
-      "repoName": "KiLlErZoN3"
-    },
-    {
-      "class": "FeaturedPackageView",
-      "package": "com.deuna.jbbypass",
-      "packageName": "Deuna JB Bypass",
-      "packageIcon": "https://imkelvindass.github.io/assets/package-icons/com-deuna-jbbypass-icon-1794385353.png",
-      "packageAuthor": "Deuna V5.2.134",
       "repoName": "KiLlErZoN3"
     }
   ]
