@@ -51,6 +51,15 @@
      "useSpacing": true
     },
     {
+     "class": "DepictionSeparatorView"
+    },
+    {
+     "class": "DepictionTableButtonView",
+     "title": "Open in App Store",
+     "action": "https://apps.apple.com/app/deuna/id1490185584?|=en-GB",
+     "openExternal": true
+    },
+    {
      "class": "DepictionTableButtonView",
      "title": "View on website",
      "action": "https://imkelvindass.github.io/package.html?id=com.deuna.jbbypass",
