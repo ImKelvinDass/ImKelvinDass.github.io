@@ -577,6 +577,26 @@
       "showBannerSileo" : false,
       "tagline" : "Pro Unlocked"
     },
+    "com.kelvin.lspoof" : {
+      "appVersion" : "",
+      "changelog" : "Version 1.5.1 ",
+      "changelogHistory" : [
+        {
+          "date" : "26 Nov 2026",
+          "notes" : "Version 1.5.1 ",
+          "version" : "1.5.1"
+        }
+      ],
+      "compatibility" : "IOS 17",
+      "featured" : true,
+      "featuredWebsite" : false,
+      "iconColor" : "#9cff00",
+      "iconImage" : "assets/package-icons/com-kelvin-lspoof-icon-1795685934.png",
+      "iconText" : "LS",
+      "longDescription" : "https://github.com/ezzuldinSt/LSpoof",
+      "showBannerSileo" : false,
+      "tagline" : "Per-app location simulation"
+    },
     "com.kelvin.maejbbypass" : {
       "changelog" : "Removed logs",
       "compatibility" : "IOS 17-26",

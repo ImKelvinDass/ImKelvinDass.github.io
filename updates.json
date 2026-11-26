@@ -1,5 +1,16 @@
 [
  {
+  "date": "2026-11-26T00:00:00+00:00",
+  "id": "com.kelvin.lspoof",
+  "name": "LSpoof",
+  "version": "1.5.1",
+  "notes": "Version 1.5.1 ",
+  "appVersion": "",
+  "section": "Tweaks",
+  "icon": "assets/package-icons/com-kelvin-lspoof-icon-1795685934.png",
+  "first": true
+ },
+ {
   "date": "2026-11-19T00:00:00+00:00",
   "id": "com.kelvindass.banreservasbypass",
   "name": "Banreservas Bypass",

@@ -43,6 +43,14 @@
     },
     {
       "class": "FeaturedPackageView",
+      "package": "com.kelvin.lspoof",
+      "packageName": "LSpoof",
+      "packageIcon": "https://imkelvindass.github.io/assets/package-icons/com-kelvin-lspoof-icon-1795685934.png",
+      "packageAuthor": "Per-app location simulation",
+      "repoName": "KiLlErZoN3"
+    },
+    {
+      "class": "FeaturedPackageView",
       "package": "com.kelvindass.banreservasbypass",
       "packageName": "Banreservas Bypass",
       "packageIcon": "https://imkelvindass.github.io/assets/package-icons/com-kelvindass-banreservasbypass-icon-1788958419.png",
@@ -95,14 +103,6 @@
       "packageName": "iRakyat JB Bypass",
       "packageIcon": "https://imkelvindass.github.io/assets/package-icons/com-kelvindass-irakyatjbbypass-icon-1794633186.png",
       "packageAuthor": "iRakyat V2.5.8 ",
-      "repoName": "KiLlErZoN3"
-    },
-    {
-      "class": "FeaturedPackageView",
-      "package": "com.kelvindass.affinalwayscompatibility",
-      "packageName": "AffinAlwaysCompatibility",
-      "packageIcon": "https://imkelvindass.github.io/assets/package-icons/com-kelvindass-affinalwayscompatibility-icon-1789514982.png",
-      "packageAuthor": "AffinAlwaysX V1.3.13",
       "repoName": "KiLlErZoN3"
     }
   ]

@@ -1077,6 +1077,37 @@
     "tagline": "Pro Unlocked"
   },
   {
+    "id": "com.kelvin.lspoof",
+    "name": "LSpoof",
+    "version": "1.5.1",
+    "architecture": "iphoneos-arm64",
+    "author": "ezzuldinSt",
+    "section": "Tweaks",
+    "depends": "firmware (>= 16.0), mobilesubstrate",
+    "summary": "Per-app location simulation",
+    "filename": "debs/com.kelvin.lspoof_1.5.1_iphoneos-arm64.deb",
+    "size": 644388,
+    "uploadedAt": "2026-11-26T09:38:43.425233+00:00",
+    "appVersion": "",
+    "changelog": "Version 1.5.1 ",
+    "changelogHistory": [
+      {
+        "date": "26 Nov 2026",
+        "notes": "Version 1.5.1 ",
+        "version": "1.5.1"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-kelvin-lspoof-icon-1795685934.png",
+    "iconText": "LS",
+    "longDescription": "https://github.com/ezzuldinSt/LSpoof",
+    "showBannerSileo": false,
+    "tagline": "Per-app location simulation"
+  },
+  {
     "id": "com.mae.jbbypass",
     "name": "MAE JB Bypass",
     "version": "2.0",
