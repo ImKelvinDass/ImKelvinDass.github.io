@@ -1,5 +1,16 @@
 [
  {
+  "date": "2026-11-27T00:00:00+00:00",
+  "id": "com.kelvin.glucosepro",
+  "name": "Glucose Pro",
+  "version": "1.0",
+  "notes": "V3.20.0",
+  "appVersion": "Version 3.20.0",
+  "section": "IAP",
+  "icon": "assets/package-icons/com-kelvin-glucosepro-icon-1795784102.png",
+  "first": true
+ },
+ {
   "date": "2026-11-26T00:00:00+00:00",
   "id": "com.kelvin.lspoof",
   "name": "LSpoof",

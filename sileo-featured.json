@@ -43,6 +43,14 @@
     },
     {
       "class": "FeaturedPackageView",
+      "package": "com.kelvin.glucosepro",
+      "packageName": "Glucose Pro",
+      "packageIcon": "https://imkelvindass.github.io/assets/package-icons/com-kelvin-glucosepro-icon-1795784102.png",
+      "packageAuthor": "Version 3.20.0",
+      "repoName": "KiLlErZoN3"
+    },
+    {
+      "class": "FeaturedPackageView",
       "package": "com.kelvin.lspoof",
       "packageName": "LSpoof",
       "packageIcon": "https://imkelvindass.github.io/assets/package-icons/com-kelvin-lspoof-icon-1795685934.png",
@@ -95,14 +103,6 @@
       "packageName": "Glance Reborn",
       "packageIcon": "https://imkelvindass.github.io/assets/package-icons/com-kelvin-glancereborn-icon-1792418922.png",
       "packageAuthor": "Beautiful Lockscreen Notifications",
-      "repoName": "KiLlErZoN3"
-    },
-    {
-      "class": "FeaturedPackageView",
-      "package": "com.kelvindass.irakyatjbbypass",
-      "packageName": "iRakyat JB Bypass",
-      "packageIcon": "https://imkelvindass.github.io/assets/package-icons/com-kelvindass-irakyatjbbypass-icon-1794633186.png",
-      "packageAuthor": "iRakyat V2.5.8 ",
       "repoName": "KiLlErZoN3"
     }
   ]

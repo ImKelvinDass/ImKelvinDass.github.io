@@ -757,6 +757,37 @@
     "tagline": "Beautiful Lockscreen Notifications"
   },
   {
+    "id": "com.kelvin.glucosepro",
+    "name": "Glucose Pro",
+    "version": "1.0",
+    "architecture": "iphoneos-arm64",
+    "author": "KiLlErZoN3",
+    "section": "IAP",
+    "depends": "firmware (>= 15.0), ellekit",
+    "summary": "Pro Unlocked",
+    "filename": "debs/com.kelvin.glucosepro_1.0_iphoneos-arm64.deb",
+    "size": 10776,
+    "uploadedAt": "2026-11-27T12:52:07.373986+00:00",
+    "appVersion": "Version 3.20.0",
+    "changelog": "V3.20.0",
+    "changelogHistory": [
+      {
+        "date": "27 Nov 2026",
+        "notes": "V3.20.0",
+        "version": "1.0"
+      }
+    ],
+    "compatibility": "IOS 17",
+    "featured": false,
+    "featuredWebsite": false,
+    "iconColor": "#9cff00",
+    "iconImage": "assets/package-icons/com-kelvin-glucosepro-icon-1795784102.png",
+    "iconText": "GL",
+    "longDescription": "Tested and Working",
+    "showBannerSileo": false,
+    "tagline": "Glucose Pro"
+  },
+  {
     "id": "com.gmail.jbbypass",
     "name": "Gmail JB BYPASS",
     "version": "1.0",
@@ -1086,7 +1117,7 @@
     "depends": "firmware (>= 16.0), mobilesubstrate",
     "summary": "Per-app location simulation",
     "filename": "debs/com.kelvin.lspoof_1.5.1_iphoneos-arm64.deb",
-    "size": 644388,
+    "size": 672892,
     "uploadedAt": "2026-11-26T09:38:43.425233+00:00",
     "appVersion": "",
     "changelog": "Version 1.5.1 ",

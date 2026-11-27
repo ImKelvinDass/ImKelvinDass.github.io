@@ -466,6 +466,24 @@ Size: 297496
 MD5sum: 448f78dba59a56174eea7a36474d5c9e
 SHA256: 7467991fb468aa44fe75bd764ce4d9aaadc17f69953e9796ed7bd964ba86b3fb
 
+Package: com.kelvin.glucosepro
+Name: Glucose Pro
+Version: 1.0
+Architecture: iphoneos-arm64
+Section: IAP
+Author: KiLlErZoN3
+Maintainer: Kelvin
+Depends: firmware (>= 15.0), ellekit
+Description: Pro Unlocked · Version 3.20.0
+Installed-Size: 148
+Depiction: https://imkelvindass.github.io/package.html?id=com.kelvin.glucosepro
+SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvin.glucosepro.json
+Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-glucosepro-icon-1795784102.png
+Filename: debs/com.kelvin.glucosepro_1.0_iphoneos-arm64.deb
+Size: 10776
+MD5sum: 91b23b9327061e72b7c4b31d00420a34
+SHA256: 46a4e806aff46645103a6744e14303b3e1b787a503219a474784618af3dcb6b5
+
 Package: com.kelvin.logtenpro
 Name: LogTen Pro
 Version: 1.0
@@ -494,14 +512,14 @@ Maintainer: Kelvin
 Depends: firmware (>= 16.0), mobilesubstrate
 Description: Per-app location simulation
 Homepage: https://github.com/ezzuldinSt/LSpoof
-Installed-Size: 2804
+Installed-Size: 3044
 Depiction: https://imkelvindass.github.io/package.html?id=com.kelvin.lspoof
 SileoDepiction: https://imkelvindass.github.io/depictions/com.kelvin.lspoof.json
 Icon: https://imkelvindass.github.io/assets/package-icons/com-kelvin-lspoof-icon-1795685934.png
 Filename: debs/com.kelvin.lspoof_1.5.1_iphoneos-arm64.deb
-Size: 644388
-MD5sum: 56e99d5f89f0d0eccc28a6cfc0a281c4
-SHA256: 5f9a775d03a46b6ac8ed6a22bc64ba13c0139ad25d9ba5142f1e51d3bf94c2e9
+Size: 672892
+MD5sum: 634332a36c58041080dca1ec56268dbc
+SHA256: ca58d36d7253b2fe4495f4e04882f57fc602aa0893f92343fd7d79406818027a
 
 Package: com.kelvin.manutdpro
 Name: Man Utd Pro
